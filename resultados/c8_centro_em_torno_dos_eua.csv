@@ -1,0 +1,19 @@
+evento,janela_dias,campo,votacoes_antes,votacoes_depois,antes_pct,depois_pct,dif_pontos,erro_padrao_pontos
+tarifa de 50% anunciada (09/jul/2025),60,centro,61,50,68.7,56.7,-12.0,5.7
+tarifa de 50% anunciada (09/jul/2025),60,PL e Novo,61,50,12.0,16.5,4.5,4.1
+tarifa de 50% anunciada (09/jul/2025),60,esquerda,61,50,96.5,89.8,-6.6,2.8
+tarifa de 50% anunciada (09/jul/2025),120,centro,97,121,71.8,59.7,-12.2,3.5
+tarifa de 50% anunciada (09/jul/2025),120,PL e Novo,97,121,13.8,14.4,0.7,2.6
+tarifa de 50% anunciada (09/jul/2025),120,esquerda,97,121,97.1,92.7,-4.4,1.4
+sancao a Moraes (30/jul/2025),60,centro,56,46,54.1,72.8,18.6,5.5
+sancao a Moraes (30/jul/2025),60,PL e Novo,56,46,11.7,16.7,5.0,4.2
+sancao a Moraes (30/jul/2025),60,esquerda,56,46,91.6,95.5,3.9,2.8
+sancao a Moraes (30/jul/2025),120,centro,115,110,64.2,60.8,-3.3,3.9
+sancao a Moraes (30/jul/2025),120,PL e Novo,115,110,12.7,14.7,2.0,2.6
+sancao a Moraes (30/jul/2025),120,esquerda,115,110,95.0,93.1,-1.9,1.6
+tarifa de 25% em vigor (22/jul/2026),60,centro,10,6,40.8,74.4,33.6,18.2
+tarifa de 25% em vigor (22/jul/2026),60,PL e Novo,10,6,11.7,25.0,13.3,14.4
+tarifa de 25% em vigor (22/jul/2026),60,esquerda,10,6,87.2,89.7,2.5,11.5
+tarifa de 25% em vigor (22/jul/2026),120,centro,32,7,56.0,67.5,11.5,15.0
+tarifa de 25% em vigor (22/jul/2026),120,PL e Novo,32,7,10.6,22.1,11.5,10.2
+tarifa de 25% em vigor (22/jul/2026),120,esquerda,32,7,94.1,90.9,-3.2,6.3

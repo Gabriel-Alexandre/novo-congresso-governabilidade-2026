@@ -1,0 +1,264 @@
+{
+ "camara_contra_257_pct": 15.5,
+ "camara_contra_257_real_pct": 13.3,
+ "camara_com_abaixo_172_pct": 16.2,
+ "camara_com_abaixo_172_n": 110,
+ "camara_contra_342_n": 14,
+ "camara_contra_342_real_n": 13,
+ "camara_n": 678,
+ "senado_contra_41_real_pct": 22.9,
+ "senado_contra_41_2027_pct": 20.5,
+ "senado_com_41_real_pct": 47.0,
+ "senado_com_41_2027_pct": 6.0,
+ "senado_com_27_real_pct": 71.1,
+ "senado_com_27_2027_pct": 50.6,
+ "eventos_eua": [
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 60,
+   "campo": "centro",
+   "votacoes_antes": 61,
+   "votacoes_depois": 50,
+   "antes_pct": 68.7,
+   "depois_pct": 56.7,
+   "dif_pontos": -12.0,
+   "erro_padrao_pontos": 5.7
+  },
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 60,
+   "campo": "PL e Novo",
+   "votacoes_antes": 61,
+   "votacoes_depois": 50,
+   "antes_pct": 12.0,
+   "depois_pct": 16.5,
+   "dif_pontos": 4.5,
+   "erro_padrao_pontos": 4.1
+  },
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 60,
+   "campo": "esquerda",
+   "votacoes_antes": 61,
+   "votacoes_depois": 50,
+   "antes_pct": 96.5,
+   "depois_pct": 89.8,
+   "dif_pontos": -6.6,
+   "erro_padrao_pontos": 2.8
+  },
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 120,
+   "campo": "centro",
+   "votacoes_antes": 97,
+   "votacoes_depois": 121,
+   "antes_pct": 71.8,
+   "depois_pct": 59.7,
+   "dif_pontos": -12.2,
+   "erro_padrao_pontos": 3.5
+  },
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 120,
+   "campo": "PL e Novo",
+   "votacoes_antes": 97,
+   "votacoes_depois": 121,
+   "antes_pct": 13.8,
+   "depois_pct": 14.4,
+   "dif_pontos": 0.7,
+   "erro_padrao_pontos": 2.6
+  },
+  {
+   "evento": "tarifa de 50% anunciada (09/jul/2025)",
+   "janela_dias": 120,
+   "campo": "esquerda",
+   "votacoes_antes": 97,
+   "votacoes_depois": 121,
+   "antes_pct": 97.1,
+   "depois_pct": 92.7,
+   "dif_pontos": -4.4,
+   "erro_padrao_pontos": 1.4
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 60,
+   "campo": "centro",
+   "votacoes_antes": 56,
+   "votacoes_depois": 46,
+   "antes_pct": 54.1,
+   "depois_pct": 72.8,
+   "dif_pontos": 18.6,
+   "erro_padrao_pontos": 5.5
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 60,
+   "campo": "PL e Novo",
+   "votacoes_antes": 56,
+   "votacoes_depois": 46,
+   "antes_pct": 11.7,
+   "depois_pct": 16.7,
+   "dif_pontos": 5.0,
+   "erro_padrao_pontos": 4.2
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 60,
+   "campo": "esquerda",
+   "votacoes_antes": 56,
+   "votacoes_depois": 46,
+   "antes_pct": 91.6,
+   "depois_pct": 95.5,
+   "dif_pontos": 3.9,
+   "erro_padrao_pontos": 2.8
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 120,
+   "campo": "centro",
+   "votacoes_antes": 115,
+   "votacoes_depois": 110,
+   "antes_pct": 64.2,
+   "depois_pct": 60.8,
+   "dif_pontos": -3.3,
+   "erro_padrao_pontos": 3.9
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 120,
+   "campo": "PL e Novo",
+   "votacoes_antes": 115,
+   "votacoes_depois": 110,
+   "antes_pct": 12.7,
+   "depois_pct": 14.7,
+   "dif_pontos": 2.0,
+   "erro_padrao_pontos": 2.6
+  },
+  {
+   "evento": "sancao a Moraes (30/jul/2025)",
+   "janela_dias": 120,
+   "campo": "esquerda",
+   "votacoes_antes": 115,
+   "votacoes_depois": 110,
+   "antes_pct": 95.0,
+   "depois_pct": 93.1,
+   "dif_pontos": -1.9,
+   "erro_padrao_pontos": 1.6
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 60,
+   "campo": "centro",
+   "votacoes_antes": 10,
+   "votacoes_depois": 6,
+   "antes_pct": 40.8,
+   "depois_pct": 74.4,
+   "dif_pontos": 33.6,
+   "erro_padrao_pontos": 18.2
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 60,
+   "campo": "PL e Novo",
+   "votacoes_antes": 10,
+   "votacoes_depois": 6,
+   "antes_pct": 11.7,
+   "depois_pct": 25.0,
+   "dif_pontos": 13.3,
+   "erro_padrao_pontos": 14.4
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 60,
+   "campo": "esquerda",
+   "votacoes_antes": 10,
+   "votacoes_depois": 6,
+   "antes_pct": 87.2,
+   "depois_pct": 89.7,
+   "dif_pontos": 2.5,
+   "erro_padrao_pontos": 11.5
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 120,
+   "campo": "centro",
+   "votacoes_antes": 32,
+   "votacoes_depois": 7,
+   "antes_pct": 56.0,
+   "depois_pct": 67.5,
+   "dif_pontos": 11.5,
+   "erro_padrao_pontos": 15.0
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 120,
+   "campo": "PL e Novo",
+   "votacoes_antes": 32,
+   "votacoes_depois": 7,
+   "antes_pct": 10.6,
+   "depois_pct": 22.1,
+   "dif_pontos": 11.5,
+   "erro_padrao_pontos": 10.2
+  },
+  {
+   "evento": "tarifa de 25% em vigor (22/jul/2026)",
+   "janela_dias": 120,
+   "campo": "esquerda",
+   "votacoes_antes": 32,
+   "votacoes_depois": 7,
+   "antes_pct": 94.1,
+   "depois_pct": 90.9,
+   "dif_pontos": -3.2,
+   "erro_padrao_pontos": 6.3
+  }
+ ],
+ "dilma_2015": {
+  "votacoes": 201.0,
+  "disputadas": 149.0,
+  "vitoria_todas": 78.1,
+  "vitoria_disputadas": 71.1,
+  "mediana_com_gov": 228.0,
+  "p10_com_gov": 154.4,
+  "presidente": "Dilma II"
+ },
+ "lula_2025": {
+  "votacoes": 316.0,
+  "disputadas": 264.0,
+  "vitoria_todas": 81.0,
+  "vitoria_disputadas": 77.3,
+  "mediana_com_gov": 269.0,
+  "p10_com_gov": 112.3,
+  "presidente": "Lula III"
+ },
+ "primeiro_ano": {
+  "2003": 100.0,
+  "2007": 93.3,
+  "2011": 92.7,
+  "2015": 71.1,
+  "2019": 88.3,
+  "2023": 88.3
+ },
+ "primeiro_ano_media": 89.0,
+ "queda_no_mandato": {
+  "Lula I": [
+   100.0,
+   77.8
+  ],
+  "Lula II": [
+   93.3,
+   85.0
+  ],
+  "Dilma I": [
+   92.7,
+   54.2
+  ],
+  "Bolsonaro": [
+   88.3,
+   94.1
+  ],
+  "Lula III": [
+   88.3,
+   79.2
+  ]
+ }
+}

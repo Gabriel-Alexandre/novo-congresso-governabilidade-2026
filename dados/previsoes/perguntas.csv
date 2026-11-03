@@ -1,0 +1,27 @@
+id,pergunta,prazo,resolve_sim_se
+P01,Hugo Motta é reeleito presidente da Câmara,2027-02-01,resultado oficial da Câmara
+P02,Davi Alcolumbre é reeleito presidente do Senado,2027-02-01,resultado oficial do Senado
+P03,O PL faz parte do bloco de Motta na eleição da Mesa da Câmara,2027-02-01,registro oficial do bloco ou duas agências
+P04,PSD e MDB somam pelo menos 4 ministérios,2027-04-30,ministros filiados ou indicados pelos partidos segundo duas agências
+P05,União ou PP têm pelo menos 1 ministro no governo por decisão formal do partido,2027-04-30,nota do partido ou duas agências
+P06,Um novo indicado de Lula ao STF é aprovado pelo Senado,2027-12-31,resultado oficial do plenário do Senado
+P07,O Senado rejeita mais uma indicação de Lula ao STF,2027-12-31,resultado oficial do plenário do Senado
+P08,O governo vence pelo menos 75% das votações nominais disputadas da Câmara em 2027,2027-12-31,mesmo script deste repositório aplicado aos dados de 2027
+P09,O governo vence pelo menos 85% das votações nominais disputadas da Câmara em 2027,2027-12-31,mesmo script deste repositório aplicado aos dados de 2027
+P10,O governo (posição da bancada do PT) vence pelo menos 50% das votações nominais disputadas do Senado em 2027,2027-12-31,mesmo script deste repositório aplicado aos dados de 2027
+P11,O Congresso derruba pelo menos 5 vetos (total ou parcial) de Lula em 2027,2027-12-31,dados do Congresso Nacional
+P12,Pelo menos 30% das MPs editadas em 2027 viram lei,2028-06-30,dados do Congresso Nacional
+P13,A PEC da tarifa zero é promulgada,2027-12-31,publicação no Diário Oficial
+P14,Lei ou emenda de anistia que alcance Jair Bolsonaro é aprovada pelas 2 Casas,2027-12-31,resultado oficial das 2 Casas
+P15,O presidente do Senado recebe e dá andamento a pedido de impeachment de ministro do STF,2027-12-31,despacho oficial do presidente do Senado
+P16,Ministro do STF é condenado ou afastado por impeachment,2027-12-31,resultado oficial do Senado
+P17,O presidente da Câmara recebe denúncia de crime de responsabilidade contra Lula,2027-12-31,despacho oficial do presidente da Câmara
+P18,A Câmara autoriza processo contra Lula por 342 votos ou mais,2027-12-31,resultado oficial da Câmara
+P19,Lula deixa a Presidência antes do fim do mandato por impeachment,2030-12-31,resultado oficial
+P20,O Datafolha registra aprovação ótimo ou bom de Lula abaixo de 25% em alguma pesquisa,2027-12-31,pesquisa publicada do Datafolha
+P21,A lei do Orçamento de 2027 é sancionada,2027-03-31,publicação no Diário Oficial
+P22,O Congresso aprova mudança na meta fiscal de 2027 para um resultado pior que o da LDO original,2027-12-31,lei publicada
+P23,É instalada CPI ou CPMI cujo objeto principal mire o governo federal,2027-12-31,ato oficial de instalação
+P24,Os EUA enviam representante à posse de Lula em 05/01/2027,2027-01-05,duas agências
+P25,Os EUA aplicam nova sanção nominal a autoridade brasileira,2027-12-31,publicação da OFAC ou do Departamento de Estado
+P26,Reforma administrativa é aprovada na Câmara,2027-12-31,resultado oficial
