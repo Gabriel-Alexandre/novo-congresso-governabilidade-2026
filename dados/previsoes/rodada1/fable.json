@@ -1,0 +1,142 @@
+{
+  "modelo": "fable",
+  "perguntas": {
+    "P01": {
+      "p": 90,
+      "taxa_base": "presidente da Câmara com bloco majoritário declarado quase sempre vence",
+      "razao": "Apoio de cerca de 361 cadeiras com PT; PL tende a entrar para não perder comissões; voto secreto tira pouco."
+    },
+    "P02": {
+      "p": 80,
+      "taxa_base": "presidente do Senado com maioria declarada costuma ser reeleito",
+      "razao": "Diz ter 48 de 81; União-PP já foi; PL com 28 lança Marinho, mas falta aliança além da direita."
+    },
+    "P03": {
+      "p": 72,
+      "taxa_base": "maior partido raramente fica fora do bloco vencedor da Mesa",
+      "razao": "Dossiê: tende a apoiar para garantir comissões; o risco é a CCJ para Nikolas virar impasse."
+    },
+    "P04": {
+      "p": 75,
+      "taxa_base": "PSD e MDB tiveram 3 ministérios cada em Lula III",
+      "razao": "Kassab mantém filiados; MDB rachado mas com 10 diretórios com Lula; 4 somados exige pouco."
+    },
+    "P05": {
+      "p": 35,
+      "taxa_base": "em 2023 União teve ministérios sem decisão formal do partido",
+      "razao": "Federação União-PP foi com Alcolumbre e perfil de oposição; decisão formal é a barra alta."
+    },
+    "P06": {
+      "p": 60,
+      "taxa_base": "aprovação quase universal na história, mas 2026 rejeitou Messias",
+      "razao": "Vaga de Barroso aberta; nome de Alcolumbre (Pacheco) passaria; Lula pode adiar ou insistir em nome difícil."
+    },
+    "P07": {
+      "p": 15,
+      "taxa_base": "2 rejeições em 132 anos; 1 em 2026",
+      "razao": "Rejeição recente mostra que o Senado faz; mas Lula tende a só mandar nome negociado."
+    },
+    "P08": {
+      "p": 62,
+      "taxa_base": "1º ano de mandato: só 2015 ficou abaixo de 75 em 6 casos",
+      "razao": "Simulação com a Câmara nova dá 76,5 a 88,3 por ano; lua de mel ajuda; centro se afastando 30% dá 71."
+    },
+    "P09": {
+      "p": 30,
+      "taxa_base": "1º ano acima de 85 em 5 de 6 casos, mas composição é a mais hostil",
+      "razao": "Com o padrão de 2026 dá 79,2; só o padrão de 2023 passa de 85; erro do método 3 a 5 pontos."
+    },
+    "P10": {
+      "p": 42,
+      "taxa_base": "Senado costuma ser favorável ao governo (66,3% real em Lula III)",
+      "razao": "Simulação dá 37,3% (33,7 a 47,0), amostra pequena e metade sem histórico; Alcolumbre reeleito modera."
+    },
+    "P11": {
+      "p": 85,
+      "taxa_base": "Lula III 46 de 205; Bolsonaro 114 de 259",
+      "razao": "Congresso mais à direita que em 2023 e já derrubou vetos em bloco; 5 é piso baixo."
+    },
+    "P12": {
+      "p": 35,
+      "taxa_base": "Lula III 22,4%; Temer e Bolsonaro 53 a 58",
+      "razao": "Rito e Congresso hostil mantêm caducidade alta; parte vira PL; 30% exige melhora moderada."
+    },
+    "P13": {
+      "p": 20,
+      "taxa_base": "PEC de iniciativa do governo com custo fiscal raramente passa em 1 ano",
+      "razao": "Tira R$ 12 bi de emendas obrigatórias; Motta quer preservar emendas; 308 e 49 difíceis."
+    },
+    "P14": {
+      "p": 30,
+      "taxa_base": "anistia ampla a condenado por golpe sem precedente; dosimetria passou",
+      "razao": "Direita tem 265 e 48, mas Alcolumbre usa anistia como moeda e parte do centro foge do nome Bolsonaro."
+    },
+    "P15": {
+      "p": 20,
+      "taxa_base": "nenhum pedido contra ministro do STF avançou na história",
+      "razao": "Alcolumbre rejeita; só com Marinho (cerca de 20%) o andamento fica provável."
+    },
+    "P16": {
+      "p": 3,
+      "taxa_base": "zero impeachments de ministro do STF na história",
+      "razao": "Precisa de 54 e de liminar derrubada; PL conta 49 na melhor hipótese."
+    },
+    "P17": {
+      "p": 8,
+      "taxa_base": "cerca de 5,5% ao ano de processo aberto desde 1990",
+      "razao": "Motta depende do PT para a Mesa; Cunha foi exceção; sem pedido novo com autor até 30/out."
+    },
+    "P18": {
+      "p": 3,
+      "taxa_base": "342 só em 2 presidentes em 36 anos, com aprovação abaixo de 15",
+      "razao": "Oposição chega a 342 em 2% das votações simuladas; Lula aprova em 48 e tem escudo de 172."
+    },
+    "P19": {
+      "p": 10,
+      "taxa_base": "5,5% ao ano em 4 anos, menos escudo de bancada",
+      "razao": "Risco fiscal e rua podem crescer, mas PT e aliados passam de 172 e o Senado é dele."
+    },
+    "P20": {
+      "p": 30,
+      "taxa_base": "Datafolha de Lula chegou a 24 em fev/2025",
+      "razao": "Começa em 35 com lua de mel; déficit, Selic 13,75 e bolsa em queda podem derrubar no 2º semestre."
+    },
+    "P21": {
+      "p": 60,
+      "taxa_base": "em anos pós-eleição a LOA saiu até março em 4 de 5 casos",
+      "razao": "Congresso velho vota em dezembro; disputa por emendas e tarifa zero podem atrasar como em 2015."
+    },
+    "P22": {
+      "p": 50,
+      "taxa_base": "meta mudada em 2014 a 2017 e em 2023",
+      "razao": "IFI projeta déficit de R$ 86 bi; Lula chama superávit de babaquice; Congresso pode preferir sacrificar a meta."
+    },
+    "P23": {
+      "p": 65,
+      "taxa_base": "CPI ou CPMI contra o governo quase todo ano (INSS 2025, MST 2023)",
+      "razao": "Oposição com 143 e assinaturas sobram; freio é a Mesa de Motta e Alcolumbre."
+    },
+    "P24": {
+      "p": 40,
+      "taxa_base": "EUA mandam delegação a toda posse brasileira",
+      "razao": "Trump não reconheceu e chama de fraude; mas qualquer representante resolve sim e o embaixador existe."
+    },
+    "P25": {
+      "p": 22,
+      "taxa_base": "outro projeto deu 14,5% até jun/2027",
+      "razao": "Ano inteiro sobe; Moraes saiu da lista; Trump diz que não vai se envolver."
+    },
+    "P26": {
+      "p": 30,
+      "taxa_base": "PEC de reforma administrativa nunca passou no plenário em 7 anos",
+      "razao": "Motta a patrocina e o centro-direita gosta; governo e PT resistem; 308 votos."
+    }
+  },
+  "cenarios": {
+    "C1": 46,
+    "C2": 20,
+    "C3": 25,
+    "C4": 9
+  },
+  "o_que_mudaria": "Marinho vencendo o Senado, Datafolha abaixo de 25 com rua, ou PL fora do bloco de Motta subiriam C3 e C4; Pacheco aprovado e vitória acima de 85 no 1º semestre subiriam C2."
+}

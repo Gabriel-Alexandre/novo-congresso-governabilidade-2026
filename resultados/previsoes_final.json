@@ -1,0 +1,545 @@
+{
+ "modelos": [
+  "fable",
+  "haiku",
+  "opus",
+  "sonnet"
+ ],
+ "perguntas": [
+  {
+   "id": "P01",
+   "pergunta": "Hugo Motta é reeleito presidente da Câmara",
+   "prazo": "2027-02-01",
+   "resolve_sim_se": "resultado oficial da Câmara",
+   "mediana": 89.0,
+   "menor": 85,
+   "maior": 90,
+   "faixa": "muito provável",
+   "por_modelo": {
+    "fable": 90,
+    "haiku": 85,
+    "opus": 90,
+    "sonnet": 88
+   }
+  },
+  {
+   "id": "P02",
+   "pergunta": "Davi Alcolumbre é reeleito presidente do Senado",
+   "prazo": "2027-02-01",
+   "resolve_sim_se": "resultado oficial do Senado",
+   "mediana": 79.0,
+   "menor": 72,
+   "maior": 80,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 80,
+    "haiku": 72,
+    "opus": 78,
+    "sonnet": 80
+   }
+  },
+  {
+   "id": "P03",
+   "pergunta": "O PL faz parte do bloco de Motta na eleição da Mesa da Câmara",
+   "prazo": "2027-02-01",
+   "resolve_sim_se": "registro oficial do bloco ou duas agências",
+   "mediana": 67.5,
+   "menor": 58,
+   "maior": 72,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 72,
+    "haiku": 58,
+    "opus": 70,
+    "sonnet": 65
+   }
+  },
+  {
+   "id": "P04",
+   "pergunta": "PSD e MDB somam pelo menos 4 ministérios",
+   "prazo": "2027-04-30",
+   "resolve_sim_se": "ministros filiados ou indicados pelos partidos segundo duas agências",
+   "mediana": 61.0,
+   "menor": 48,
+   "maior": 75,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 75,
+    "haiku": 48,
+    "opus": 72,
+    "sonnet": 50
+   }
+  },
+  {
+   "id": "P05",
+   "pergunta": "União ou PP têm pelo menos 1 ministro no governo por decisão formal do partido",
+   "prazo": "2027-04-30",
+   "resolve_sim_se": "nota do partido ou duas agências",
+   "mediana": 20.0,
+   "menor": 15,
+   "maior": 35,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 35,
+    "haiku": 22,
+    "opus": 15,
+    "sonnet": 18
+   }
+  },
+  {
+   "id": "P06",
+   "pergunta": "Um novo indicado de Lula ao STF é aprovado pelo Senado",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial do plenário do Senado",
+   "mediana": 52.5,
+   "menor": 45,
+   "maior": 68,
+   "faixa": "chance parecida",
+   "por_modelo": {
+    "fable": 60,
+    "haiku": 45,
+    "opus": 68,
+    "sonnet": 45
+   }
+  },
+  {
+   "id": "P07",
+   "pergunta": "O Senado rejeita mais uma indicação de Lula ao STF",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial do plenário do Senado",
+   "mediana": 11.0,
+   "menor": 6,
+   "maior": 15,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 15,
+    "haiku": 13,
+    "opus": 9,
+    "sonnet": 6
+   }
+  },
+  {
+   "id": "P08",
+   "pergunta": "O governo vence pelo menos 75% das votações nominais disputadas da Câmara em 2027",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "mesmo script deste repositório aplicado aos dados de 2027",
+   "mediana": 68.0,
+   "menor": 62,
+   "maior": 78,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 62,
+    "haiku": 78,
+    "opus": 74,
+    "sonnet": 62
+   }
+  },
+  {
+   "id": "P09",
+   "pergunta": "O governo vence pelo menos 85% das votações nominais disputadas da Câmara em 2027",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "mesmo script deste repositório aplicado aos dados de 2027",
+   "mediana": 23.5,
+   "menor": 20,
+   "maior": 30,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 25,
+    "opus": 22,
+    "sonnet": 20
+   }
+  },
+  {
+   "id": "P10",
+   "pergunta": "O governo (posição da bancada do PT) vence pelo menos 50% das votações nominais disputadas do Senado em 2027",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "mesmo script deste repositório aplicado aos dados de 2027",
+   "mediana": 32.0,
+   "menor": 30,
+   "maior": 42,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 42,
+    "haiku": 30,
+    "opus": 34,
+    "sonnet": 30
+   }
+  },
+  {
+   "id": "P11",
+   "pergunta": "O Congresso derruba pelo menos 5 vetos (total ou parcial) de Lula em 2027",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "dados do Congresso Nacional",
+   "mediana": 82.0,
+   "menor": 78,
+   "maior": 85,
+   "faixa": "muito provável",
+   "por_modelo": {
+    "fable": 85,
+    "haiku": 82,
+    "opus": 78,
+    "sonnet": 82
+   }
+  },
+  {
+   "id": "P12",
+   "pergunta": "Pelo menos 30% das MPs editadas em 2027 viram lei",
+   "prazo": "2028-06-30",
+   "resolve_sim_se": "dados do Congresso Nacional",
+   "mediana": 32.5,
+   "menor": 25,
+   "maior": 35,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 35,
+    "haiku": 33,
+    "opus": 25,
+    "sonnet": 32
+   }
+  },
+  {
+   "id": "P13",
+   "pergunta": "A PEC da tarifa zero é promulgada",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "publicação no Diário Oficial",
+   "mediana": 17.0,
+   "menor": 9,
+   "maior": 20,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 20,
+    "haiku": 9,
+    "opus": 17,
+    "sonnet": 17
+   }
+  },
+  {
+   "id": "P14",
+   "pergunta": "Lei ou emenda de anistia que alcance Jair Bolsonaro é aprovada pelas 2 Casas",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial das 2 Casas",
+   "mediana": 24.5,
+   "menor": 22,
+   "maior": 30,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 22,
+    "opus": 24,
+    "sonnet": 25
+   }
+  },
+  {
+   "id": "P15",
+   "pergunta": "O presidente do Senado recebe e dá andamento a pedido de impeachment de ministro do STF",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "despacho oficial do presidente do Senado",
+   "mediana": 14.0,
+   "menor": 12,
+   "maior": 20,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 20,
+    "haiku": 15,
+    "opus": 13,
+    "sonnet": 12
+   }
+  },
+  {
+   "id": "P16",
+   "pergunta": "Ministro do STF é condenado ou afastado por impeachment",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial do Senado",
+   "mediana": 2.0,
+   "menor": 1,
+   "maior": 3,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 3,
+    "haiku": 1,
+    "opus": 2,
+    "sonnet": 2
+   }
+  },
+  {
+   "id": "P17",
+   "pergunta": "O presidente da Câmara recebe denúncia de crime de responsabilidade contra Lula",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "despacho oficial do presidente da Câmara",
+   "mediana": 6.0,
+   "menor": 4,
+   "maior": 8,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 8,
+    "haiku": 5,
+    "opus": 4,
+    "sonnet": 7
+   }
+  },
+  {
+   "id": "P18",
+   "pergunta": "A Câmara autoriza processo contra Lula por 342 votos ou mais",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial da Câmara",
+   "mediana": 2.0,
+   "menor": 1,
+   "maior": 3,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 3,
+    "haiku": 2,
+    "opus": 1,
+    "sonnet": 2
+   }
+  },
+  {
+   "id": "P19",
+   "pergunta": "Lula deixa a Presidência antes do fim do mandato por impeachment",
+   "prazo": "2030-12-31",
+   "resolve_sim_se": "resultado oficial",
+   "mediana": 5.5,
+   "menor": 2,
+   "maior": 10,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 10,
+    "haiku": 2,
+    "opus": 5,
+    "sonnet": 6
+   }
+  },
+  {
+   "id": "P20",
+   "pergunta": "O Datafolha registra aprovação ótimo ou bom de Lula abaixo de 25% em alguma pesquisa",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "pesquisa publicada do Datafolha",
+   "mediana": 19.0,
+   "menor": 12,
+   "maior": 30,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 18,
+    "opus": 12,
+    "sonnet": 20
+   }
+  },
+  {
+   "id": "P21",
+   "pergunta": "A lei do Orçamento de 2027 é sancionada",
+   "prazo": "2027-03-31",
+   "resolve_sim_se": "publicação no Diário Oficial",
+   "mediana": 66.0,
+   "menor": 58,
+   "maior": 78,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 60,
+    "haiku": 58,
+    "opus": 72,
+    "sonnet": 78
+   }
+  },
+  {
+   "id": "P22",
+   "pergunta": "O Congresso aprova mudança na meta fiscal de 2027 para um resultado pior que o da LDO original",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "lei publicada",
+   "mediana": 34.0,
+   "menor": 25,
+   "maior": 50,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 50,
+    "haiku": 33,
+    "opus": 25,
+    "sonnet": 35
+   }
+  },
+  {
+   "id": "P23",
+   "pergunta": "É instalada CPI ou CPMI cujo objeto principal mire o governo federal",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "ato oficial de instalação",
+   "mediana": 51.5,
+   "menor": 25,
+   "maior": 65,
+   "faixa": "chance parecida",
+   "por_modelo": {
+    "fable": 65,
+    "haiku": 58,
+    "opus": 45,
+    "sonnet": 25
+   }
+  },
+  {
+   "id": "P24",
+   "pergunta": "Os EUA enviam representante à posse de Lula em 05/01/2027",
+   "prazo": "2027-01-05",
+   "resolve_sim_se": "duas agências",
+   "mediana": 42.5,
+   "menor": 30,
+   "maior": 65,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 40,
+    "haiku": 45,
+    "opus": 65,
+    "sonnet": 30
+   }
+  },
+  {
+   "id": "P25",
+   "pergunta": "Os EUA aplicam nova sanção nominal a autoridade brasileira",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "publicação da OFAC ou do Departamento de Estado",
+   "mediana": 20.0,
+   "menor": 13,
+   "maior": 22,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 22,
+    "haiku": 13,
+    "opus": 20,
+    "sonnet": 20
+   }
+  },
+  {
+   "id": "P26",
+   "pergunta": "Reforma administrativa é aprovada na Câmara",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "resultado oficial",
+   "mediana": 22.5,
+   "menor": 8,
+   "maior": 30,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 8,
+    "opus": 17,
+    "sonnet": 28
+   }
+  }
+ ],
+ "cenarios": [
+  {
+   "id": "C4",
+   "ordem": "1",
+   "cenario": "A ruptura",
+   "descricao": "Processo de impeachment contra Lula aberto ou saída dele do cargo",
+   "regra_de_resolucao_em_31_12_2027": "o presidente da Câmara recebeu denúncia contra Lula ou Lula deixou o cargo",
+   "mediana": 8.0,
+   "menor": 6,
+   "maior": 9,
+   "por_modelo": {
+    "fable": 9,
+    "haiku": 6,
+    "opus": 8,
+    "sonnet": 8
+   },
+   "normalizado": 7.9
+  },
+  {
+   "id": "C3",
+   "ordem": "2",
+   "cenario": "A trava",
+   "descricao": "Sem processo; o Congresso toca a própria pauta e o governo perde parte grande das disputas",
+   "regra_de_resolucao_em_31_12_2027": "não é C4 e o governo venceu menos de 70% das votações disputadas da Câmara em 2027",
+   "mediana": 15.5,
+   "menor": 5,
+   "maior": 25,
+   "por_modelo": {
+    "fable": 25,
+    "haiku": 5,
+    "opus": 11,
+    "sonnet": 20
+   },
+   "normalizado": 15.3
+  },
+  {
+   "id": "C2",
+   "ordem": "3",
+   "cenario": "A folga",
+   "descricao": "O governo repete a lua de mel: ganha quase tudo e aprova o que precisa de muitos votos",
+   "regra_de_resolucao_em_31_12_2027": "não é C4 nem C3; venceu pelo menos 85% na Câmara e aprovou um indicado ao STF ou uma PEC de iniciativa do governo",
+   "mediana": 15.0,
+   "menor": 12,
+   "maior": 20,
+   "por_modelo": {
+    "fable": 20,
+    "haiku": 14,
+    "opus": 16,
+    "sonnet": 12
+   },
+   "normalizado": 14.9
+  },
+  {
+   "id": "C1",
+   "ordem": "4",
+   "cenario": "A negociação caso a caso",
+   "descricao": "Ganha a maior parte das votações pagando caro; perde o que depende do Senado e do centro; sem reforma grande",
+   "regra_de_resolucao_em_31_12_2027": "todos os outros casos",
+   "mediana": 62.5,
+   "menor": 46,
+   "maior": 75,
+   "por_modelo": {
+    "fable": 46,
+    "haiku": 75,
+    "opus": 65,
+    "sonnet": 60
+   },
+   "normalizado": 61.9
+  }
+ ],
+ "coerencia": [
+  {
+   "teste": "P09 <= P08",
+   "passou": true
+  },
+  {
+   "teste": "P18 <= P17",
+   "passou": true
+  },
+  {
+   "teste": "P16 <= P15",
+   "passou": true
+  },
+  {
+   "teste": "C2 <= P09",
+   "passou": true
+  },
+  {
+   "teste": "C4 >= P17",
+   "passou": true
+  },
+  {
+   "teste": "soma cenarios ~100",
+   "passou": true
+  }
+ ],
+ "discordancia_media_pontos": 14.3,
+ "hipoteses": {
+  "inconsistencias": {
+   "H1_folga": {
+    "1a_I": 6,
+    "2a_I": 8
+   },
+   "H2_negocia": {
+    "1a_I": 2,
+    "2a_I": 0
+   },
+   "H3_trava": {
+    "1a_I": 2,
+    "2a_I": 3
+   },
+   "H4_cai": {
+    "1a_I": 8,
+    "2a_I": 5
+   }
+  },
+  "concordancia_pct": 76.4,
+  "n_celulas": 72
+ }
+}

@@ -1,0 +1,33 @@
+{
+  "modelo": "opus",
+  "perguntas": {
+    "P01": {"p": 90, "taxa_base": "presidente da Câmara com ampla coalizão quase sempre vence", "razao": "Partidos com 361 cadeiras, PT incluído, e PL tendendo a aderir; o voto secreto deixa só risco residual."},
+    "P02": {"p": 78, "taxa_base": "presidente do Senado no cargo costuma vencer; Marinho perdeu em 2023", "razao": "Diz ter 48 votos e tem União-PP, mas a direita soma 48, o voto é secreto e o PL lança candidato."},
+    "P03": {"p": 70, "taxa_base": "maiores bancadas tendem a entrar no bloco do favorito pelas comissões", "razao": "PL tende a apoiar para não perder comissões; a decisão de 03/nov e a formalização do bloco ainda podem falhar."},
+    "P04": {"p": 72, "taxa_base": "partidos de centro costumam manter pastas no início do mandato", "razao": "Filiados contam, e Kassab os deixa no governo; Lula precisa do centro, embora condicione cargo a votos e o MDB esteja rachado."},
+    "P05": {"p": 15, "taxa_base": "ministro com aval formal de partido de oposição parcial é raro", "razao": "União-PP foi com Alcolumbre, não com Lula; 3 ministérios em 2023 renderam 45% de apoio; a exigência formal restringe mais."},
+    "P06": {"p": 68, "taxa_base": "quase todas aprovadas; rejeição só em 1894 e 2026", "razao": "A vaga está aberta e um nome como Pacheco passa, mas direita com 48 e o trauma de Messias podem adiar."},
+    "P07": {"p": 9, "taxa_base": "2 rejeições na história, mas a última foi em 2026", "razao": "Depois de Messias, Lula tende a negociar o nome antes; a rejeição exige indicar sem votos contados."},
+    "P08": {"p": 74, "taxa_base": "1º ano de mandato: média 89, mínimo 71,1", "razao": "Teste dá 81,4 com erro de 3 a 5 pontos; a composição nova em 2025 e 2026 ronda 76 a 79."},
+    "P09": {"p": 22, "taxa_base": "5 de 6 primeiros anos passaram de 85", "razao": "Lua de mel ajuda e a pauta é escolhida, mas o centro se afastou e a Câmara é mais à direita."},
+    "P10": {"p": 34, "taxa_base": "66,3% reais; teste com a nova composição dá 37,3", "razao": "Senado muito mais hostil; a pauta se adapta e a amostra é pequena, então o teste provavelmente exagera a queda."},
+    "P11": {"p": 78, "taxa_base": "Lula III: 46 em 205, cerca de 11 por ano", "razao": "Dezenas de vetos em aberto e Congresso mais à direita; a 41 votos no Senado, derrubar fica mais fácil."},
+    "P12": {"p": 25, "taxa_base": "Lula III 22,4%; governos anteriores acima de 50%", "razao": "O padrão recente é caducar ou virar projeto de lei, e Congresso mais hostil não melhora o aproveitamento."},
+    "P13": {"p": 17, "taxa_base": "PEC popular passa fácil, como a 6x1, mas PEC de custo alto demora", "razao": "Motta apoia a gratuidade, mas tira 12 bi em emendas, e o prazo curto e a dificuldade fiscal pesam."},
+    "P14": {"p": 24, "taxa_base": "anistia ampla só com maioria simples; dosimetria passou por 318 e 49", "razao": "Há votos e Alcolumbre discute a troca, mas a Dosimetria já aliviou e o STF ameaça derrubar."},
+    "P15": {"p": 13, "taxa_base": "nenhum pedido contra ministro aberto na história", "razao": "Alcolumbre rejeita abrir; o risco vem de Marinho vencer ou de um choque com o STF, com 109 pedidos na fila."},
+    "P16": {"p": 2, "taxa_base": "zero na história", "razao": "Exige 54 votos, a liminar de 2/3 e passar pelo presidente do Senado dentro do prazo curto."},
+    "P17": {"p": 4, "taxa_base": "cerca de 5,5% ao ano desde 1990", "razao": "Sem pedido novo com autor, Motta com o governo e aprovação de 48; Cunha em 2015 é a exceção."},
+    "P18": {"p": 1, "taxa_base": "2 casos em cerca de 36 anos", "razao": "Exige 342 votos e 172 barram; sem crise econômica grave nem rua, não se chega lá no primeiro ano."},
+    "P19": {"p": 5, "taxa_base": "2 quedas em 9 mandatos eleitos; 23% na América do Sul", "razao": "Prazo maior e Congresso hostil, mas esquerda com 124 quase barra sozinha, e queda exige aprovação baixa com rua."},
+    "P20": {"p": 12, "taxa_base": "Dilma caiu a 13 em 2015; Lula nunca ficou perto de 25", "razao": "Parte de 35 com desemprego em 5,2; só choque fiscal ou inflacionário forte tira 10 pontos em um ano."},
+    "P21": {"p": 72, "taxa_base": "maioria sai até março; atrasos em 2015, 2021 e 2025", "razao": "O prazo dá folga, mas pós-eleição, troca de legislatura e disputa de emendas podem empurrar para abril."},
+    "P22": {"p": 25, "taxa_base": "mudanças em 2015, 2016, 2017 e 2020; recentes usaram exceções", "razao": "IFI vê déficit de 86 bi contra superávit de 18,6, mas o governo prefere exceção e contingenciar a mudar o número."},
+    "P23": {"p": 45, "taxa_base": "Lula III teve várias CPIs, inclusive a CPMI do INSS", "razao": "Direita tem assinaturas de sobra; a instalação depende das Mesas e 'objeto principal' restringe a resolução."},
+    "P24": {"p": 65, "taxa_base": "EUA quase sempre enviam delegação a posse em país democrático", "razao": "Sem reconhecimento até 28/out e sem embaixador com aval, mas Trump diz gostar de Lula e um enviado menor basta."},
+    "P25": {"p": 20, "taxa_base": "outro projeto: 14,5% até jun/2027; Moraes saiu em dez/2025", "razao": "Prazo maior que os 14,5% e Flávio em Miami, mas Trump diz que não vai se envolver e retirou sanção."},
+    "P26": {"p": 17, "taxa_base": "reforma grande sai no 1º ano às vezes; a administrativa nunca passou", "razao": "Motta é favorável e direita e centro somam, mas exige 308, servidores resistem e o governo não patrocina."}
+  },
+  "cenarios": {"C1": 65, "C2": 16, "C3": 11, "C4": 8},
+  "o_que_mudaria": "Sobe C3: centro abaixo de 60% de alinhamento e cargos negados. Sobe C4: ajuste fiscal com queda forte, Datafolha abaixo de 25 e rua. Sobe C2: União-PP no governo e indicado aprovado cedo."
+}

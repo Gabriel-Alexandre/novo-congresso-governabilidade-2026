@@ -1,0 +1,142 @@
+{
+  "modelo": "haiku",
+  "perguntas": {
+    "P01": {
+      "p": 85,
+      "taxa_base": "Presidente da Câmara com ampla base costuma ser reeleito na Mesa seguinte.",
+      "razao": "Motta tem cerca de 361 cadeiras declaradas, PT incluído. PL decide em 03/nov e tende a apoiar, para não perder comissões."
+    },
+    "P02": {
+      "p": 72,
+      "taxa_base": "Presidente do Senado que chega com maioria declarada costuma ser reeleito na Mesa.",
+      "razao": "Alcolumbre diz ter 48 votos e União-PP já está com ele desde 27/out. PL lança Marinho em 04/nov, o que disputa mas não derruba."
+    },
+    "P03": {
+      "p": 58,
+      "taxa_base": "Maior bancada que negocia comissões tende a compor com quem controla a Mesa.",
+      "razao": "Dossiê: PL tende a apoiar Motta para não perder comissões, mas Nikolas quer a CCJ e a decisão só sai em 03/nov. Voto secreto."
+    },
+    "P04": {
+      "p": 48,
+      "taxa_base": "Governo de coalizão distribui pastas a partidos grandes, mas Lula condiciona cargo a votos.",
+      "razao": "PSD diz sem submissão, mas mantém filiados no governo, e o MDB está rachado (17 diretórios com Flávio, 10 com Lula). Soma incerta."
+    },
+    "P05": {
+      "p": 22,
+      "taxa_base": "Entrada no governo exige ato formal do partido, e o normal é esperar acordo de cargos.",
+      "razao": "União-PP foi para Alcolumbre em 27/out. Filiado isolado no governo não conta, e o prazo até abril é curto."
+    },
+    "P06": {
+      "p": 45,
+      "taxa_base": "Senado aprova quase todo indicado ao STF; a rejeição de 2026 foi a primeira desde 1894.",
+      "razao": "Messias caiu por 42 a 34 em abr/2026 e a vaga de Barroso segue aberta. Precisa de 41 votos e de acordo com Alcolumbre."
+    },
+    "P07": {
+      "p": 13,
+      "taxa_base": "Rejeição de indicado ao STF é raríssima: 1894 e 2026 são os únicos casos.",
+      "razao": "Só ocorre se Lula indicar de novo e o plenário votar contra. Depois de Messias, o Senado já mostrou que pode."
+    },
+    "P08": {
+      "p": 78,
+      "taxa_base": "Disputas da Câmara: 76,5% em 2025 e 79,2% em 2026 com a composição nova; 81,4% no período todo.",
+      "razao": "Primeiro ano costuma ser melhor (88 em 2023), mas a base consistente é só 124 de 513, segundo o Diap. Central perto de 80."
+    },
+    "P09": {
+      "p": 25,
+      "taxa_base": "Dos seis primeiros anos da série, só 2015 ficou abaixo de 85 (71,1).",
+      "razao": "Mas 2025 e 2026 deram 76,5 e 79,2, e o ótimo e bom atual é 35 no Datafolha, pouco para vencer quase tudo."
+    },
+    "P10": {
+      "p": 30,
+      "taxa_base": "Repetição das votações de 2023 a 2026 com a composição nova dá 37,3%, contra 66,3% reais.",
+      "razao": "Amostra pequena, e 42 de 81 senadores não têm histórico. Variantes dão 33,7% e 47%. O PT tem 9 senadores."
+    },
+    "P11": {
+      "p": 82,
+      "taxa_base": "Lula I e II derrubaram 2 vetos cada, de 150 e 207; Lula III derrubou 46 de 205.",
+      "razao": "Congresso derrubou 52 de 63 vetos do licenciamento em nov/2025 e o veto da dosimetria em abr/2026. Maioria de direita favorece derrubadas."
+    },
+    "P12": {
+      "p": 33,
+      "taxa_base": "MPs que viraram lei: Lula III 22,4%; Bolsonaro 58,1%; Temer 52,9%; Dilma I 77,9%.",
+      "razao": "Congresso mais à direita tende a deixar MP caducar ou virar projeto. Crédito extraordinário ajuda o número, mas Lula III ficou abaixo de 30."
+    },
+    "P13": {
+      "p": 9,
+      "taxa_base": "PEC que mexe em verbas costuma levar mais de um ano; promulgação no primeiro ano é rara.",
+      "razao": "Motta apoia a gratuidade, mas a PEC tira cerca de R$ 12 bi de emendas que ele quer preservar. Exige 308 e 49 votos."
+    },
+    "P14": {
+      "p": 22,
+      "taxa_base": "Anistia ampla a condenado raramente chega às duas Casas; a dosimetria, de alcance menor, passou.",
+      "razao": "Alcolumbre discute anistia como troca e a Câmara tem o PL. A dosimetria derrubou veto por 318 a 144, mas o Senado é o gargalo."
+    },
+    "P15": {
+      "p": 15,
+      "taxa_base": "Nenhum ministro do STF foi afastado por impeachment na história.",
+      "razao": "Quem decide dar andamento é o presidente do Senado, e Alcolumbre já rejeita o de Moraes. Há 109 pedidos no Senado."
+    },
+    "P16": {
+      "p": 1,
+      "taxa_base": "Nenhum ministro do STF foi condenado por impeachment; a condenação exige 54 votos.",
+      "razao": "Só pode ocorrer se P15 ocorrer antes. Com 54 votos exigidos e a direita com 48 cadeiras, a chance é mínima."
+    },
+    "P17": {
+      "p": 5,
+      "taxa_base": "Pedidos contra presidentes são frequentes; o recebimento pela Mesa é o passo raro.",
+      "razao": "Nenhum pedido novo com autor identificado contra Lula até 30/out. Motta tem base ampla e pouco interesse em abrir processo."
+    },
+    "P18": {
+      "p": 2,
+      "taxa_base": "Oposição chegou a 342 em 13 de 678 disputas da Câmara, cerca de 2%.",
+      "razao": "Exige 342 votos, quase o dobro de 172, e vem depois de denúncia recebida. Depende de o centro se afastar do governo em massa."
+    },
+    "P19": {
+      "p": 2,
+      "taxa_base": "Presidente eleito com processo aberto caiu cerca de 5,5% ao ano desde 1990, em 2 casos.",
+      "razao": "Lula não tem processo, precisa de 342 votos e depois 54 no Senado, e tem 48% de aprovação na Quaest. Quatro anos ampliam o risco."
+    },
+    "P20": {
+      "p": 18,
+      "taxa_base": "Dilma caiu para 13 em mar/2015 e Temer para 7 em jun/2017 (números do dossiê).",
+      "razao": "Datafolha de 15/out tem 35% ótimo e bom e 41% ruim e péssimo. Cair abaixo de 25 exige queda de 10 pontos em 14 meses."
+    },
+    "P21": {
+      "p": 58,
+      "taxa_base": "Orçamento costuma ser votado no fim do ano anterior; atraso no ano de transição é comum.",
+      "razao": "PLOA 2027 existe, com R$ 44,8 bi em emendas obrigatórias. Eleição e troca de Congresso atrasam, mas a sanção tem 15 dias úteis."
+    },
+    "P22": {
+      "p": 33,
+      "taxa_base": "A meta fiscal foi revista em anos de pressão, como 2015 e 2016.",
+      "razao": "IFI projeta déficit de R$ 86,1 bi em 2027, contra superávit de R$ 18,6 bi do governo. Guimarães diz que ajuste não está em discussão."
+    },
+    "P23": {
+      "p": 58,
+      "taxa_base": "CPI exige 1/3 dos membros para ser criada, e a oposição passa desse número sozinha na Câmara.",
+      "razao": "A instalação depende da Mesa, que Motta controla e negocia com o PL. Objeto principal precisa ser o governo federal, não outro tema."
+    },
+    "P24": {
+      "p": 45,
+      "taxa_base": "Delegações estrangeiras costumam ir a posses presidenciais, mesmo em desgaste diplomático.",
+      "razao": "EUA não reconheceram o resultado até 28/out. Trump disse que não vai se envolver e que gosta de Lula. O embaixador indicado não tem agrément."
+    },
+    "P25": {
+      "p": 13,
+      "taxa_base": "Sanção nominal a autoridade estrangeira é ferramenta de crise; Moraes saiu da lista em dez/2025.",
+      "razao": "Tarifa de 25% desde jul/2026, mas o tom mudou. Trump diz que não vai se envolver e que gosta de Lula. Puxa para baixo."
+    },
+    "P26": {
+      "p": 8,
+      "taxa_base": "PEC que mexe com servidor exige 308 votos em dois turnos e costuma travar.",
+      "razao": "O dossiê não traz tramitação dela, e a agenda de 2027 tem tarifa zero, meta fiscal e Orçamento antes."
+    }
+  },
+  "cenarios": {
+    "C1": 75,
+    "C2": 14,
+    "C3": 5,
+    "C4": 6
+  },
+  "o_que_mudaria": "Mudaria: um pedido novo com autor identificado contra Lula (sobe P17 e C4), o PL fora da Mesa de Motta (P01 e P03), ou uma votação real do Senado acima de 50% (P10)."
+}

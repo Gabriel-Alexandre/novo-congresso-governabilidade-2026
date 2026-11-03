@@ -1,0 +1,142 @@
+{
+ "modelo": "sonnet",
+ "perguntas": {
+  "P01": {
+   "p": 88,
+   "taxa_base": "Presidente da Câmara reeleito entre legislaturas: maioria das vezes sim",
+   "razao": "Apoio de partidos com ~361 cadeiras, PT incluído; PL tende a aderir; voto secreto deixa pequeno risco."
+  },
+  "P02": {
+   "p": 80,
+   "taxa_base": "Presidente do Senado com maioria declarada costuma vencer (~85%)",
+   "razao": "Alcolumbre diz ter 48 votos, União-PP fechou com ele; PL lança Marinho, voto secreto e Senado mais à direita."
+  },
+  "P03": {
+   "p": 65,
+   "taxa_base": "Maior bancada fora da Mesa perde comissões; costuma aderir ao bloco vencedor",
+   "razao": "PL decide em 03/nov, tende a apoiar para não perder comissões; Nikolas quer a CCJ; falta registro formal."
+  },
+  "P04": {
+   "p": 50,
+   "taxa_base": "Governo recém-reeleito costuma repor PSD e MDB com 3 a 5 pastas",
+   "razao": "Kassab diz sem submissão, MDB rachado, Lula quer estimativa de votos antes de dar cargo; filiados no governo contam."
+  },
+  "P05": {
+   "p": 18,
+   "taxa_base": "Partido que saiu da base raramente volta a ministério em menos de 6 meses",
+   "razao": "União-PP foi para Alcolumbre em 27/out; decisão formal do partido por ministério é exigência alta."
+  },
+  "P06": {
+   "p": 45,
+   "taxa_base": "Indicações ao STF costumam passar; rejeição só em 1894 e 2026",
+   "razao": "Vaga de Barroso aberta, aliados de Alcolumbre apostam em Pacheco; Senado mais à direita, mas há um nome de consenso possível."
+  },
+  "P07": {
+   "p": 6,
+   "taxa_base": "Rejeição de indicado ao STF: 1 em mais de 130 anos",
+   "razao": "Mesmo com Messias rejeitado em abr/2026, Lula tende a escolher nome palatável ou esperar."
+  },
+  "P08": {
+   "p": 62,
+   "taxa_base": "Primeiro ano de mandato: média 89%, mas Dilma 2015 fez 71% e Lula III vem caindo",
+   "razao": "Replay com a nova composição dá 79% em 2026 e 81% geral; economia em crise e centro mais afastado puxam para baixo."
+  },
+  "P09": {
+   "p": 20,
+   "taxa_base": "Só 2003, 2007, 2011, 2019 e 2023 passaram de 85% no primeiro ano",
+   "razao": "Tendência de queda de Lula III (88 para 79) e composição mais à direita tornam 85% improvável."
+  },
+  "P10": {
+   "p": 30,
+   "taxa_base": "Replay do Senado dá 37% contra 66% reais; piso de 50% é incerto",
+   "razao": "Senado mais à direita (48 de 81), mas amostra pequena e variantes chegam a 47%; posição do PT é aproximação."
+  },
+  "P11": {
+   "p": 82,
+   "taxa_base": "Lula III teve 46 de 205 vetos com algo derrubado em quatro anos, ~11 por ano",
+   "razao": "Congresso hostil derrubou 52 de 63 vetos do licenciamento e a Dosimetria; cinco no ano é piso baixo."
+  },
+  "P12": {
+   "p": 32,
+   "taxa_base": "MPs viraram lei: Lula III 22%, Bolsonaro 58%, Temer 53%, Lula I 92%",
+   "razao": "Padrão recente de caducar MPs persiste; lua de mel e crédito extraordinário podem elevar um pouco."
+  },
+  "P13": {
+   "p": 17,
+   "taxa_base": "PEC promulgada em um ano é exceção, e mexe com emendas obrigatórias",
+   "razao": "Motta apoia gratuidade, mas corta ~R$ 12 bi de emendas obrigatórias; Senado e 308 votos pesam."
+  },
+  "P14": {
+   "p": 25,
+   "taxa_base": "Anistia ampla a ex-presidente: sem precedente recente de aprovação pelas 2 Casas",
+   "razao": "Alcolumbre discute anistia como troca e a Dosimetria passou 318 a 144 e 49 a 24; Motta evita e STF anularia."
+  },
+  "P15": {
+   "p": 12,
+   "taxa_base": "109 pedidos no Senado, nenhum andou; nenhum impeachment de ministro do STF na história",
+   "razao": "Alcolumbre rejeita, só mudaria com outro presidente do Senado (cerca de 20%) que aceitasse despachar."
+  },
+  "P16": {
+   "p": 2,
+   "taxa_base": "Nenhum ministro do STF removido por impeachment",
+   "razao": "Exige 54 votos, PL conta 49 e liminar de Gilmar fixa 2/3; processo completo em 2027 é quase inviável."
+  },
+  "P17": {
+   "p": 7,
+   "taxa_base": "Presidente com processo aberto: 2 em ~36 anos, ~5,5% ao ano",
+   "razao": "Motta eleito com apoio do PT, aprovação 48%; economia fraca e ambiguidade de 'receber' elevam um pouco."
+  },
+  "P18": {
+   "p": 2,
+   "taxa_base": "Câmara autorizou processo só contra Collor e Dilma",
+   "razao": "Precisa 342 contra 172 que barram; Temer barrou denúncia com 263 a 227 em situação pior."
+  },
+  "P19": {
+   "p": 6,
+   "taxa_base": "Cerca de 5,5% ao ano condicional a processo; 23% dos eleitos da América do Sul caíram",
+   "razao": "Quatro anos, Senado precisa de 54; economia frágil e Flávio apostando em queda, mas sem rua ou escândalo."
+  },
+  "P20": {
+   "p": 20,
+   "taxa_base": "Dilma foi de 23 a 13 em um trimestre; lua de mel de Lula 38 a 48",
+   "razao": "Hoje 35 ótimo/bom; choque no Ibovespa, inflação acima do teto e déficit podem derrubar, vários Datafolha no ano."
+  },
+  "P21": {
+   "p": 78,
+   "taxa_base": "LOA costuma ser sancionada em janeiro; 2025 atrasou para abril",
+   "razao": "Conflito sobre emendas obrigatórias e PEC da tarifa zero pode atrasar a votação, mas março é prazo largo."
+  },
+  "P22": {
+   "p": 35,
+   "taxa_base": "Mudanças de meta fiscal por lei ocorrem em parte dos anos",
+   "razao": "IFI vê déficit de R$ 86 bi contra superávit de R$ 18,6 bi do governo; mudança pode vir só em 2028 ou por banda."
+  },
+  "P23": {
+   "p": 25,
+   "taxa_base": "CPI contra o governo é rara com presidentes da Casa alinhados; houve CPMI do INSS em 2025",
+   "razao": "Motta e Alcolumbre seguram instalações; Congresso mais à direita aumenta a chance, objeto 'principal' é ambíguo."
+  },
+  "P24": {
+   "p": 30,
+   "taxa_base": "EUA mandam delegação a posses no Brasil, mas há hostilidade e não reconhecimento",
+   "razao": "Não reconheceram a eleição, tarifa de 25%, embaixador sem aval; Trump diz gostar de Lula e não se envolver."
+  },
+  "P25": {
+   "p": 20,
+   "taxa_base": "Sanções nominais a brasileiros: 2025 sim, retiradas em dez/2025",
+   "razao": "Outro projeto dá 14,5% até jun/2027; Flávio em Miami e Trump chamando a eleição de fraudada elevam o risco no ano."
+  },
+  "P26": {
+   "p": 28,
+   "taxa_base": "Reformas estruturais costumam levar anos; Câmara fez a tributária em 2023",
+   "razao": "Motta apoia e Congresso mais à direita favorece, mas governo resiste e a pauta tem 6x1, orçamento e tarifa zero."
+  }
+ },
+ "cenarios": {
+  "C1": 60,
+  "C2": 12,
+  "C3": 20,
+  "C4": 8
+ },
+ "o_que_mudaria": "Resultado das Mesas em fev/2027, votação do Senado sobre STF, queda do Datafolha abaixo de 30, derrubada de decreto de peso, declaração formal de base por PSD, MDB ou União."
+}
