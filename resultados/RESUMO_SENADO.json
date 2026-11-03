@@ -1,0 +1,224 @@
+{
+ "total": {
+  "n": 83,
+  "vitoria_real_pct": 66.3,
+  "vitoria_2027_pct": 37.3,
+  "virariam_contra": 24,
+  "mediana_com_real": 39.0,
+  "mediana_com_2027": 27.3,
+  "p10_com_2027": 14.0,
+  "pct_com_27": 50.6,
+  "pct_com_41": 6.0,
+  "pct_contra_41": 20.5,
+  "pct_contra_49": 7.2,
+  "pct_contra_54": 0.0,
+  "max_contra": 50.5
+ },
+ "por_ano": {
+  "2023": {
+   "n": 31,
+   "vitoria_real_pct": 67.7,
+   "vitoria_2027_pct": 41.9,
+   "virariam_contra": 8,
+   "mediana_com_real": 41.0,
+   "mediana_com_2027": 26.9,
+   "p10_com_2027": 14.1,
+   "pct_com_27": 48.4,
+   "pct_com_41": 6.5,
+   "pct_contra_41": 16.1,
+   "pct_contra_49": 0.0,
+   "pct_contra_54": 0.0,
+   "max_contra": 46.8
+  },
+  "2024": {
+   "n": 33,
+   "vitoria_real_pct": 72.7,
+   "vitoria_2027_pct": 30.3,
+   "virariam_contra": 14,
+   "mediana_com_real": 41.0,
+   "mediana_com_2027": 27.6,
+   "p10_com_2027": 13.2,
+   "pct_com_27": 54.5,
+   "pct_com_41": 9.1,
+   "pct_contra_41": 15.2,
+   "pct_contra_49": 9.1,
+   "pct_contra_54": 0.0,
+   "max_contra": 50.5
+  },
+  "2025": {
+   "n": 16,
+   "vitoria_real_pct": 56.2,
+   "vitoria_2027_pct": 43.8,
+   "virariam_contra": 2,
+   "mediana_com_real": 36.0,
+   "mediana_com_2027": 26.7,
+   "p10_com_2027": 11.7,
+   "pct_com_27": 50.0,
+   "pct_com_41": 0.0,
+   "pct_contra_41": 37.5,
+   "pct_contra_49": 18.8,
+   "pct_contra_54": 0.0,
+   "max_contra": 50.0
+  },
+  "2026": {
+   "n": 3,
+   "vitoria_real_pct": 33.3,
+   "vitoria_2027_pct": 33.3,
+   "virariam_contra": 0,
+   "mediana_com_real": 17.0,
+   "mediana_com_2027": 15.0,
+   "p10_com_2027": 14.1,
+   "pct_com_27": 33.3,
+   "pct_com_41": 0.0,
+   "pct_contra_41": 33.3,
+   "pct_contra_49": 0.0,
+   "pct_contra_54": 0.0,
+   "max_contra": 44.1
+  }
+ },
+ "escada": [
+  {
+   "sig": "REDE",
+   "cadeiras_2027": 1,
+   "alinhamento_2023_26": 100.0,
+   "acum": 1
+  },
+  {
+   "sig": "PT",
+   "cadeiras_2027": 9,
+   "alinhamento_2023_26": 98.1,
+   "acum": 10
+  },
+  {
+   "sig": "PDT",
+   "cadeiras_2027": 1,
+   "alinhamento_2023_26": 83.5,
+   "acum": 11
+  },
+  {
+   "sig": "MDB",
+   "cadeiras_2027": 8,
+   "alinhamento_2023_26": 83.1,
+   "acum": 19
+  },
+  {
+   "sig": "S/PARTIDO",
+   "cadeiras_2027": 1,
+   "alinhamento_2023_26": 78.6,
+   "acum": 20
+  },
+  {
+   "sig": "PSD",
+   "cadeiras_2027": 5,
+   "alinhamento_2023_26": 73.7,
+   "acum": 25
+  },
+  {
+   "sig": "PSB",
+   "cadeiras_2027": 4,
+   "alinhamento_2023_26": 71.1,
+   "acum": 29
+  },
+  {
+   "sig": "UNIAO",
+   "cadeiras_2027": 5,
+   "alinhamento_2023_26": 48.6,
+   "acum": 34
+  },
+  {
+   "sig": "PODE",
+   "cadeiras_2027": 2,
+   "alinhamento_2023_26": 40.2,
+   "acum": 36
+  },
+  {
+   "sig": "PSDB",
+   "cadeiras_2027": 2,
+   "alinhamento_2023_26": 26.8,
+   "acum": 38
+  },
+  {
+   "sig": "PP",
+   "cadeiras_2027": 6,
+   "alinhamento_2023_26": 25.7,
+   "acum": 44
+  },
+  {
+   "sig": "REPUBLICANOS",
+   "cadeiras_2027": 6,
+   "alinhamento_2023_26": 16.6,
+   "acum": 50
+  },
+  {
+   "sig": "PL",
+   "cadeiras_2027": 28,
+   "alinhamento_2023_26": 12.8,
+   "acum": 78
+  },
+  {
+   "sig": "NOVO",
+   "cadeiras_2027": 3,
+   "alinhamento_2023_26": 12.3,
+   "acum": 81
+  }
+ ],
+ "senadores_com_historico": 39,
+ "concordancia_jaques_wagner_com_pt_pct": 98.1,
+ "novos_senadores": 42,
+ "novos_que_apoiaram_flavio": 19,
+ "v1_novo_com_apoio_flavio_como_PL": {
+  "vitoria_pct": 33.7,
+  "mediana_com": 26.0,
+  "pct_com_41": 6.0,
+  "pct_contra_41": 21.7,
+  "pct_contra_49": 1.2,
+  "pct_contra_54": 0.0
+ },
+ "v2_otimista_novos_de_centro_como_MDB": {
+  "vitoria_pct": 47.0,
+  "mediana_com": 30.2,
+  "pct_com_41": 10.8,
+  "pct_contra_41": 19.3,
+  "pct_contra_49": 4.8,
+  "pct_contra_54": 0.0
+ },
+ "acordo_com_resultado_oficial_pct": 98.3,
+ "secretas": {
+  "n": 557,
+  "rejeitadas": 9,
+  "por_ano": {
+   "2019": {
+    "n": 72,
+    "rejeitadas": 2
+   },
+   "2020": {
+    "n": 70,
+    "rejeitadas": 1
+   },
+   "2021": {
+    "n": 88,
+    "rejeitadas": 4
+   },
+   "2022": {
+    "n": 87,
+    "rejeitadas": 0
+   },
+   "2023": {
+    "n": 91,
+    "rejeitadas": 1
+   },
+   "2024": {
+    "n": 37,
+    "rejeitadas": 0
+   },
+   "2025": {
+    "n": 72,
+    "rejeitadas": 0
+   },
+   "2026": {
+    "n": 40,
+    "rejeitadas": 1
+   }
+  }
+ }
+}

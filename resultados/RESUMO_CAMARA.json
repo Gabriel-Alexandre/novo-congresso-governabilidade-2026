@@ -1,0 +1,693 @@
+{
+ "serie_por_ano": {
+  "2003": {
+   "votacoes": 27.0,
+   "disputadas": 12.0,
+   "vitoria_todas": 100.0,
+   "vitoria_disputadas": 100.0,
+   "mediana_com_gov": 267.0,
+   "p10_com_gov": 244.1,
+   "presidente": "Lula I"
+  },
+  "2004": {
+   "votacoes": 64.0,
+   "disputadas": 17.0,
+   "vitoria_todas": 98.4,
+   "vitoria_disputadas": 94.1,
+   "mediana_com_gov": 235.0,
+   "p10_com_gov": 179.4,
+   "presidente": "Lula I"
+  },
+  "2005": {
+   "votacoes": 44.0,
+   "disputadas": 23.0,
+   "vitoria_todas": 95.5,
+   "vitoria_disputadas": 91.3,
+   "mediana_com_gov": 250.0,
+   "p10_com_gov": 181.8,
+   "presidente": "Lula I"
+  },
+  "2006": {
+   "votacoes": 37.0,
+   "disputadas": 18.0,
+   "vitoria_todas": 89.2,
+   "vitoria_disputadas": 77.8,
+   "mediana_com_gov": 218.0,
+   "p10_com_gov": 173.4,
+   "presidente": "Lula I"
+  },
+  "2007": {
+   "votacoes": 89.0,
+   "disputadas": 45.0,
+   "vitoria_todas": 96.6,
+   "vitoria_disputadas": 93.3,
+   "mediana_com_gov": 273.0,
+   "p10_com_gov": 229.2,
+   "presidente": "Lula II"
+  },
+  "2008": {
+   "votacoes": 83.0,
+   "disputadas": 30.0,
+   "vitoria_todas": 97.6,
+   "vitoria_disputadas": 93.3,
+   "mediana_com_gov": 262.0,
+   "p10_com_gov": 220.4,
+   "presidente": "Lula II"
+  },
+  "2009": {
+   "votacoes": 112.0,
+   "disputadas": 54.0,
+   "vitoria_todas": 92.9,
+   "vitoria_disputadas": 87.0,
+   "mediana_com_gov": 265.5,
+   "p10_com_gov": 157.8,
+   "presidente": "Lula II"
+  },
+  "2010": {
+   "votacoes": 43.0,
+   "disputadas": 20.0,
+   "vitoria_todas": 93.0,
+   "vitoria_disputadas": 85.0,
+   "mediana_com_gov": 231.0,
+   "p10_com_gov": 123.2,
+   "presidente": "Lula II"
+  },
+  "2011": {
+   "votacoes": 76.0,
+   "disputadas": 41.0,
+   "vitoria_todas": 96.1,
+   "vitoria_disputadas": 92.7,
+   "mediana_com_gov": 272.0,
+   "p10_com_gov": 203.0,
+   "presidente": "Dilma I"
+  },
+  "2012": {
+   "votacoes": 46.0,
+   "disputadas": 24.0,
+   "vitoria_todas": 89.1,
+   "vitoria_disputadas": 79.2,
+   "mediana_com_gov": 216.0,
+   "p10_com_gov": 175.6,
+   "presidente": "Dilma I"
+  },
+  "2013": {
+   "votacoes": 80.0,
+   "disputadas": 44.0,
+   "vitoria_todas": 86.2,
+   "vitoria_disputadas": 75.0,
+   "mediana_com_gov": 215.0,
+   "p10_com_gov": 138.8,
+   "presidente": "Dilma I"
+  },
+  "2014": {
+   "votacoes": 55.0,
+   "disputadas": 24.0,
+   "vitoria_todas": 70.9,
+   "vitoria_disputadas": 54.2,
+   "mediana_com_gov": 166.5,
+   "p10_com_gov": 101.3,
+   "presidente": "Dilma I"
+  },
+  "2015": {
+   "votacoes": 201.0,
+   "disputadas": 149.0,
+   "vitoria_todas": 78.1,
+   "vitoria_disputadas": 71.1,
+   "mediana_com_gov": 228.0,
+   "p10_com_gov": 154.4,
+   "presidente": "Dilma II"
+  },
+  "2016": {
+   "votacoes": 139.0,
+   "disputadas": 62.0,
+   "vitoria_todas": 98.6,
+   "vitoria_disputadas": 96.8,
+   "mediana_com_gov": 262.0,
+   "p10_com_gov": 188.4,
+   "presidente": "Dilma II e Temer"
+  },
+  "2017": {
+   "votacoes": 162.0,
+   "disputadas": 84.0,
+   "vitoria_todas": 98.8,
+   "vitoria_disputadas": 97.6,
+   "mediana_com_gov": 240.5,
+   "p10_com_gov": 200.6,
+   "presidente": "Temer"
+  },
+  "2018": {
+   "votacoes": 98.0,
+   "disputadas": 40.0,
+   "vitoria_todas": 99.0,
+   "vitoria_disputadas": 97.5,
+   "mediana_com_gov": 226.0,
+   "p10_com_gov": 204.8,
+   "presidente": "Temer"
+  },
+  "2019": {
+   "votacoes": 248.0,
+   "disputadas": 111.0,
+   "vitoria_todas": 94.0,
+   "vitoria_disputadas": 88.3,
+   "mediana_com_gov": 283.0,
+   "p10_com_gov": 184.0,
+   "presidente": "Bolsonaro"
+  },
+  "2020": {
+   "votacoes": 346.0,
+   "disputadas": 254.0,
+   "vitoria_todas": 93.9,
+   "vitoria_disputadas": 91.7,
+   "mediana_com_gov": 300.5,
+   "p10_com_gov": 222.0,
+   "presidente": "Bolsonaro"
+  },
+  "2021": {
+   "votacoes": 598.0,
+   "disputadas": 442.0,
+   "vitoria_todas": 95.7,
+   "vitoria_disputadas": 95.9,
+   "mediana_com_gov": 296.5,
+   "p10_com_gov": 234.2,
+   "presidente": "Bolsonaro"
+  },
+  "2022": {
+   "votacoes": 403.0,
+   "disputadas": 289.0,
+   "vitoria_todas": 93.5,
+   "vitoria_disputadas": 94.1,
+   "mediana_com_gov": 257.0,
+   "p10_com_gov": 203.8,
+   "presidente": "Bolsonaro"
+  },
+  "2023": {
+   "votacoes": 238.0,
+   "disputadas": 179.0,
+   "vitoria_todas": 91.2,
+   "vitoria_disputadas": 88.3,
+   "mediana_com_gov": 298.0,
+   "p10_com_gov": 158.4,
+   "presidente": "Lula III"
+  },
+  "2024": {
+   "votacoes": 224.0,
+   "disputadas": 163.0,
+   "vitoria_todas": 88.4,
+   "vitoria_disputadas": 84.0,
+   "mediana_com_gov": 277.0,
+   "p10_com_gov": 120.0,
+   "presidente": "Lula III"
+  },
+  "2025": {
+   "votacoes": 316.0,
+   "disputadas": 264.0,
+   "vitoria_todas": 81.0,
+   "vitoria_disputadas": 77.3,
+   "mediana_com_gov": 269.0,
+   "p10_com_gov": 112.3,
+   "presidente": "Lula III"
+  },
+  "2026": {
+   "votacoes": 96.0,
+   "disputadas": 72.0,
+   "vitoria_todas": 84.4,
+   "vitoria_disputadas": 79.2,
+   "mediana_com_gov": 272.5,
+   "p10_com_gov": 126.9,
+   "presidente": "Lula III"
+  }
+ },
+ "serie_por_presidente": {
+  "Lula I": {
+   "votacoes": 172.0,
+   "disputadas": 70.0,
+   "vitoria_todas": 95.9,
+   "vitoria_disputadas": 90.0,
+   "mediana_com_gov": 245.0,
+   "p10_com_gov": 176.7
+  },
+  "Lula II": {
+   "votacoes": 327.0,
+   "disputadas": 149.0,
+   "vitoria_todas": 95.1,
+   "vitoria_disputadas": 89.9,
+   "mediana_com_gov": 262.0,
+   "p10_com_gov": 172.4
+  },
+  "Dilma I": {
+   "votacoes": 257.0,
+   "disputadas": 133.0,
+   "vitoria_todas": 86.4,
+   "vitoria_disputadas": 77.4,
+   "mediana_com_gov": 224.0,
+   "p10_com_gov": 125.4
+  },
+  "Dilma II": {
+   "votacoes": 201.0,
+   "disputadas": 149.0,
+   "vitoria_todas": 78.1,
+   "vitoria_disputadas": 71.1,
+   "mediana_com_gov": 228.0,
+   "p10_com_gov": 154.4
+  },
+  "Dilma II e Temer": {
+   "votacoes": 139.0,
+   "disputadas": 62.0,
+   "vitoria_todas": 98.6,
+   "vitoria_disputadas": 96.8,
+   "mediana_com_gov": 262.0,
+   "p10_com_gov": 188.4
+  },
+  "Temer": {
+   "votacoes": 260.0,
+   "disputadas": 124.0,
+   "vitoria_todas": 98.8,
+   "vitoria_disputadas": 97.6,
+   "mediana_com_gov": 233.5,
+   "p10_com_gov": 202.0
+  },
+  "Bolsonaro": {
+   "votacoes": 1595.0,
+   "disputadas": 1096.0,
+   "vitoria_todas": 94.5,
+   "vitoria_disputadas": 93.7,
+   "mediana_com_gov": 287.0,
+   "p10_com_gov": 212.5
+  },
+  "Lula III": {
+   "votacoes": 874.0,
+   "disputadas": 678.0,
+   "vitoria_todas": 86.0,
+   "vitoria_disputadas": 82.0,
+   "mediana_com_gov": 277.0,
+   "p10_com_gov": 120.0
+  }
+ },
+ "replay_total": {
+  "n": 678,
+  "vitoria_real_pct": 82.0,
+  "vitoria_replay_pct": 81.4,
+  "virariam_contra": 4,
+  "virariam_a_favor": 0,
+  "mediana_com_real": 277.0,
+  "mediana_com_2027": 279.1,
+  "p10_com_2027": 126.0,
+  "p05_com_2027": 113.1,
+  "min_com_2027": 38.6,
+  "max_contra_2027": 382.3,
+  "pct_com_172": 83.8,
+  "pct_com_257": 65.2,
+  "pct_com_308": 27.3,
+  "pct_contra_308": 7.8,
+  "pct_contra_342": 2.1
+ },
+ "replay_por_ano": {
+  "2023": {
+   "n": 179,
+   "vitoria_real_pct": 88.3,
+   "vitoria_replay_pct": 88.3,
+   "virariam_contra": 0,
+   "virariam_a_favor": 0,
+   "mediana_com_real": 298.0,
+   "mediana_com_2027": 301.2,
+   "p10_com_2027": 171.6,
+   "p05_com_2027": 142.5,
+   "min_com_2027": 54.6,
+   "max_contra_2027": 359.3,
+   "pct_com_172": 89.9,
+   "pct_com_257": 79.3,
+   "pct_com_308": 44.7,
+   "pct_contra_308": 3.4,
+   "pct_contra_342": 0.6
+  },
+  "2024": {
+   "n": 163,
+   "vitoria_real_pct": 84.0,
+   "vitoria_replay_pct": 82.8,
+   "virariam_contra": 2,
+   "virariam_a_favor": 0,
+   "mediana_com_real": 277.0,
+   "mediana_com_2027": 275.4,
+   "p10_com_2027": 124.5,
+   "p05_com_2027": 117.5,
+   "min_com_2027": 78.0,
+   "max_contra_2027": 348.3,
+   "pct_com_172": 85.9,
+   "pct_com_257": 63.2,
+   "pct_com_308": 25.2,
+   "pct_contra_308": 8.6,
+   "pct_contra_342": 0.6
+  },
+  "2025": {
+   "n": 264,
+   "vitoria_real_pct": 77.3,
+   "vitoria_replay_pct": 76.5,
+   "virariam_contra": 2,
+   "virariam_a_favor": 0,
+   "mediana_com_real": 269.0,
+   "mediana_com_2027": 276.7,
+   "p10_com_2027": 120.1,
+   "p05_com_2027": 108.6,
+   "min_com_2027": 38.6,
+   "max_contra_2027": 382.3,
+   "pct_com_172": 79.2,
+   "pct_com_257": 62.5,
+   "pct_com_308": 20.8,
+   "pct_contra_308": 11.7,
+   "pct_contra_342": 4.5
+  },
+  "2026": {
+   "n": 72,
+   "vitoria_real_pct": 79.2,
+   "vitoria_replay_pct": 79.2,
+   "virariam_contra": 0,
+   "virariam_a_favor": 0,
+   "mediana_com_real": 272.5,
+   "mediana_com_2027": 252.8,
+   "p10_com_2027": 125.0,
+   "p05_com_2027": 108.3,
+   "min_com_2027": 99.4,
+   "max_contra_2027": 320.1,
+   "pct_com_172": 80.6,
+   "pct_com_257": 44.4,
+   "pct_com_308": 12.5,
+   "pct_contra_308": 2.8,
+   "pct_contra_342": 0.0
+  }
+ },
+ "escada": [
+  {
+   "sig": "PROS",
+   "cadeiras_2027": 0,
+   "cadeiras_eleitas_2022": 3,
+   "alinhamento_2023_26": 100.0,
+   "2023": 100.0,
+   "2024": null,
+   "2025": null,
+   "2026": null,
+   "acum_2027": 0,
+   "acum_2022": 3
+  },
+  {
+   "sig": "PT",
+   "cadeiras_2027": 70,
+   "cadeiras_eleitas_2022": 69,
+   "alinhamento_2023_26": 97.5,
+   "2023": 96.9,
+   "2024": 97.6,
+   "2025": 97.9,
+   "2026": 97.8,
+   "acum_2027": 70,
+   "acum_2022": 72
+  },
+  {
+   "sig": "PCDOB",
+   "cadeiras_2027": 11,
+   "cadeiras_eleitas_2022": 7,
+   "alinhamento_2023_26": 96.7,
+   "2023": 96.6,
+   "2024": 96.6,
+   "2025": 97.2,
+   "2026": 95.2,
+   "acum_2027": 81,
+   "acum_2022": 79
+  },
+  {
+   "sig": "PV",
+   "cadeiras_2027": 7,
+   "cadeiras_eleitas_2022": 6,
+   "alinhamento_2023_26": 96.0,
+   "2023": 95.5,
+   "2024": 95.5,
+   "2025": 96.6,
+   "2026": 97.2,
+   "acum_2027": 88,
+   "acum_2022": 85
+  },
+  {
+   "sig": "PSB",
+   "cadeiras_2027": 15,
+   "cadeiras_eleitas_2022": 15,
+   "alinhamento_2023_26": 90.9,
+   "2023": 92.9,
+   "2024": 92.3,
+   "2025": 89.0,
+   "2026": 89.9,
+   "acum_2027": 103,
+   "acum_2022": 100
+  },
+  {
+   "sig": "REDE",
+   "cadeiras_2027": 1,
+   "cadeiras_eleitas_2022": 2,
+   "alinhamento_2023_26": 90.1,
+   "2023": 89.9,
+   "2024": 88.6,
+   "2025": 90.8,
+   "2026": 90.3,
+   "acum_2027": 104,
+   "acum_2022": 102
+  },
+  {
+   "sig": "PDT",
+   "cadeiras_2027": 6,
+   "cadeiras_eleitas_2022": 16,
+   "alinhamento_2023_26": 88.6,
+   "2023": 92.2,
+   "2024": 85.9,
+   "2025": 87.0,
+   "2026": 92.5,
+   "acum_2027": 110,
+   "acum_2022": 118
+  },
+  {
+   "sig": "PSOL",
+   "cadeiras_2027": 14,
+   "cadeiras_eleitas_2022": 13,
+   "alinhamento_2023_26": 86.3,
+   "2023": 87.0,
+   "2024": 77.0,
+   "2025": 90.1,
+   "2026": 90.7,
+   "acum_2027": 124,
+   "acum_2022": 131
+  },
+  {
+   "sig": "PSC",
+   "cadeiras_2027": 0,
+   "cadeiras_eleitas_2022": 6,
+   "alinhamento_2023_26": 80.7,
+   "2023": 80.7,
+   "2024": null,
+   "2025": null,
+   "2026": null,
+   "acum_2027": 124,
+   "acum_2022": 137
+  },
+  {
+   "sig": "SOLIDARIEDADE",
+   "cadeiras_2027": 2,
+   "cadeiras_eleitas_2022": 4,
+   "alinhamento_2023_26": 79.9,
+   "2023": 85.4,
+   "2024": 75.2,
+   "2025": 80.1,
+   "2026": 76.2,
+   "acum_2027": 126,
+   "acum_2022": 141
+  },
+  {
+   "sig": "AVANTE",
+   "cadeiras_2027": 5,
+   "cadeiras_eleitas_2022": 7,
+   "alinhamento_2023_26": 78.1,
+   "2023": 85.0,
+   "2024": 81.6,
+   "2025": 73.3,
+   "2026": 72.4,
+   "acum_2027": 131,
+   "acum_2022": 148
+  },
+  {
+   "sig": "PODE",
+   "cadeiras_2027": 27,
+   "cadeiras_eleitas_2022": 14,
+   "alinhamento_2023_26": 72.6,
+   "2023": 75.8,
+   "2024": 72.1,
+   "2025": 72.7,
+   "2026": 67.6,
+   "acum_2027": 158,
+   "acum_2022": 162
+  },
+  {
+   "sig": "PSD",
+   "cadeiras_2027": 43,
+   "cadeiras_eleitas_2022": 42,
+   "alinhamento_2023_26": 71.8,
+   "2023": 82.7,
+   "2024": 70.4,
+   "2025": 65.9,
+   "2026": 69.9,
+   "acum_2027": 201,
+   "acum_2022": 204
+  },
+  {
+   "sig": "REPUBLICANOS",
+   "cadeiras_2027": 41,
+   "cadeiras_eleitas_2022": 40,
+   "alinhamento_2023_26": 70.3,
+   "2023": 71.2,
+   "2024": 74.9,
+   "2025": 67.5,
+   "2026": 67.9,
+   "acum_2027": 242,
+   "acum_2022": 244
+  },
+  {
+   "sig": "MDB",
+   "cadeiras_2027": 36,
+   "cadeiras_eleitas_2022": 41,
+   "alinhamento_2023_26": 68.1,
+   "2023": 77.5,
+   "2024": 70.3,
+   "2025": 60.4,
+   "2026": 64.6,
+   "acum_2027": 278,
+   "acum_2022": 285
+  },
+  {
+   "sig": "PP",
+   "cadeiras_2027": 41,
+   "cadeiras_eleitas_2022": 47,
+   "alinhamento_2023_26": 64.7,
+   "2023": 70.9,
+   "2024": 68.3,
+   "2025": 58.7,
+   "2026": 61.6,
+   "acum_2027": 319,
+   "acum_2022": 332
+  },
+  {
+   "sig": "PSDB",
+   "cadeiras_2027": 11,
+   "cadeiras_eleitas_2022": 13,
+   "alinhamento_2023_26": 63.3,
+   "2023": 63.7,
+   "2024": 64.6,
+   "2025": 61.6,
+   "2026": 65.3,
+   "acum_2027": 330,
+   "acum_2022": 345
+  },
+  {
+   "sig": "UNIAO",
+   "cadeiras_2027": 46,
+   "cadeiras_eleitas_2022": 57,
+   "alinhamento_2023_26": 57.2,
+   "2023": 64.5,
+   "2024": 56.1,
+   "2025": 52.4,
+   "2026": 59.0,
+   "acum_2027": 376,
+   "acum_2022": 402
+  },
+  {
+   "sig": "CIDADANIA",
+   "cadeiras_2027": 0,
+   "cadeiras_eleitas_2022": 5,
+   "alinhamento_2023_26": 53.4,
+   "2023": 61.3,
+   "2024": 54.8,
+   "2025": 45.8,
+   "2026": 55.1,
+   "acum_2027": 376,
+   "acum_2022": 407
+  },
+  {
+   "sig": "PRD",
+   "cadeiras_2027": 5,
+   "cadeiras_eleitas_2022": 5,
+   "alinhamento_2023_26": 49.2,
+   "2023": 57.3,
+   "2024": 50.9,
+   "2025": 40.9,
+   "2026": 58.1,
+   "acum_2027": 381,
+   "acum_2022": 412
+  },
+  {
+   "sig": "PL",
+   "cadeiras_2027": 121,
+   "cadeiras_eleitas_2022": 98,
+   "alinhamento_2023_26": 18.0,
+   "2023": 25.2,
+   "2024": 16.5,
+   "2025": 14.5,
+   "2026": 16.1,
+   "acum_2027": 502,
+   "acum_2022": 510
+  },
+  {
+   "sig": "NOVO",
+   "cadeiras_2027": 11,
+   "cadeiras_eleitas_2022": 3,
+   "alinhamento_2023_26": 8.6,
+   "2023": 14.5,
+   "2024": 9.0,
+   "2025": 6.7,
+   "2026": 6.6,
+   "acum_2027": 513,
+   "acum_2022": 513
+  }
+ ],
+ "eleitos_com_voto_2023_26": 309,
+ "eleitos_sem_voto_2023_26": 204,
+ "faixas_alinhamento": {
+  "nan": 204,
+  "70mais": 195,
+  "ate30": 71,
+  "50a70": 26,
+  "30a50": 17
+ },
+ "controle_2024": {
+  "n": 163,
+  "dif_max_com": 108.47225742466674,
+  "acordo_resultado_pct": 99.4
+ },
+ "teste_passado": [
+  {
+   "caso": "Lula I para Lula II",
+   "n_fonte": 70,
+   "vitoria_real_mandato_anterior": 90.0,
+   "previsto_replay": 88.6,
+   "real_no_ano": 93.3,
+   "n_real": 45,
+   "mediana_prevista": 281.8,
+   "mediana_real": 273.0,
+   "erro_pontos": -4.8
+  },
+  {
+   "caso": "Lula II para Dilma I",
+   "n_fonte": 149,
+   "vitoria_real_mandato_anterior": 89.9,
+   "previsto_replay": 89.9,
+   "real_no_ano": 92.7,
+   "n_real": 41,
+   "mediana_prevista": 330.5,
+   "mediana_real": 272.0,
+   "erro_pontos": -2.8
+  },
+  {
+   "caso": "Dilma I para Dilma II",
+   "n_fonte": 133,
+   "vitoria_real_mandato_anterior": 77.4,
+   "previsto_replay": 74.4,
+   "real_no_ano": 71.1,
+   "n_real": 149,
+   "mediana_prevista": 267.6,
+   "mediana_real": 228.0,
+   "erro_pontos": 3.3
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2003.csv",
+  "arquivo": "votacoes-2003.csv",
+  "bytes": 4889165,
+  "sha256": "88a16031c21e3152ef4e9c69a1ac3c0a281ee87106258fd4d9d4dea888872e38",
+  "capturado": "2026-11-02T21:18:39"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2003.csv",
+  "arquivo": "votacoesVotos-2003.csv",
+  "bytes": 4055285,
+  "sha256": "df751a21e82f628a8b70229f36bbe3c1c90f81fe98dc391bc1c6c9e6e6b82fd0",
+  "capturado": "2026-11-02T21:18:39"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2003.csv",
+  "arquivo": "votacoesOrientacoes-2003.csv",
+  "bytes": 92746,
+  "sha256": "884a2ed246bc2851ccf2c10ec41736b78fe7e414b52c752f3cc602f36f8d7e67",
+  "capturado": "2026-11-02T21:18:40"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2003.csv",
+  "arquivo": "votacoesObjetos-2003.csv",
+  "bytes": 8553643,
+  "sha256": "26bfbcbd6c431bdab4767782ce44199d5a644baa99a184ea14bc1c28f3ac7bf7",
+  "capturado": "2026-11-02T21:18:40"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2004.csv",
+  "arquivo": "votacoes-2004.csv",
+  "bytes": 3540741,
+  "sha256": "2020b06de8f2a6f8a0e9e33d7997a19d8f2b946b9b2f056dc546eafce9047f1b",
+  "capturado": "2026-11-02T21:18:41"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2004.csv",
+  "arquivo": "votacoesVotos-2004.csv",
+  "bytes": 8164589,
+  "sha256": "7e391fe8bc558c55d820e43ded0e1bc0db2ba56408e73aed88cfc666dea22c79",
+  "capturado": "2026-11-02T21:18:41"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2004.csv",
+  "arquivo": "votacoesOrientacoes-2004.csv",
+  "bytes": 273328,
+  "sha256": "bb70c9bb3be479c24b054f5556568f359e662e16ef1d273d0d8c5f4f7047cc16",
+  "capturado": "2026-11-02T21:18:41"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2004.csv",
+  "arquivo": "votacoesObjetos-2004.csv",
+  "bytes": 9305796,
+  "sha256": "a053439527252282f4c1855db76b92fd3cb28c53cf9735bddc64a53effbe6941",
+  "capturado": "2026-11-02T21:18:44"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2005.csv",
+  "arquivo": "votacoes-2005.csv",
+  "bytes": 3772017,
+  "sha256": "265e5acfd6bc1f7f66adedfe87d974d9ab69738cd35308b65b1d77046cd1a95a",
+  "capturado": "2026-11-02T21:18:45"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2005.csv",
+  "arquivo": "votacoesVotos-2005.csv",
+  "bytes": 5727054,
+  "sha256": "fbf9b382fce503ef4b3efee0842bb729f7884f21f788eb1082464d201a827f3b",
+  "capturado": "2026-11-02T21:18:46"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2005.csv",
+  "arquivo": "votacoesOrientacoes-2005.csv",
+  "bytes": 203248,
+  "sha256": "c197bc05c5e110930406deb7a33ff59c6ca4505bd10493ecc7434350ee8415ca",
+  "capturado": "2026-11-02T21:18:47"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2005.csv",
+  "arquivo": "votacoesObjetos-2005.csv",
+  "bytes": 7392756,
+  "sha256": "4189b28a99aad1860825625ec5b818f5c6f91f30db999832afd0d8e4b768b8d4",
+  "capturado": "2026-11-02T21:18:47"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2006.csv",
+  "arquivo": "votacoes-2006.csv",
+  "bytes": 2778274,
+  "sha256": "02ce45c3db9ff5ff61f11f36036a924c5448eec87a04006e4f54f8802b8f1c23",
+  "capturado": "2026-11-02T21:18:48"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2006.csv",
+  "arquivo": "votacoesVotos-2006.csv",
+  "bytes": 6889311,
+  "sha256": "059e807306ffbf42da476d07fc40703fed84282651f09194523573d08c2e1c7c",
+  "capturado": "2026-11-02T21:18:49"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2006.csv",
+  "arquivo": "votacoesOrientacoes-2006.csv",
+  "bytes": 244433,
+  "sha256": "5a35bc15a284bda5d5a87c0dd54c593eb5edb51053a0bd89838e5281101933d7",
+  "capturado": "2026-11-02T21:18:49"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2006.csv",
+  "arquivo": "votacoesObjetos-2006.csv",
+  "bytes": 7162252,
+  "sha256": "92ca1ff7600d0f91642a5382f5ad79f746071afc6b2a183e5666832401489239",
+  "capturado": "2026-11-02T21:18:50"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2007.csv",
+  "arquivo": "votacoes-2007.csv",
+  "bytes": 4781937,
+  "sha256": "5e69588d27695229525ccc660855199e6f4f86ed6743072a4feb78fee44f0409",
+  "capturado": "2026-11-02T21:18:50"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2007.csv",
+  "arquivo": "votacoesVotos-2007.csv",
+  "bytes": 13663404,
+  "sha256": "77541f54c4d4d6120f55015b7b08c7abee8ca9ada67888093e3e18f188487ce8",
+  "capturado": "2026-11-02T21:18:50"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2007.csv",
+  "arquivo": "votacoesOrientacoes-2007.csv",
+  "bytes": 323481,
+  "sha256": "a05664c5c14ab75a732bd8e5b92f9a9822a23502a6f8342bd280a1621d3f029a",
+  "capturado": "2026-11-02T21:18:51"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2007.csv",
+  "arquivo": "votacoesObjetos-2007.csv",
+  "bytes": 10393343,
+  "sha256": "b107bd180e0f46b0e9ec167d6e632884029617faa100aa394f10b74b8a79c2b6",
+  "capturado": "2026-11-02T21:18:51"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2008.csv",
+  "arquivo": "votacoes-2008.csv",
+  "bytes": 4236617,
+  "sha256": "e0074e5991c2f9feed33f72e917ea976ecf3e25515705e85199adf6ad53487cf",
+  "capturado": "2026-11-02T21:18:52"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2008.csv",
+  "arquivo": "votacoesVotos-2008.csv",
+  "bytes": 10585026,
+  "sha256": "4e83fe4b0e1e32f241ae6fa01e1f258573cb5f766080ee5303567fa853418ec4",
+  "capturado": "2026-11-02T21:18:52"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2008.csv",
+  "arquivo": "votacoesOrientacoes-2008.csv",
+  "bytes": 326760,
+  "sha256": "9d6afc8e82ad06c37c6d3e020184047f02c3d73e70f45734953a01df4b366162",
+  "capturado": "2026-11-02T21:18:52"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2008.csv",
+  "arquivo": "votacoesObjetos-2008.csv",
+  "bytes": 7863122,
+  "sha256": "ac2b3adf8a6bf0a12cab737dba143b7cb776c0c7664122b62343487cc65358ae",
+  "capturado": "2026-11-02T21:18:53"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2009.csv",
+  "arquivo": "votacoes-2009.csv",
+  "bytes": 5281513,
+  "sha256": "437fdbfc14e215dd0cf84160dfede1aaacedad8e6fa43302bd2f734d34602b84",
+  "capturado": "2026-11-02T21:18:57"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2009.csv",
+  "arquivo": "votacoesVotos-2009.csv",
+  "bytes": 15110986,
+  "sha256": "9e1505308475d46d8933f7b524a59faf1126623698d052ae4709c5727e669986",
+  "capturado": "2026-11-02T21:18:58"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2009.csv",
+  "arquivo": "votacoesOrientacoes-2009.csv",
+  "bytes": 443204,
+  "sha256": "7f115cd98d957247f343695f4c4bb2efd352549b9aa1cfdace16ec094dd0dfd5",
+  "capturado": "2026-11-02T21:18:58"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2009.csv",
+  "arquivo": "votacoesObjetos-2009.csv",
+  "bytes": 17622927,
+  "sha256": "b978cd8ae66e1eeaebe2f4f79e4a9db8367705dc5d877148085f19134bd2fe1a",
+  "capturado": "2026-11-02T21:18:59"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2010.csv",
+  "arquivo": "votacoes-2010.csv",
+  "bytes": 3211507,
+  "sha256": "86425f0c35359f0c8d2bc6b5479bd30b3175585f811c6c270cca006dca941187",
+  "capturado": "2026-11-02T21:19:00"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2010.csv",
+  "arquivo": "votacoesVotos-2010.csv",
+  "bytes": 7328142,
+  "sha256": "9bb30a92753afbe796902640b642a8952587e41519f9be5c9297e4c3f3beac7c",
+  "capturado": "2026-11-02T21:19:00"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2010.csv",
+  "arquivo": "votacoesOrientacoes-2010.csv",
+  "bytes": 247854,
+  "sha256": "08f4b8cdd9597e2db0d3fc50ffb9ae88d23d4dfa55e659da6d4aafc0813414f5",
+  "capturado": "2026-11-02T21:19:01"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2010.csv",
+  "arquivo": "votacoesObjetos-2010.csv",
+  "bytes": 12361856,
+  "sha256": "803e644cf41e722b1ab67c8ff8b1d7d6c4aa767ae32ffc80c942a87474b84ab7",
+  "capturado": "2026-11-02T21:19:02"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2011.csv",
+  "arquivo": "votacoes-2011.csv",
+  "bytes": 3927271,
+  "sha256": "3991915a947237f4c4cf1d55d1fb97181dbf63046e7947ec48a32bacbf96b504",
+  "capturado": "2026-11-02T21:19:02"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2011.csv",
+  "arquivo": "votacoesVotos-2011.csv",
+  "bytes": 10958751,
+  "sha256": "6450c2dc5f705ed1b57e650a6dbe31a046836e7122de03271f133bc89351fe86",
+  "capturado": "2026-11-02T21:19:03"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2011.csv",
+  "arquivo": "votacoesOrientacoes-2011.csv",
+  "bytes": 296937,
+  "sha256": "1b49a427874e11bb058d4b9da94b725cea93dcbc398960544c8334999a8b7683",
+  "capturado": "2026-11-02T21:19:04"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2011.csv",
+  "arquivo": "votacoesObjetos-2011.csv",
+  "bytes": 7368222,
+  "sha256": "8b39d60c83778c5bd8afee8dfa6b78d32261dc80e5ec4ed02ba9c02c59a76998",
+  "capturado": "2026-11-02T21:19:05"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2012.csv",
+  "arquivo": "votacoes-2012.csv",
+  "bytes": 3442268,
+  "sha256": "2d532841a9be38dcbdae31e908f1d6083a8401fdf2f05ef0f9e99b08d3def691",
+  "capturado": "2026-11-02T21:19:05"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2012.csv",
+  "arquivo": "votacoesVotos-2012.csv",
+  "bytes": 7470382,
+  "sha256": "82a9bd1a7be2661208ca3b3962c2fbd09ee61e9a6187ceea43097616f2502604",
+  "capturado": "2026-11-02T21:19:06"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2012.csv",
+  "arquivo": "votacoesOrientacoes-2012.csv",
+  "bytes": 264546,
+  "sha256": "87579db9d34e12baab4204a486fa390b7299a54045feee884e24e86571388207",
+  "capturado": "2026-11-02T21:19:06"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2012.csv",
+  "arquivo": "votacoesObjetos-2012.csv",
+  "bytes": 9887320,
+  "sha256": "7418efd1b2f18849086d633690f186185c80c73975655055d281ffdf82dfb5d9",
+  "capturado": "2026-11-02T21:19:06"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2013.csv",
+  "arquivo": "votacoes-2013.csv",
+  "bytes": 4590227,
+  "sha256": "3601568c49ea6e14038c3cd8013bd8372105cfda6093743a5cd5f0bb9833c457",
+  "capturado": "2026-11-02T21:19:07"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2013.csv",
+  "arquivo": "votacoesVotos-2013.csv",
+  "bytes": 14347279,
+  "sha256": "9f1cf1f0bb41eae8111bcda6baa4a98c27da9b88b5980af73e32727530a35107",
+  "capturado": "2026-11-02T21:19:07"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2013.csv",
+  "arquivo": "votacoesOrientacoes-2013.csv",
+  "bytes": 594923,
+  "sha256": "7f433805ea769f5510c7da3da161aa33e6aca07eb95ad5558d24bbcffa92f785",
+  "capturado": "2026-11-02T21:19:09"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2013.csv",
+  "arquivo": "votacoesObjetos-2013.csv",
+  "bytes": 8995765,
+  "sha256": "39f3c1de59f222158159d929da09ec3f39f9980bbad615af9cdbec963ce17293",
+  "capturado": "2026-11-02T21:19:10"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2014.csv",
+  "arquivo": "votacoes-2014.csv",
+  "bytes": 2305081,
+  "sha256": "6314969d1058931cc2d3db0ade6ddca37f21bd3b2ac0b142f1efde6e2503776a",
+  "capturado": "2026-11-02T21:19:10"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2014.csv",
+  "arquivo": "votacoesVotos-2014.csv",
+  "bytes": 8287497,
+  "sha256": "8ba9dda7fc148046d7ae378c064ea22f301bf45429ed1d04be17c7fe5f617a22",
+  "capturado": "2026-11-02T21:19:11"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2014.csv",
+  "arquivo": "votacoesOrientacoes-2014.csv",
+  "bytes": 360718,
+  "sha256": "8183423aedf631489c500cfd38f63eff19f51dc552c5a273a30829a853f5b033",
+  "capturado": "2026-11-02T21:19:11"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2014.csv",
+  "arquivo": "votacoesObjetos-2014.csv",
+  "bytes": 12638714,
+  "sha256": "72cf26c4ad6cf41abd92b3703d15d233bf758215a7351ecbd17360cb8e5d962f",
+  "capturado": "2026-11-02T21:19:12"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2015.csv",
+  "arquivo": "votacoes-2015.csv",
+  "bytes": 6674562,
+  "sha256": "70557390ce4c6a4bced45dd7a04c037ff432f11a0a67b558027b179904a25a7f",
+  "capturado": "2026-11-02T21:19:12"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2015.csv",
+  "arquivo": "votacoesVotos-2015.csv",
+  "bytes": 37588311,
+  "sha256": "98210ae1c03e57d7cf6954b8bd695eb4f9d21dadae72ada3c29a4dab053c40e6",
+  "capturado": "2026-11-02T21:19:13"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2015.csv",
+  "arquivo": "votacoesOrientacoes-2015.csv",
+  "bytes": 1298933,
+  "sha256": "5de54d0cae6b3db38c1a9a191f246c027fe89f658f4c4571fa3168425f0a5877",
+  "capturado": "2026-11-02T21:19:15"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2015.csv",
+  "arquivo": "votacoesObjetos-2015.csv",
+  "bytes": 43383188,
+  "sha256": "881365440b7835a17d92520decec6399aecec8ba5849ecd823f37ef3b2dcf4b5",
+  "capturado": "2026-11-02T21:19:15"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2016.csv",
+  "arquivo": "votacoes-2016.csv",
+  "bytes": 3788821,
+  "sha256": "90cb45f3ae4cc43244433901658c53c3c0f1dab03307397c31215b64ada4df1e",
+  "capturado": "2026-11-02T21:19:16"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2016.csv",
+  "arquivo": "votacoesVotos-2016.csv",
+  "bytes": 24038129,
+  "sha256": "067af2409b22901bb52fc6c5c3d2aa730cabad83ea23dd1209c968a8f66dfff8",
+  "capturado": "2026-11-02T21:19:16"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2016.csv",
+  "arquivo": "votacoesOrientacoes-2016.csv",
+  "bytes": 1245308,
+  "sha256": "a2f86274e5dcffbac5392a3d48932559de59949985a7ac8854cb9f6272bed399",
+  "capturado": "2026-11-02T21:19:17"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2016.csv",
+  "arquivo": "votacoesObjetos-2016.csv",
+  "bytes": 15515950,
+  "sha256": "479290481fa6d45328a8563111dedcb423f3c6a1d7619adc9d066774b10d5b15",
+  "capturado": "2026-11-02T21:19:17"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2017.csv",
+  "arquivo": "votacoes-2017.csv",
+  "bytes": 4899719,
+  "sha256": "16027a78d7af6e3d45a8792b0f53d0a3943fe664c2d7078f5db485437c2db176",
+  "capturado": "2026-11-02T21:19:18"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2017.csv",
+  "arquivo": "votacoesVotos-2017.csv",
+  "bytes": 25395971,
+  "sha256": "8d1d689afc4e2da3a92c1c1ef2bc3334cf38df9678110f38626a8230087f04c2",
+  "capturado": "2026-11-02T21:19:18"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2017.csv",
+  "arquivo": "votacoesOrientacoes-2017.csv",
+  "bytes": 1222948,
+  "sha256": "2ce7f25321e21a06e07213dcec9e62e59744217e1120faf6d54866c9c78ba69f",
+  "capturado": "2026-11-02T21:19:19"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2017.csv",
+  "arquivo": "votacoesObjetos-2017.csv",
+  "bytes": 14261866,
+  "sha256": "492716483b25f3e0eb47e7fa56f83e48a98c94da46dbd4b0c809e8f7af85c149",
+  "capturado": "2026-11-02T21:19:19"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2018.csv",
+  "arquivo": "votacoes-2018.csv",
+  "bytes": 2498791,
+  "sha256": "bd5e8c9474fdc819ee053486fe59ae4f61cb787650e73a8b352374ca9a8d3130",
+  "capturado": "2026-11-02T21:19:19"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2018.csv",
+  "arquivo": "votacoesVotos-2018.csv",
+  "bytes": 15251571,
+  "sha256": "052f899eb81249a9f44a686f0caee0e928a0837f36ae96cdea692e7859dcc81c",
+  "capturado": "2026-11-02T21:19:20"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2018.csv",
+  "arquivo": "votacoesOrientacoes-2018.csv",
+  "bytes": 729109,
+  "sha256": "5a3c3d5103c0b83fbc01c2d9f29857a77f3030ffb420fb0b6a491d260305b692",
+  "capturado": "2026-11-02T21:19:20"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2018.csv",
+  "arquivo": "votacoesObjetos-2018.csv",
+  "bytes": 5565531,
+  "sha256": "dfec4489f00c3e6dc4d4672fdfd85b7a16fb29145c05086bc08ffa413d377cf9",
+  "capturado": "2026-11-02T21:19:28"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2019.csv",
+  "arquivo": "votacoes-2019.csv",
+  "bytes": 5822520,
+  "sha256": "afd83272e36b92caedc409735ca4601197d1af055f2b54bb854991ed3a25a739",
+  "capturado": "2026-11-02T21:19:28"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2019.csv",
+  "arquivo": "votacoesVotos-2019.csv",
+  "bytes": 40315179,
+  "sha256": "a9ccbafb326d9478b2e06e2b810590743db31e205ead6374b9d71f0eaff674f8",
+  "capturado": "2026-11-02T21:19:29"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2019.csv",
+  "arquivo": "votacoesOrientacoes-2019.csv",
+  "bytes": 1701827,
+  "sha256": "c6f12a0b2f3d6c178442eb936546bfe77703746dcca1aaac2629464168f33818",
+  "capturado": "2026-11-02T21:19:29"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2019.csv",
+  "arquivo": "votacoesObjetos-2019.csv",
+  "bytes": 22207983,
+  "sha256": "965f608c571634121cdd05007ac7fbec9383cfa82fa292ff5ce2ab6269f3f6ea",
+  "capturado": "2026-11-02T21:19:29"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2020.csv",
+  "arquivo": "votacoes-2020.csv",
+  "bytes": 1251121,
+  "sha256": "400fcca14e325a6051eb3d916993b11261eb395dd1419f6ae26f74f4bcc27508",
+  "capturado": "2026-11-02T21:19:30"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2020.csv",
+  "arquivo": "votacoesVotos-2020.csv",
+  "bytes": 53142330,
+  "sha256": "774e6d93431b26665e55e546732b8adea230b90dfa57fcba27af3e487d98352f",
+  "capturado": "2026-11-02T21:19:31"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2020.csv",
+  "arquivo": "votacoesOrientacoes-2020.csv",
+  "bytes": 2203269,
+  "sha256": "0201c381fa322008b6d676a838b538acb921df487b8edb5729abd9ce317d825d",
+  "capturado": "2026-11-02T21:19:32"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2020.csv",
+  "arquivo": "votacoesObjetos-2020.csv",
+  "bytes": 15003663,
+  "sha256": "08bfd0ce4d2eac302dcf8245ca3ba66231efaa4b38682990a818e2820aeda23a",
+  "capturado": "2026-11-02T21:19:32"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2021.csv",
+  "arquivo": "votacoes-2021.csv",
+  "bytes": 6439306,
+  "sha256": "c1852313c86d77adaa9d98e258136117c1ff34b284c46bcc9393d1b36f754481",
+  "capturado": "2026-11-02T21:19:32"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2021.csv",
+  "arquivo": "votacoesVotos-2021.csv",
+  "bytes": 107223020,
+  "sha256": "a6a4bb6b52a693e80816bedbe4b6f56439e73ab9e094e88b53e4e90d60499c86",
+  "capturado": "2026-11-02T21:20:00"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2021.csv",
+  "arquivo": "votacoesOrientacoes-2021.csv",
+  "bytes": 5484729,
+  "sha256": "fd7c27900340e551146482e3a95dbe9b94a181560dd7e5c7e91cd5e33f024baa",
+  "capturado": "2026-11-02T21:20:01"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2021.csv",
+  "arquivo": "votacoesObjetos-2021.csv",
+  "bytes": 30311701,
+  "sha256": "c467b926da9ece1b8b1f4fea4f9ff7b19e45a87bb31ca97b1cf42c3a64c91c95",
+  "capturado": "2026-11-02T21:20:02"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2022.csv",
+  "arquivo": "votacoes-2022.csv",
+  "bytes": 3658359,
+  "sha256": "476cee7a84664e00a1882ccdd7905bc8bcd00fad135d513171889a2e5f1d70b3",
+  "capturado": "2026-11-02T21:20:03"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2022.csv",
+  "arquivo": "votacoesVotos-2022.csv",
+  "bytes": 65607779,
+  "sha256": "1ac7899df26aa5f41ea5cd89ecdf0f8aa4a2453333d9cc3667f90794fb1486eb",
+  "capturado": "2026-11-02T21:20:11"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2022.csv",
+  "arquivo": "votacoesOrientacoes-2022.csv",
+  "bytes": 3395543,
+  "sha256": "1007825e8ccc4be83baed7ac47b45d0092a3e2df5e3149225ad469aa316481bb",
+  "capturado": "2026-11-02T21:20:13"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2022.csv",
+  "arquivo": "votacoesObjetos-2022.csv",
+  "bytes": 15165580,
+  "sha256": "e5b8545834b484bce263b8da2cf1803b3c61788e18905f73d2942062a7f7abb6",
+  "capturado": "2026-11-02T21:20:14"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2023.csv",
+  "arquivo": "votacoes-2023.csv",
+  "bytes": 6706788,
+  "sha256": "3ccbabab8a2aeea6cc6448649aece2869b370720bacafdb4dd76d5ea2aa941f6",
+  "capturado": "2026-11-02T21:20:15"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2023.csv",
+  "arquivo": "votacoesVotos-2023.csv",
+  "bytes": 42793597,
+  "sha256": "1a8573a51bb7edaeb8c2970babe4f3afc3f64ea101aa068a904e0cce90f08cb6",
+  "capturado": "2026-11-02T21:20:15"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2023.csv",
+  "arquivo": "votacoesOrientacoes-2023.csv",
+  "bytes": 1052068,
+  "sha256": "aa34779886161d5c17a2f6b92533402692a348fecb035c904c987035cf7fbfdf",
+  "capturado": "2026-11-02T21:20:16"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2023.csv",
+  "arquivo": "votacoesObjetos-2023.csv",
+  "bytes": 26316459,
+  "sha256": "1c0681d3cefe97c69c75817f61d0df6ded2aae26c7417858e7a8227ddb1a354e",
+  "capturado": "2026-11-02T21:20:16"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2024.csv",
+  "arquivo": "votacoes-2024.csv",
+  "bytes": 6270723,
+  "sha256": "dbd83e3a9b62e210a75e1abaaf3a94c6fcac7b789a683dfc6d03ec118f93c27b",
+  "capturado": "2026-11-02T21:20:18"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2024.csv",
+  "arquivo": "votacoesVotos-2024.csv",
+  "bytes": 38680746,
+  "sha256": "8636ad0b9a94757ef34129ef1c05cfe7586a9e58cb80ebc4b0992a1c09b410ec",
+  "capturado": "2026-11-02T21:20:19"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2024.csv",
+  "arquivo": "votacoesOrientacoes-2024.csv",
+  "bytes": 1023616,
+  "sha256": "10ea98903a94f44e9c67d9cdb0cf10e72073a083f7b4fe7f4c6ecd99feba58d0",
+  "capturado": "2026-11-02T21:20:20"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2024.csv",
+  "arquivo": "votacoesObjetos-2024.csv",
+  "bytes": 27222248,
+  "sha256": "240b2739dc1a1c20c9586cb819810a0df26fb5a0e729bbd336d61e16b2ae64d2",
+  "capturado": "2026-11-02T21:20:21"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2025.csv",
+  "arquivo": "votacoes-2025.csv",
+  "bytes": 8765235,
+  "sha256": "7171b1454a19255d1373f8bd6f91ddeb99b7d5ff287356ad0c35ecd04f326562",
+  "capturado": "2026-11-02T21:20:22"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2025.csv",
+  "arquivo": "votacoesVotos-2025.csv",
+  "bytes": 58233239,
+  "sha256": "3947bbacff2efc91f0d11b0796a6c6b61cca0783bb7688401c97aaec888789cb",
+  "capturado": "2026-11-02T21:20:22"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2025.csv",
+  "arquivo": "votacoesOrientacoes-2025.csv",
+  "bytes": 1095383,
+  "sha256": "98e43cc8ea4079d6943685b220debdb7eb584e801d2173d1e1990b948e868581",
+  "capturado": "2026-11-02T21:20:27"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2025.csv",
+  "arquivo": "votacoesObjetos-2025.csv",
+  "bytes": 45035854,
+  "sha256": "40832ac1ba349576bbcb55aef4b15f58efcb38f45fc0a30585a44ececb09db04",
+  "capturado": "2026-11-02T21:20:27"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoes/csv/votacoes-2026.csv",
+  "arquivo": "votacoes-2026.csv",
+  "bytes": 4628651,
+  "sha256": "dc4a7a37fdd4c328bd842aa9c21d502d1eac4c8fb1b98e51d1bd1d2c51809804",
+  "capturado": "2026-11-02T21:20:28"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2026.csv",
+  "arquivo": "votacoesVotos-2026.csv",
+  "bytes": 17648870,
+  "sha256": "d258db1d925d0d5251ad53b732d4d45a4ab6ff9bee8fe480839448024e6d2abb",
+  "capturado": "2026-11-02T21:20:29"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2026.csv",
+  "arquivo": "votacoesOrientacoes-2026.csv",
+  "bytes": 446628,
+  "sha256": "cd3dcfd390c4a72c398344b11a60b6f413faf83c15eaf7f5e28e7bc8559b6165",
+  "capturado": "2026-11-02T21:20:30"
+ },
+ {
+  "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesObjetos/csv/votacoesObjetos-2026.csv",
+  "arquivo": "votacoesObjetos-2026.csv",
+  "bytes": 13878999,
+  "sha256": "1800ef9b488b64954375a372aa91d6bfc37569ac3adc406d87875308eb42bea6",
+  "capturado": "2026-11-02T21:20:30"
+ }
+]

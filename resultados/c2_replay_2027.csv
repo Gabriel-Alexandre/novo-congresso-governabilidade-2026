@@ -1,0 +1,685 @@
+idVotacao,ano,com,contra,venceu,com_gov,contra_gov,gov_venceu,descricao,data,orient
+1197773-90,2023,361.61,59.9,True,335,49,True,"Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 335; não: 49; abstenção: 1; total: 385",2023-08-09,Sim
+1197773-99,2023,286.39,133.42,True,264,117,True,Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382.,2023-08-09,Não
+1548579-109,2023,280.07,59.12,True,267,52,True,Rejeitado o Requerimento. Sim:  52;  não: 267; abstenção: 1; total: 320.,2023-12-21,Não
+1548579-114,2023,291.24,60.04,True,281,56,True,Rejeitado o Requerimento. Sim: 56; não: 281; total: 337.,2023-12-21,Não
+1548579-122,2023,304.47,53.5,True,295,51,True,Rejeitado o Requerimento. Sim: 51; não: 295; total: 346.,2023-12-21,Não
+1548579-126,2023,301.16,127.81,True,299,103,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 299; não: 103; abstenção: 1; total: 403.",2023-12-21,Sim
+1548579-144,2023,318.29,94.28,True,301,81,True,Mantido o texto. Sim: 301; não: 81; total: 382.,2023-12-21,Sim
+2115253-104,2023,219.5,210.62,True,213,184,True,Rejeitado o Requerimento. Sim: 184; não: 213; total: 397.,2023-05-17,Não
+2115253-111,2023,233.67,209.72,True,232,187,True,Rejeitado o Requerimento. Sim: 187; não: 232; total: 419.,2023-05-17,Não
+2115253-116,2023,229.4,199.46,True,221,173,True,Rejeitado o Requerimento. Sim: 173; não: 221; total: 394.,2023-05-17,Não
+2115253-118,2023,220.81,205.46,True,217,180,True,"Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação e Informática. Sim: 217; não: 180; total: 397.",2023-05-17,Sim
+2115253-156,2023,283.07,130.6,True,274,104,True,Rejeitado o Requerimento. Sim: 104; não: 274; total: 378.,2023-11-08,Não
+2115253-167,2023,274.16,151.21,True,269,120,True,Rejeitado o Requerimento. Sim: 120; não: 269; total: 389.,2023-11-08,Não
+2115253-172,2023,291.66,60.87,True,288,49,True,Rejeitado o Requerimento.Sim: 49; não: 288; abstenção: 2; total: 339.,2023-11-08,Não
+2115253-175,2023,290.67,151.09,True,296,121,True,"Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419.",2023-11-08,Sim
+2115253-179,2023,269.74,157.11,True,268,124,True,Mantido o texto. Sim: 268; não: 124; total: 392.,2023-11-08,Sim
+2115253-183,2023,290.34,141.12,True,286,112,True,"Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho Júnior (PP-TO). Sim: 286; não: 112; total: 398.",2023-11-08,Sim
+2149303-50,2023,326.0,118.48,True,323,98,True,"Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424.",2023-10-18,Sim
+2190084-93,2023,172.46,272.96,False,160,253,False,Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414.,2023-11-29,Não
+2194442-74,2023,361.54,74.59,True,349,63,True,Rejeitado o requerimento. Sim:63; não: 349; abstenção: 1; total: 413,2023-11-21,Não
+2196833-307,2023,291.12,172.63,True,302,148,True,Rejeitado o Requerimento. Sim: 148; não: 302; abstenção: 1; total: 451.,2023-07-05,Não
+2196833-323,2023,333.94,144.59,True,357,133,True,Rejeitado o Requerimento. Sim: 133; não: 357; abstenção: 3; total: 493.,2023-07-06,Não
+2196833-326,2023,355.1,128.66,True,382,118,True,"Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503.",2023-07-06,Sim
+2196833-328,2023,350.13,132.9,True,379,114,True,Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494.,2023-07-06,Sim
+2196833-331,2023,298.73,181.46,True,317,170,True,Mantido o texto. Sim: 317; não: 170; total: 487.,2023-07-06,Sim
+2196833-349,2023,362.86,122.84,True,390,108,True,Mantido o texto. Sim: 390; não: 108; abstenção: 1; total: 499.,2023-07-06,Sim
+2196833-353,2023,354.53,128.11,True,379,116,True,Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496.,2023-07-06,Sim
+2196833-356,2023,367.7,110.09,True,383,103,True,Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488.,2023-07-06,Sim
+2196833-359,2023,350.21,129.89,True,379,114,True,Mantido o texto. Sim: 379; não: 114; abstenção: 2; total: 495.,2023-07-06,Sim
+2196833-362,2023,326.73,154.67,True,344,147,True,Mantido o texto. Sim: 344; não: 147; abstenção: 2; total: 493.,2023-07-06,Sim
+2196833-373,2023,349.07,128.2,True,375,113,True,"Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 375; não: 113; abstenção:3; total: 491.",2023-07-06,Sim
+2196833-386,2023,316.44,155.91,True,336,132,True,Mantido o texto. Sim: 336; não: 132; total: 468.,2023-07-07,Sim
+2196833-390,2023,324.11,97.56,True,349,84,True,Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435.,2023-07-07,Sim
+2196833-395,2023,299.24,163.87,True,307,166,True,Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478.,2023-07-07,Sim
+2224999-104,2023,279.74,62.51,True,270,57,True,Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327.,2023-10-03,Não
+2231632-102,2023,153.44,279.78,False,144,257,False,Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403.,2023-12-05,Não
+2231632-97,2023,250.25,194.49,True,240,180,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 240; não: 180; total: 420.",2023-12-05,Sim
+2299903-53,2023,295.08,143.76,True,286,121,True,"Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409.",2023-11-29,Sim
+2301683-33,2023,278.14,73.81,True,247,56,True,Rejeitado o Requerimento. Sim: 56; não: 247; total: 303.,2023-03-22,Não
+2309053-179,2023,176.39,252.82,False,159,251,False,Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416.,2023-10-03,Sim
+2310837-8,2023,236.97,214.17,True,238,192,True,Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.,2023-04-25,Sim
+2312373-128,2023,385.63,58.3,True,371,45,True,"Rejeitado o requerimento. Sim:  45; não: 371, total: 416.",2023-11-22,Não
+2326749-8,2023,125.84,304.86,False,107,296,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; não: 107; total: 403.,2023-04-11,Não
+2336393-59,2023,303.19,132.36,True,301,101,True,Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402.,2023-09-05,Não
+2336393-61,2023,380.26,50.57,True,347,51,True,Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399.,2023-09-05,Não
+2336393-64,2023,237.54,179.76,True,231,148,True,Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380.,2023-09-05,Não
+2336393-67,2023,275.5,152.99,True,261,135,True,Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396.,2023-09-05,Não
+2344909-65,2023,123.29,320.56,False,107,311,False,Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418.,2023-11-07,Não
+2344938-48,2023,293.93,135.55,True,289,108,True,Mantido o texto. Sim: 289; não: 108; total: 397.,2023-04-25,Sim
+2344938-60,2023,287.85,142.79,True,282,115,True,Mantido o texto. Sim: 282; não: 115; total: 397.,2023-04-25,Sim
+2344938-71,2023,144.41,268.4,False,132,242,False,Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374.,2023-04-25,Sim
+2345281-63,2023,289.72,133.01,True,284,106,True,Mantido o texto. Sim: 284 ; não: 106; total: .390.,2023-11-06,Sim
+2345368-50,2023,149.33,187.68,False,122,150,False,Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272.,2023-03-30,Não
+2345368-56,2023,211.92,178.86,True,195,143,True,Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338.,2023-03-30,Não
+2345368-78,2023,380.08,70.75,True,364,66,True,"Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432.",2023-05-24,Não
+2345493-31,2023,319.26,149.86,True,337,130,True,Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468.,2023-05-31,Não
+2345493-35,2023,316.08,137.05,True,324,114,True,Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439.,2023-05-31,Sim
+2345493-38,2023,309.91,135.74,True,319,111,True,"Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431.",2023-05-31,Sim
+2345493-41,2023,321.27,145.72,True,337,125,True,"Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463.",2023-05-31,Sim
+2345493-44,2023,312.84,139.76,True,324,114,True,Mantido o texto. Sim: 324; não:  114; abstenção: 1; total: 439.,2023-05-31,Sim
+2345493-47,2023,255.28,202.8,True,260,186,True,Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448.,2023-05-31,Sim
+2345493-50,2023,244.04,200.7,True,243,182,True,Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427.,2023-05-31,Não
+2349947-42,2023,269.39,180.21,True,270,159,True,Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429.,2023-05-30,Não
+2350706-6,2023,297.14,113.04,True,280,97,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 280; não: 97; abstenção: 1; total: 378.,2023-03-15,Sim
+2351332-7,2023,380.98,50.78,True,366,41,True,Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 366; não: 41; abstenção: 1; total: 408.,2023-03-14,Sim
+2351990-37,2023,369.7,65.45,True,353,58,True,"Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 353; não: 58; abstenção: 1; total: 412.",2023-06-14,Sim
+2352500-11,2023,268.86,168.39,True,264,144,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 264; não: 144; total: 408.,2023-04-11,Sim
+2354502-8,2023,361.9,49.03,True,330,43,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374.,2023-05-10,Sim
+2354899-8,2023,120.65,327.39,False,106,319,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425.,2023-04-11,Não
+2355135-39,2023,130.18,290.04,False,114,265,False,Rejeitado o Requerimento. Sim: 114; não: 265; abstenção: 2; total: 381.,2023-05-03,Sim
+2355135-49,2023,144.39,307.06,False,136,295,False,"Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432.",2023-05-03,Não
+2355627-8,2023,54.56,359.29,False,48,328,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 328; não: 48; total: 376.,2023-08-01,Não
+2357053-105,2023,344.06,116.61,True,351,92,True,Aprovado o Requerimento. Sim: 351; não: 92; total: 443.,2023-08-22,Sim
+2357053-108,2023,380.54,80.94,True,379,64,True,"Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443.",2023-08-22,Sim
+2357053-30,2023,330.94,127.85,True,342,105,True,Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449.,2023-05-23,Não
+2357053-38,2023,348.74,125.09,True,371,105,True,Aprovado o Requerimento. Sim: 371; não: 105; abstenção: 2; total: 478.,2023-05-23,Sim
+2357053-47,2023,349.16,127.06,True,372,108,True,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 372; não: 108; abstenção: 1; total: 481.",2023-05-23,Sim
+2357053-50,2023,336.63,122.34,True,346,102,True,"Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques. Sim: 102; não: 346; abstenção: 1; total: 449.",2023-05-23,Não
+2357053-59,2023,310.28,158.31,True,326,138,True,Mantido o texto. Sim: 326; não: 138; total: 464.,2023-05-24,Sim
+2357053-62,2023,309.76,166.13,True,316,160,True,Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479.,2023-05-24,Sim
+2357053-65,2023,292.1,183.75,True,306,170,True,Mantido o texto. Sim: 306; não: 170; total: 476.,2023-05-24,Sim
+2357053-70,2023,319.75,148.15,True,335,126,True,Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461.,2023-05-24,Não
+2357055-29,2023,356.21,83.48,True,346,72,True,"Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421.",2023-05-10,Sim
+2357871-9,2023,142.59,323.89,False,136,322,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460.,2023-05-03,Não
+2357898-11,2023,168.06,273.4,False,156,254,False,Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 254; não: 156; abstenção: 5; total: 415.,2023-12-06,Não
+2358915-39,2023,286.05,56.11,True,272,56,True,Rejeitado o Requerimento. Sim: 56; não: 272; abstenção: 5; total: 333.,2023-10-04,Não
+2359135-28,2023,319.5,110.36,True,310,92,True,Rejeitado o Requerimento. Sim: 92; não: 310; total: 402.,2023-08-23,Não
+2359287-7,2023,266.93,183.47,True,274,157,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 274; não: 157; abstenção: 1; total: 432.,2023-05-16,Sim
+2360503-27,2023,298.7,142.32,True,298,118,True,Rejeitado o Requerimento. Sim: 118; não: 298; total: 416.,2023-07-07,Não
+2360503-35,2023,273.44,115.01,True,260,91,True,Rejeitado o Requerimento. Sim: 91; não: 260; abstenção: 1; total: 352.,2023-07-07,Não
+2360503-45,2023,286.17,109.67,True,281,86,True,Rejeitado o Requerimento. Sim: 86; não: 281; abstenção: 1; total: 368.,2023-07-07,Não
+2360503-74,2023,290.88,140.49,True,284,112,True,Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397.,2023-07-07,Não
+2362137-8,2023,347.99,112.84,True,356,89,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 356; não: 89; abstenção: 1; total: 446.,2023-05-16,Sim
+2362292-8,2023,344.97,126.43,True,367,102,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 367; não: 102; abstenção: 1; total: 470.,2023-05-17,Sim
+2362947-9,2023,301.8,128.73,True,291,106,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; não: 106; abstenção: 5; total: 402.,2023-08-16,Sim
+2367064-66,2023,335.23,108.03,True,327,96,True,Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424.,2023-07-07,Sim
+2367064-82,2023,245.17,219.08,True,251,206,True,Mantido o texto. Sim: 251; não: 206; total: 457.,2023-07-07,Sim
+2369594-8,2023,313.37,93.72,True,278,88,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370.,2023-06-20,Sim
+2372071-41,2023,354.44,86.56,True,349,68,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419.",2023-09-14,Sim
+2372071-44,2023,271.4,170.61,True,270,146,True,Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417.,2023-09-14,Sim
+2372099-6,2023,321.32,125.04,True,335,100,True,"Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019. Sim: 335; não: 100; abstenção: 2; total: 437.",2023-07-06,Sim
+2372983-7,2023,296.71,124.69,True,287,95,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 287; não: 95; abstenção: 1; total: 383.,2023-08-08,Sim
+2374400-101,2023,297.2,127.7,True,281,106,True,Rejeitado o Requerimento. Sim: 106; não: 281; total: 387.,2023-12-21,Não
+2374400-106,2023,293.55,123.57,True,275,100,True,Rejeitado o Requerimento. Sim: 100; não: 275; total: 375.,2023-12-21,Não
+2374400-110,2023,304.01,133.65,True,292,114,True,"Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e das Emendas nºs 2, 4 a 7, 10 a 15, 18 a 22, 25 a 28, 30, 31, 35, 37, 39, 41 e 42. Sim: 292; não: 114; abstenção: 1; total: 407.",2023-12-21,Sim
+2374400-121,2023,275.28,144.6,True,261,120,True,Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382.,2023-12-21,Não
+2374400-46,2023,355.88,89.12,True,342,82,True,Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432.,2023-09-13,Não
+2374400-53,2023,223.38,246.22,False,222,242,False,Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466.,2023-09-13,Sim
+2375497-8,2023,341.17,61.66,True,311,45,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; não: 45; total: 356.,2023-08-08,Sim
+2375543-9,2023,297.34,143.68,True,300,118,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; não: 118; abstenção: 1; total: 419.,2023-08-09,Sim
+2375630-8,2023,303.41,133.29,True,297,105,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 105; abstenção: 1; total: 403.,2023-09-19,Sim
+2376169-40,2023,92.39,275.57,False,81,234,False,Rejeitado o Requerimento. Sim: 81; não: 234; total: 315.,2023-10-31,Sim
+2377566-12,2023,326.39,118.31,True,325,97,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 325; não: 97; total: 422.,2023-08-29,Sim
+2380935-9,2023,311.08,118.49,True,305,89,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; não: 89; total: 394.,2023-09-05,Sim
+2381043-35,2023,273.33,152.98,True,260,132,True,Rejeitado o Requerimento. Sim: 132; não: 260; abstenção: 1; total: 393.,2023-11-22,Não
+2381043-45,2023,266.4,146.4,True,250,123,True,Rejeitado o Requerimento. Sim: 123; não: 250; total: 373.,2023-11-22,Não
+2381043-60,2023,271.02,128.03,True,255,106,True,Rejeitado o Requerimento. Sim: 106; não: 255; abstenção: 1; total: 362.,2023-11-22,Não
+2381043-63,2023,255.03,134.8,True,235,110,True,"Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total: 346.",2023-11-22,Sim
+2381043-66,2023,234.45,54.6,True,205,53,True,Mantido o texto. Sim: 205; não: 53; abstenção: 5; total: 263.,2023-11-22,Sim
+2383287-23,2023,288.25,148.48,True,279,121,True,Rejeitado o Requerimento. Sim: 121; não: 279; abstenção: 1 total: 401.,2023-10-25,Não
+2383287-30,2023,285.74,159.93,True,287,128,True,Rejeitado o Requerimento. Sim: 128; não: 287; abstenção: 1; total: 416.,2023-10-25,Não
+2383287-41,2023,308.46,145.66,True,318,118,True,Rejeitado o Requerimento. Sim: 118; não:318; total: 436.,2023-10-25,Não
+2383287-43,2023,320.66,139.95,True,323,119,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443.",2023-10-25,Sim
+2383287-47,2023,306.67,140.39,True,303,116,True,Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420.,2023-10-25,Não
+2383287-50,2023,284.16,143.53,True,277,116,True,Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394.,2023-10-25,Não
+2383287-53,2023,314.16,141.25,True,318,116,True,Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434.,2023-10-25,Não
+2383287-61,2023,301.87,150.43,True,302,127,True,Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429.,2023-10-25,Não
+2384692-27,2023,326.64,40.11,True,331,42,True,Rejeitado o Requerimento. Sim: 42; não: 331; abstenção: 1; total: 374.,2023-12-15,Não
+2384692-31,2023,328.3,39.49,True,327,43,True,"Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 43; abstenção:1; total: 371.",2023-12-15,Sim
+2384692-33,2023,335.23,47.33,True,338,47,True,"Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 338; não: 47; abstenção: 2; total: 387.",2023-12-15,Sim
+2384692-35,2023,331.57,54.13,True,335,56,True,"Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 335; não: 56; abstenção: 1; total: 392.",2023-12-15,Sim
+2384692-38,2023,331.3,53.88,True,336,56,True,Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394.,2023-12-15,Não
+2384692-43,2023,311.67,45.84,True,304,49,True,Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353.,2023-12-15,Não
+2384692-45,2023,322.28,48.12,True,325,49,True,Rejeitada a Emenda de Comissão nº 52. Sim: 49;  não: 325;  total: 375.,2023-12-15,Não
+2384692-49,2023,322.12,45.91,True,320,50,True,Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370.,2023-12-15,Não
+2387266-8,2023,393.01,62.76,True,384,51,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; não: 51; abstenção: 3; total: 438.,2023-09-13,Sim
+2387579-19,2023,248.43,43.26,True,219,38,True,Rejeitado o Requerimento. Sim: 38; não: 219; abstenção: 2; total: 259.,2023-12-14,Não
+2387579-27,2023,237.85,72.26,True,201,62,True,Rejeitado o Requerimento. Sim: 62; não: 201; total: 263.,2023-12-14,Não
+2387579-35,2023,258.65,36.62,True,221,40,True,"Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 221; não: 40; abstenção: 3; total: 264.",2023-12-14,Sim
+2387579-37,2023,259.3,49.54,True,229,49,True,"Aprovada a Medida Provisória nº 1.187 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 229; não: 49; total: 278.",2023-12-14,Sim
+2387579-40,2023,255.94,34.0,True,225,32,True,Mantido o texto. Sim: 225; não: 32; total: 257.,2023-12-14,Sim
+2387579-43,2023,267.04,37.15,True,241,38,True,Mantido o texto. Sim: 241; não: 38; total: 279.,2023-12-14,Sim
+2387579-46,2023,274.23,31.77,True,246,29,True,Mantido o texto. Sim: 246; não: 29; total: 275.,2023-12-14,Sim
+2387579-49,2023,267.55,37.12,True,238,36,True,Mantido o texto. Sim: 238; não: 36; abstenção: 1; total: 275.,2023-12-14,Sim
+2390639-8,2023,312.39,48.95,True,277,33,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim:  277; não: 33 ; total:310.,2023-11-07,Sim
+2395883-53,2023,327.32,113.03,True,311,103,True,"Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 311; não: 103; abstenção: 1; total: 415.",2023-12-19,Sim
+2397925-16,2023,288.84,122.58,True,279,94,True,Rejeitado o Requerimento. Sim: 94; não: 279; total: 373.,2023-11-07,Não
+2398741-64,2023,337.74,104.01,True,326,84,True,"Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411.",2023-11-29,Sim
+2399396-7,2023,341.48,46.38,True,309,35,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344.,2023-11-07,Sim
+2400068-20,2023,264.92,172.38,True,259,155,True,Rejeitado o Requerimento. Sim: 155; não: 259; abstenção: 1; total: 415,2023-12-19,Não
+2400068-23,2023,265.47,186.92,True,262,171,True,"Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, de 2021. Sim: 171; não: 262; total: 433.",2023-12-19,Não
+2400115-8,2023,369.51,72.24,True,358,55,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 55; total: 413.,2023-10-30,Sim
+2404958-8,2023,302.15,139.44,True,303,115,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim:303; não: 115; abstenção: 2; total: 420.,2023-11-21,Sim
+2405312-8,2023,139.91,313.12,False,131,301,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 301; não: 131; total: 432.,2023-11-21,Não
+2407521-8,2023,373.52,76.44,True,371,60,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; não: 60;  total: 431.,2023-12-19,Sim
+2407960-8,2023,335.01,68.19,True,302,57,True,Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359.,2023-11-29,Sim
+2409076-34,2023,363.63,96.66,True,370,77,True,"Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451.",2023-12-13,Sim
+2411730-8,2023,313.45,118.75,True,309,94,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 94; total: 403.,2023-12-13,Sim
+2412712-8,2023,360.17,105.95,True,351,102,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 351; não: 102; total: 453.,2023-12-13,Sim
+2414600-8,2023,313.65,133.64,True,307,115,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; não: 115; abstenção: 1; total: 423.,2023-12-21,Sim
+259094-121,2023,313.9,44.79,True,311,46,True,Rejeitado o Requerimento. Sim: 46; não: 311; abstenção 3; total: 360.,2023-12-15,Não
+259094-125,2023,317.39,40.95,True,318,44,True,Rejeitado o Requerimento. Sim: 44; não: 318; abstenção: 3; total: 365.,2023-12-15,Não
+259094-129,2023,331.3,43.16,True,340,42,True,Aprovado o Requerimento. Sim: 340; não: 42; abstenção: 3; total: 385.,2023-12-15,Sim
+259094-136,2023,347.69,129.0,True,371,121,True,"Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 371; não: 121; abstenção: 3; total: 495.",2023-12-15,Sim
+259094-140,2023,307.56,174.45,True,326,161,True,Mantido o texto. Sim: 326; não: 161: total: 487.,2023-12-15,Sim
+259094-146,2023,398.09,52.92,True,370,62,True,Suprimido o texto. Sim: 62; não: 370; total: 432.,2023-12-15,Não
+259094-149,2023,335.79,149.55,True,352,141,True,Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494.,2023-12-15,Sim
+259094-172,2023,284.97,190.51,True,285,192,True,Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479.,2023-12-15,Sim
+259094-176,2023,327.98,153.74,True,341,153,True,Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498.,2023-12-15,Sim
+259094-187,2023,319.37,48.63,True,323,49,True,Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373.,2023-12-15,Não
+259094-190,2023,344.76,129.38,True,365,118,True,"Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484.",2023-12-15,Sim
+259094-193,2023,315.19,167.52,True,333,154,True,Mantido o texto. Sim: 333; não: 154; total: 487.,2023-12-15,Sim
+259094-199,2023,280.18,204.0,True,293,198,True,Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492.,2023-12-15,Sim
+345311-248,2023,138.31,278.16,False,123,257,False,Rejeitado o Requerimento. Sim: 123; não: 257; total: 380.,2023-05-30,Sim
+345311-257,2023,141.67,316.34,False,137,311,False,Aprovado o Requerimento. Sim: 311; não: 137; abstenção: 1; total: 449.,2023-05-30,Não
+345311-270,2023,161.3,292.36,False,155,283,False,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439.",2023-05-30,Não
+345311-276,2023,151.35,302.61,False,148,288,False,Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438.,2023-05-30,Não
+345311-279,2023,145.21,306.45,False,142,290,False,Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433.,2023-05-30,Não
+503670-99,2023,282.4,121.61,True,268,96,True,Rejeitado o Requerimento. Sim: 96; não: 268; abstenção: 1; total: 365.,2023-10-31,Não
+1548579-194,2024,349.38,51.22,True,336,38,True,"Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376.",2024-11-19,Sim
+2166464-128,2024,377.13,71.25,True,384,59,True,"Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444.",2024-06-04,Sim
+2167882-83,2024,317.53,118.97,True,325,97,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia. Sim: 325; não: 97; abstenção: 1; total: 423.",2024-02-28,Sim
+2178408-157,2024,299.72,130.09,True,301,114,True,Rejeitado o Requerimento. Sim: 114; não: 301; total: 415.,2024-08-28,Não
+2178408-173,2024,297.5,146.21,True,305,132,True,Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438.,2024-08-28,Sim
+2194861-62,2024,108.1,273.3,False,90,247,False,Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337.,2024-12-12,Sim
+2194861-66,2024,119.75,276.79,False,108,248,False,Rejeitado o Requerimento. Sim: 108; Não: 248; Abstenção: 2; Total: 358.,2024-12-12,Sim
+2236291-85,2024,300.73,139.58,True,313,116,True,Mantido o texto. Sim: 313; não: 116; total: 429.,2024-06-19,Sim
+2238434-100,2024,400.11,38.66,True,382,48,True,Mantido o texto. Sim: 382; não: 48; total: 430.,2024-03-13,Sim
+2238434-89,2024,314.89,112.55,True,314,98,True,Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412.,2024-03-13,Não
+2238434-94,2024,237.47,198.73,True,232,191,True,Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425.,2024-03-13,Não
+2244008-82,2024,293.31,126.16,True,292,105,True,Rejeitado o Requerimento. Sim: 105; Não: 292; Total: 397.,2024-10-16,Não
+2258828-105,2024,87.88,293.46,False,85,267,False,Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366.,2024-12-12,Não
+2269745-70,2024,354.77,59.09,True,350,51,True,Rejeitado o Requerimento. Sim: 51; não: 350; abstenção: 3; total: 404.,2024-03-19,Não
+2269745-79,2024,283.68,114.36,True,279,93,True,Mantido o texto. Sim: 279; não: 93; total: 372.,2024-03-20,Sim
+2269745-84,2024,183.5,243.81,False,187,225,False,Mantido o texto. Sim: 225; não: 187; total: 412.,2024-03-20,Não
+2269745-86,2024,294.53,136.22,True,283,135,True,Mantido o texto. Sim: 283; não: 135; total: 418.,2024-03-20,Sim
+2269745-90,2024,321.22,100.14,True,315,87,True,Mantido o texto. Sim: 315; não: 87; abstenção: 1; total: 403.,2024-03-20,Sim
+2269745-93,2024,301.23,136.8,True,306,121,True,Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428.,2024-03-20,Sim
+2319364-20,2024,246.4,184.33,True,243,170,True,Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 243; Não: 170; Abstenção: 1; Total: 414.,2024-05-21,Sim
+2324243-8,2024,270.9,131.35,True,262,111,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD).  Sim: 262; Não: 111; Total: 373.,2024-11-13,Sim
+2349493-100,2024,117.45,314.68,False,115,305,False,Rejeitado o Requerimento. Sim: 115; não: 305; total: 420.,2024-05-22,Sim
+2349493-103,2024,117.9,326.37,False,113,320,False,Mantido o texto. Sim: 320; não: 113; total: 433.,2024-05-22,Não
+2349493-118,2024,156.01,291.56,False,148,292,False,Rejeitado o Destaque. Sim: 148; não: 292; total: 440.,2024-05-22,Sim
+2349493-69,2024,126.13,328.08,False,124,327,False,Rejeitado o Requerimento. Sim: 124; não: 327; abstenção: 1; total: 452.,2024-05-21,Sim
+2349493-73,2024,124.74,319.84,False,120,313,False,Aprovado o Requerimento. Sim: 313; não: 120; total: 433.,2024-05-21,Não
+2349493-80,2024,117.46,324.38,False,112,317,False,Rejeitado o Requerimento. Sim: 112; não: 317; total: 429.,2024-05-21,Sim
+2349493-82,2024,120.51,335.84,False,120,336,False,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 336; não: 120; abstenção: 1; total: 457.",2024-05-21,Não
+2349493-86,2024,119.38,324.89,False,116,322,False,Mantido o texto. Sim: 322; não: 116; total: 438.,2024-05-21,Não
+2349493-89,2024,125.72,321.04,False,119,320,False,Mantido o texto. Sim: 320; não: 119; total: 439.,2024-05-21,Não
+2349493-92,2024,121.76,322.01,False,120,315,False,Mantido o texto. Sim: 315; não: 120; total: 435.,2024-05-21,Não
+2349493-95,2024,121.48,319.23,False,119,313,False,Mantido o texto. Sim: 313; não: 119; total: 432.,2024-05-21,Não
+2379378-9,2024,252.65,181.93,True,258,164,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 164; abstenção: 3; total: 425.,2024-02-27,Sim
+2388491-7,2024,124.45,297.8,False,111,290,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 290; Não: 111; Abstenção: 3; Total: 404.,2024-11-26,Não
+2399598-108,2024,309.19,124.79,True,302,126,True,"Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428.",2024-07-09,Não
+2399598-70,2024,321.22,100.14,True,315,87,True,Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410.,2024-03-20,Sim
+2400758-37,2024,274.07,127.55,True,259,106,True,Rejeitado o Requerimento. Sim: 106; não: 259; total: 365.,2024-03-27,Não
+2400758-62,2024,299.15,150.24,True,304,136,True,"Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes. Sim: 304; não: 136; total: 440.",2024-04-09,Sim
+2401881-9,2024,118.15,303.95,False,111,293,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; não: 111; abstenção: 1; total: 405.,2024-04-16,Não
+2408105-8,2024,315.22,125.15,True,322,105,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 105; abstenção: 1; total:428.,2024-02-28,Sim
+2416733-28,2024,371.52,58.3,True,364,44,True,Rejeitado o Requerimento. Sim: 44; não: 364; total: 408.,2024-05-14,Não
+2416733-42,2024,332.7,111.58,True,339,96,True,"Aprovado o Substitutivo ao Projeto de Lei nº 6.235, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 339; não: 96; abstenção: 1; total: 436.",2024-05-14,Sim
+2416804-43,2024,311.83,114.54,True,314,96,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 314; não: 96; total: 410.",2024-03-19,Sim
+2416804-48,2024,304.47,124.34,True,305,107,True,Mantido o texto. Sim: 305; não: 107; total: 412.,2024-03-19,Sim
+2416804-51,2024,289.44,118.44,True,287,96,True,Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384.,2024-03-19,Sim
+2417025-29,2024,294.95,113.96,True,293,97,True,Rejeitado o Requerimento. Sim: 97; não: 293; total: 390.,2024-03-12,Não
+2417025-45,2024,284.57,154.87,True,290,139,True,"Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024. Sim: 139; não: 290; total: 429.",2024-03-12,Não
+2417025-50,2024,302.55,128.01,True,305,112,True,Rejeitado o Requerimento. Sim: 112; não: 305; total: 417.,2024-03-12,Não
+2417025-55,2024,297.08,142.33,True,303,130,True,Rejeitada a preferência. Sim: 130; não: 303; total: 433.,2024-03-12,Não
+2418084-8,2024,236.54,190.79,True,237,171,True,Rejeitado o Requerimento. Sim: 237; não: 171; abstenção: 3; total: 411.,2024-02-27,Sim
+2419197-28,2024,300.37,123.44,True,292,105,True,Rejeitado o Requerimento. Sim: 105; não: 292; total: 397.,2024-04-09,Não
+2419197-39,2024,266.93,113.93,True,257,88,True,Rejeitado o Requerimento. Sim: 88; não: 257; total: 345.,2024-04-09,Não
+2419197-54,2024,202.7,109.27,True,178,86,True,Rejeitada a Emenda de Plenário n° 4.  Sim: 86; não: 178; total: 264.,2024-04-09,Não
+2420014-8,2024,278.49,111.59,True,270,88,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 270; não: 88; total: 358.,2024-03-12,Sim
+2420577-7,2024,284.57,154.87,True,290,139,True,Rejeitado o Recurso. Sim: 139; não: 290; total: 429.,2024-03-12,Não
+2421056-8,2024,300.53,103.58,True,302,82,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 82; abstenção: 1; total: 385.,2024-03-19,Sim
+2421859-9,2024,261.1,142.81,True,257,116,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 257; não: 116; abstenção: 1; total: 374.,2024-03-26,Sim
+2422697-66,2024,176.93,195.13,False,174,159,True,Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334.,2024-05-28,Sim
+2422697-69,2024,263.51,159.31,True,266,139,True,Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406.,2024-05-28,Sim
+2422697-75,2024,274.58,144.81,True,280,121,True,Mantido o texto. Sim: 280; não: 121; total: 401.,2024-05-28,Sim
+2424952-9,2024,298.91,131.51,True,299,110,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; não: 110; abstenção: 1; total: 410.,2024-04-09,Sim
+2424953-8,2024,270.43,162.15,True,275,139,True,Aprovado o Requerimento. Sim: 275; não: 139; abstenção: 1; total: 415.,2024-04-09,Sim
+2425883-50,2024,243.21,188.6,True,229,179,True,Rejeitada a Emenda de Plenário nº 26. Sim: 179; não: 229; total: 408.,2024-05-21,Não
+2427395-8,2024,295.13,131.67,True,297,108,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 108; total:.405,2024-04-24,Sim
+2430143-125,2024,263.83,54.87,True,232,46,True,Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.,2024-12-16,Não
+2430143-137,2024,283.72,142.68,True,289,118,True,Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.,2024-12-17,Não
+2430143-140,2024,309.06,139.47,True,324,123,True,"Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",2024-12-17,Sim
+2430143-144,2024,303.67,138.59,True,314,117,True,Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.,2024-12-17,Sim
+2430143-45,2024,251.31,134.08,True,239,115,True,Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357.,2024-07-10,Não
+2430143-57,2024,296.68,145.38,True,309,134,True,Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.,2024-07-10,Não
+2430143-72,2024,318.4,148.48,True,336,142,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",2024-07-10,Sim
+2430143-76,2024,227.27,230.94,False,233,229,True,Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.,2024-07-10,Não
+2431123-8,2024,314.7,134.27,True,320,117,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; não: 117; total: 437.,2024-05-07,Sim
+2431153-7,2024,129.83,325.84,False,128,325,False,Aprovado o Requerimento. Sim: 325; não: 128; abstenção: 1; total: 454.,2024-05-07,Não
+2431821-7,2024,298.63,98.06,True,285,78,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD).  Sim: 285; Não: 78; Abstenção: 1; Total: 364.,2024-11-12,Sim
+2432975-44,2024,265.62,160.63,True,257,150,True,Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408.,2024-08-26,Sim
+2433327-54,2024,218.29,217.15,True,221,199,True,Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422.,2024-05-14,Não
+2433327-57,2024,226.33,221.2,True,226,215,True,Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442.,2024-05-14,Não
+2433327-60,2024,226.03,201.04,True,223,184,True,Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409.,2024-05-14,Não
+2433327-66,2024,275.43,162.48,True,277,145,True,Mantido o texto. Sim: 277; não: 145; total: 422.,2024-05-14,Sim
+2433690-7,2024,208.15,233.5,False,209,219,False,Aprovado o Recurso. Sim: 219; não: 209; total: 428.,2024-05-14,Não
+2434244-8,2024,312.26,132.2,True,320,115,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; não: 115; abstenção: 1; total: 436.,2024-05-21,Sim
+2438459-31,2024,258.95,127.12,True,241,108,True,Rejeitado o Requerimento. Sim: 108; não: 241; total: 349.,2024-08-13,Não
+2438459-55,2024,297.16,152.76,True,303,142,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",2024-08-13,Sim
+2438459-63,2024,239.85,95.23,True,221,71,True,Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292.,2024-10-30,Não
+2438459-66,2024,292.07,125.64,True,292,106,True,Mantido o texto. Sim: 292; Não: 106; Total: 398.,2024-10-30,Sim
+2439779-42,2024,252.74,122.72,True,232,99,True,Rejeitado o Requerimento. Sim: 99; Não: 232; Abstenção: 1; Total: 332.,2024-11-19,Não
+2439779-46,2024,250.53,119.6,True,230,97,True,Rejeitado o Requerimento. Sim: 97; Não: 230; Abstenção: 1; Total: 328.,2024-11-19,Não
+2439779-55,2024,262.71,112.9,True,241,94,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 241; Não: 94; Abstenção: 2; Total: 337.",2024-11-19,Sim
+2441271-7,2024,271.0,162.8,True,277,138,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 138; total: 415.,2024-06-19,Sim
+2444417-7,2024,338.88,93.8,True,339,82,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; não: 82; abstenção: 5; total: 426.,2024-08-15,Sim
+2447183-40,2024,260.76,145.22,True,254,119,True,Rejeitado o Requerimento. Sim: 119; não: 254; total: 373.,2024-07-11,Não
+2447183-64,2024,273.42,121.37,True,258,102,True,Mantido o texto. Sim: 258; não: 102; total: 360.,2024-07-11,Sim
+2447273-8,2024,297.77,128.29,True,291,110,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; não:110 ; abstenção:1 ; total: 402.,2024-07-11,Sim
+2447439-8,2024,305.23,148.42,True,322,137,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.,2024-07-09,Sim
+2447901-6,2024,309.19,124.79,True,302,126,True,Rejeitado o Recurso 18/2024. Sim: 126. não: 302: total: 428.,2024-07-09,Não
+2448974-40,2024,96.84,308.47,False,81,296,False,Rejeitado o Requerimento. Sim: 81; não: 296; abstenção: 1; total: 378.,2024-08-14,Sim
+2448974-43,2024,88.71,330.93,False,76,318,False,"Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394.",2024-08-14,Não
+2448974-50,2024,78.02,305.72,False,64,283,False,Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349.,2024-08-14,Não
+2448974-56,2024,103.01,307.64,False,89,292,False,Mantido o texto. Sim: 292; não: 89; total: 381.,2024-08-14,Não
+2450745-8,2024,295.16,154.09,True,308,142,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.,2024-08-12,Sim
+2451405-8,2024,268.62,161.36,True,276,140,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 140; Abstenção: 1; Total: 417.,2024-10-15,Sim
+2452211-7,2024,363.28,66.29,True,350,60,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; não: 60; total: 410.,2024-08-28,Sim
+2452555-8,2024,94.76,348.3,False,86,347,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; não: 86; total: 433.,2024-08-14,Não
+2454155-9,2024,328.84,122.2,True,338,105,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 338; não: 105; total: 443.,2024-08-28,Sim
+2454257-27,2024,360.99,64.19,True,348,57,True,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 348; Não: 57; Total: 405.",2024-12-05,Sim
+2454704-36,2024,254.09,47.14,True,243,43,True,Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.,2024-09-11,Não
+2454704-40,2024,274.19,61.43,True,269,57,True,Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.,2024-09-11,Não
+2454704-50,2024,251.52,54.22,True,240,53,True,Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.,2024-09-11,Não
+2454704-53,2024,252.57,71.19,True,253,67,True,"Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",2024-09-11,Sim
+2454704-55,2024,238.97,61.27,True,228,57,True,Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288.,2024-09-11,Não
+2454704-58,2024,212.09,162.64,True,204,133,True,Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337.,2024-09-11,Não
+2454704-64,2024,219.36,76.49,True,206,70,True,Mantido o texto. Sim: 206; Não: 70; Total: 276.,2024-09-11,Sim
+2454704-67,2024,213.97,89.92,True,200,80,True,Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281.,2024-09-11,Sim
+2454704-70,2024,202.02,167.9,True,189,140,True,Mantido o texto. Sim: 189; Não: 140; Total: 329.,2024-09-11,Sim
+2454704-76,2024,245.36,54.98,True,231,54,True,Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286.,2024-09-12,Sim
+2455033-10,2024,291.5,127.23,True,293,118,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.,2024-09-09,Sim
+2456554-50,2024,243.0,175.66,True,245,156,True,Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401.,2024-10-30,Não
+2456554-54,2024,231.44,161.37,True,229,135,True,Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364.,2024-10-30,Não
+2456554-57,2024,200.17,234.17,False,198,227,False,Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427.,2024-10-30,Não
+2457424-6,2024,322.22,40.46,True,339,39,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; Não: 39; Abstenção: 2; Total: 380.,2024-09-10,Sim
+2460010-35,2024,222.9,108.89,True,193,82,True,Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275.,2024-12-19,Não
+2460010-43,2024,327.43,130.56,True,340,117,True,"Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458.",2024-12-19,Sim
+2461207-38,2024,375.92,54.25,True,364,47,True,"Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412.",2024-11-27,Sim
+2461217-7,2024,254.76,139.4,True,244,115,True,Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 244; Não: 115; Total: 359.,2024-12-17,Sim
+2462049-9,2024,274.75,155.44,True,272,140,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 140; Abstenção: 3; Total: 415.,2024-11-13,Sim
+2462730-34,2024,298.52,130.26,True,296,108,True,"Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404.",2024-12-03,Sim
+2466104-30,2024,330.39,65.17,True,304,52,True,Aprovado o Requerimento. Sim: 304; Não: 52; Total: 356.,2024-11-05,Sim
+2466104-39,2024,331.84,94.01,True,330,74,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406.",2024-11-05,Sim
+2466104-97,2024,361.22,53.48,True,343,41,True,"Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º. Sim: 41; Não: 343; Total: 384.",2024-11-19,Não
+2466682-9,2024,362.52,75.0,True,360,60,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; Não: 60; Total: 420.,2024-11-05,Sim
+2467306-39,2024,253.81,120.9,True,236,99,True,Mantido o texto. Sim: 236; Não: 99; Total: 335.,2024-11-19,Sim
+2467823-9,2024,314.43,124.93,True,323,106,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD).  Sim: 323; Não: 106; Total: 429.,2024-11-13,Sim
+2469074-8,2024,273.28,153.52,True,270,133,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD).,2024-11-13,Sim
+2470275-8,2024,355.69,74.92,True,357,56,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; Não: 56; Abstenção: 1; Total: 414.,2024-11-26,Sim
+2473375-53,2024,271.84,186.69,True,290,170,True,Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460.,2024-12-19,Sim
+2473375-59,2024,246.27,221.02,True,264,209,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 264; Não: 209; Total: 473.",2024-12-19,Sim
+2473375-78,2024,267.71,185.73,True,277,174,True,Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452.,2024-12-19,Sim
+2473389-45,2024,377.81,79.26,True,379,75,True,Rejeitado o Requerimento. Sim: 75; Não: 379; Abstenção: 2; Total: 456.,2024-12-17,Não
+2473389-53,2024,299.11,161.82,True,308,148,True,Aprovado o Requerimento. Sim: 308; Não: 148; Total: 456.,2024-12-17,Sim
+2473389-58,2024,304.83,160.03,True,318,149,True,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467.",2024-12-17,Sim
+2473389-62,2024,231.06,228.83,True,233,227,True,Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461.,2024-12-17,Não
+2473389-65,2024,242.26,208.22,True,256,186,True,Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442.,2024-12-17,Não
+2473389-68,2024,401.13,51.48,True,385,59,True,Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445.,2024-12-17,Não
+2473389-74,2024,296.27,155.14,True,302,137,True,Rejeitado o Requerimento. Sim: 137; Não: 302; Abstenção: 1; Total: 440.,2024-12-18,Não
+2475016-8,2024,251.73,164.45,True,267,156,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 267; Não: 156; Total: 423.,2024-12-04,Sim
+2475018-8,2024,254.39,97.62,True,260,98,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360.,2024-12-04,Sim
+2476749-7,2024,327.82,81.64,True,317,66,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 66; Abstenção: 2; Total: 385.,2024-12-10,Sim
+2479551-7,2024,334.65,71.12,True,321,51,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 321; Não: 51; Total: 372.,2024-12-12,Sim
+2480330-8,2024,303.46,154.27,True,314,140,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454.,2024-12-16,Sim
+2480642-7,2024,292.38,152.32,True,299,134,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; Não: 134; Abstenção: 3; Total: 436.,2024-12-18,Sim
+2481282-8,2024,329.52,122.14,True,343,99,True,"Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007. Sim: 343; Não: 99; Abstenção: 1; Total: 443.",2024-12-19,Sim
+347421-181,2024,286.99,162.4,True,295,147,True,Rejeitado o Requerimento. Sim: 147; Não: 295; Total: 442.,2024-12-18,Não
+347421-188,2024,309.17,150.14,True,320,136,True,Aprovado o Requerimento. Sim: 320; Não: 136; Abstenção: 2; Total: 458.,2024-12-18,Sim
+347421-192,2024,284.64,179.56,True,294,172,True,Aprovada a preferência. Sim: 294; Não: 172; Total: 466.,2024-12-18,Sim
+347421-198,2024,288.33,167.93,True,302,149,True,Rejeitado o Requerimento. Sim: 149; Não: 302; Abstenção: 1; Total: 452.,2024-12-19,Não
+347421-200,2024,313.16,166.48,True,344,154,True,"Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500.",2024-12-19,Sim
+347421-205,2024,316.83,159.37,True,349,143,True,Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493.,2024-12-19,Sim
+347421-221,2024,316.38,160.35,True,348,146,True,"Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494.",2024-12-19,Sim
+347421-224,2024,331.32,143.1,True,358,129,True,Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488.,2024-12-19,Sim
+559138-237,2024,273.29,135.69,True,268,113,True,Rejeitado o Requerimento. Sim: 113; Não: 268; Total: 381.,2024-11-27,Não
+559138-241,2024,278.12,137.67,True,274,116,True,Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390.,2024-11-27,Não
+565397-185,2024,161.56,226.06,False,149,204,False,Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353.,2024-10-16,Sim
+106701-227,2025,161.5,278.31,False,154,269,False,Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423.,2025-11-05,Não
+2121642-102,2025,315.64,122.74,True,319,93,True,Mantido o texto. Sim: 319; Não: 93; Total: 412.,2025-05-27,Sim
+2121642-105,2025,306.54,132.77,True,310,105,True,Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416.,2025-05-27,Sim
+2121642-88,2025,324.96,101.0,True,311,82,True,Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394.,2025-05-27,Não
+2157806-125,2025,265.38,177.62,True,269,158,True,Rejeitado o Requerimento. Sim: 158; Não: 269; Abstenção: 1; Total: 428.,2025-11-04,Não
+2157806-131,2025,312.51,117.03,True,308,103,True,Aprovado o Requerimento. Sim: 308; Não: 103; Abstenção: 1; Total: 412.,2025-11-04,Sim
+2157806-137,2025,323.59,132.88,True,330,118,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques.  Sim: 330; Não: 118; Abstenção: 3; Total: 451.",2025-11-04,Sim
+2157806-143,2025,274.33,110.81,True,254,87,True,Rejeitado o Requerimento. Sim: 87; Não: 254; Total: 341.,2025-11-05,Não
+2157806-168,2025,321.02,115.62,True,325,94,True,Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419.,2025-11-05,Sim
+2157806-177,2025,321.3,120.4,True,327,98,True,Mantido o texto. Sim: 327; Não: 98; Total: 425.,2025-11-05,Sim
+2162802-89,2025,300.42,127.17,True,297,107,True,"Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405.",2025-02-11,Sim
+2191678-93,2025,295.04,94.41,True,274,73,True,Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348.,2025-07-01,Sim
+2193584-7,2025,291.7,142.31,True,286,113,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399.,2025-05-26,Sim
+2233324-100,2025,228.48,219.57,True,231,202,True,Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441.,2025-05-26,Sim
+2233324-103,2025,283.5,166.45,True,284,147,True,Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433.,2025-05-26,Sim
+2233324-106,2025,242.85,192.59,True,233,174,True,Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410.,2025-05-26,Sim
+2233324-71,2025,271.47,135.56,True,261,111,True,Rejeitado o Requerimento. Sim: 111; Não: 261; Total: 372.,2025-05-05,Não
+2233324-75,2025,270.69,135.84,True,261,108,True,Rejeitado o Requerimento. Sim: 108; Não: 261; Total: 369.,2025-05-05,Não
+2233324-83,2025,261.28,138.68,True,248,113,True,Rejeitado o Requerimento. Sim: 113; Não: 248; Total: 361.,2025-05-05,Não
+2233324-86,2025,244.67,151.17,True,233,125,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 233; Não: 125; Total: 358.",2025-05-05,Sim
+2233324-97,2025,292.27,163.13,True,302,139,True,Rejeitado o Requerimento. Sim: 139; Não: 302; Abstenção: 1; Total: 442.,2025-05-26,Não
+2252295-120,2025,361.86,78.87,True,352,63,True,"Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques. Sim: 352; Não: 63; Total: 415.",2025-07-08,Sim
+2252295-130,2025,311.18,137.5,True,316,110,True,Mantido o texto. Sim: 316; Não: 110; Total: 426.,2025-07-08,Sim
+2270325-88,2025,112.29,348.9,False,100,348,False,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449.",2025-11-12,Não
+2279186-104,2025,290.43,164.8,True,293,143,True,Mantido o texto. Sim: 293; Não: 143; Total: 436.,2025-10-29,Sim
+2279186-107,2025,268.95,165.51,True,263,143,True,Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407.,2025-10-29,Não
+2279186-84,2025,281.45,167.86,True,276,148,True,Rejeitado o Requerimento. Sim: 148; Não: 276; Total: 424.,2025-10-29,Não
+2279186-86,2025,282.96,169.28,True,286,146,True,"Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433.",2025-10-29,Sim
+2279186-92,2025,270.11,155.98,True,260,132,True,Mantido o texto. Sim: 260; Não: 132; Total: 392.,2025-10-29,Sim
+2279186-94,2025,279.82,154.07,True,276,125,True,Mantido o texto. Sim: 276; Não: 125; Total: 401.,2025-10-29,Sim
+2279186-97,2025,278.22,170.53,True,269,152,True,Mantido o texto. Sim: 269; Não: 152; Total: 421.,2025-10-29,Sim
+2279186-99,2025,195.02,236.06,False,174,223,False,Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397.,2025-10-29,Não
+2283136-39,2025,324.44,40.75,True,278,37,True,Rejeitado o Requerimento. Sim: 37; Não: 278; Abstenção: 1; Total: 316.,2025-04-10,Não
+2297512-65,2025,274.35,130.99,True,258,102,True,Rejeitado o Requerimento. Sim: 102; Não: 258; Total: 360.,2025-05-29,Não
+2306513-111,2025,344.64,64.72,True,322,48,True,Rejeitado o Requerimento. Sim: 48; Não: 322; Abstenção: 1; Total: 371.,2025-05-29,Não
+2306513-116,2025,300.19,133.09,True,285,116,True,Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404.,2025-05-29,Sim
+2318217-77,2025,333.48,114.31,True,347,89,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 235, de 2019, adotada pelo relator da Comissão de Educação, ressalvados os destaques. Sim: 347; Não: 89; Total: 436.",2025-09-03,Sim
+2318217-81,2025,326.43,122.31,True,310,119,True,Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430.,2025-09-03,Não
+2318217-86,2025,348.4,42.66,True,311,35,True,Mantido o texto. Sim: 311; Não: 35; Total: 346.,2025-09-03,Sim
+2318217-90,2025,310.54,140.37,True,313,119,True,Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433.,2025-09-03,Sim
+2318217-93,2025,273.74,183.43,True,276,165,True,Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441.,2025-09-03,Não
+2324988-18,2025,278.14,148.11,True,270,121,True,Rejeitado o Requerimento. Sim: 121; Não: 270; Total: 391.,2025-05-29,Não
+2341047-60,2025,304.09,128.07,True,289,105,True,Rejeitado o Requerimento. Sim: 105; Não: 289; Total: 394.,2025-05-28,Não
+2355104-96,2025,99.23,319.81,False,90,289,False,Rejeitado o Requerimento.,2025-05-27,Sim
+2358548-51,2025,148.12,304.9,False,146,294,False,Rejeitado o Requerimento. Sim: 146; Não: 294; Total: 440.,2025-12-09,Sim
+2358548-55,2025,151.52,298.97,False,147,287,False,Rejeitado o Requerimento. Sim: 147; Não: 287; Total: 434.,2025-12-09,Sim
+2358548-86,2025,133.64,242.61,False,121,208,False,Mantido o texto. Sim: 208; Não: 121; Total: 329.,2025-12-09,Não
+2358548-89,2025,145.5,305.92,False,148,291,False,"Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440.",2025-12-09,Não
+2360457-42,2025,268.51,156.63,True,261,129,True,Rejeitado o Requerimento. Sim: 129; Não: 261; Abstenção: 2; Total: 392.,2025-03-25,Não
+2360457-45,2025,285.52,135.17,True,275,113,True,"Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393.",2025-03-25,Sim
+2370495-47,2025,299.52,143.36,True,295,119,True,Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414.,2025-08-13,Não
+2370495-50,2025,299.72,135.75,True,294,110,True,Rejeitado o Requerimento. Sim: 110; Não: 294; Total: 404.,2025-08-13,Não
+2381043-85,2025,247.21,110.9,True,225,79,True,Rejeitado o Requerimento. Sim: 79; Não: 225; Total: 304.,2025-06-26,Não
+2381043-91,2025,246.25,139.59,True,226,109,True,Mantido o texto. Sim: 226; Não: 109; Total: 335.,2025-06-26,Sim
+2386051-101,2025,110.35,302.31,False,101,274,False,Mantido o texto. Sim: 274; Não: 101; Total: 375.,2025-11-05,Não
+2386051-80,2025,124.18,312.41,False,120,295,False,Rejeitado o Requerimento. Sim: 120; Não: 295; Total: 415.,2025-11-05,Sim
+2386051-84,2025,121.31,314.0,False,114,294,False,Rejeitado o Requerimento. Sim: 114; Não: 294; Total: 408.,2025-11-05,Sim
+2386051-90,2025,108.32,290.82,False,100,259,False,Rejeitado o Requerimento. Sim: 100; Não: 259; Abstenção: 1; Total: 360.,2025-11-05,Sim
+2386051-93,2025,120.27,310.58,False,113,287,False,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. Sim: 287; Não: 113; Total: 400.",2025-11-05,Não
+2398530-57,2025,101.35,358.16,False,100,350,False,Rejeitado o Requerimento. Sim: 100; Não: 350; Total: 450.,2025-07-16,Sim
+2398530-60,2025,112.27,349.61,False,104,350,False,Rejeitado o Requerimento. Sim: 104; Não: 350; Abstenção: 2; Total: 456.,2025-07-16,Sim
+2398530-68,2025,110.18,338.84,False,101,332,False,Rejeitado o Requerimento. Sim: 101; Não: 332; Total: 433.,2025-07-16,Sim
+2398530-73,2025,100.52,354.54,False,93,346,False,"Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque. Sim: 346; Não: 93; Abstenção: 1; Total: 440.",2025-07-16,Não
+2408145-17,2025,171.18,296.06,False,173,291,False,"Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 291; Não: 173; Total: 464.",2025-07-16,Não
+2410601-41,2025,343.61,69.72,True,318,54,True,Rejeitado o Requerimento. Sim: 54; Não: 318; Total: 372.,2025-03-27,Não
+2411961-13,2025,110.53,352.84,False,107,347,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 107; Total: 454.,2025-07-16,Não
+2413257-114,2025,292.07,119.91,True,288,90,True,Rejeitado o Requerimento. Sim: 90; Não: 288; Abstenção: 1; Total: 379.,2025-07-08,Não
+2413257-115,2025,283.42,131.49,True,281,103,True,Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384.,2025-07-08,Não
+2413257-116,2025,303.83,124.74,True,302,99,True,"Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401.",2025-07-08,Sim
+2413257-125,2025,240.73,187.97,True,243,159,True,Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402.,2025-07-08,Não
+2413257-85,2025,235.59,109.64,True,209,77,True,Rejeitado o Requerimento. Sim: 77; Não: 209; Total: 286.,2025-06-11,Não
+2413257-96,2025,216.25,99.46,True,189,75,True,Rejeitado o Requerimento. Sim: 75; Não: 189; Abstenção: 2; Total: 266.,2025-06-11,Não
+2421211-100,2025,188.17,141.04,True,159,110,True,Rejeitado o Requerimento. Sim: 110; Não: 159; Total: 269.,2025-07-09,Não
+2421211-103,2025,218.53,197.35,True,208,174,True,Mantido o texto. Sim: 208; Não: 174; Total: 382.,2025-07-09,Sim
+2421211-106,2025,223.3,194.68,True,210,174,True,Mantido o texto. Sim: 210; Não: 174; Total: 384.,2025-07-09,Sim
+2421211-109,2025,218.43,186.37,True,204,162,True,Mantido o texto. Sim: 204; Não: 162; Total: 366.,2025-07-09,Sim
+2421211-73,2025,237.21,199.11,True,237,174,True,Rejeitado o Requerimento. Sim: 174; Não: 237; Abstenção: 1; Total: 412.,2025-07-08,Não
+2421211-77,2025,241.93,180.37,True,239,158,True,Rejeitado o Requerimento. Sim: 158; Não: 239; Abstenção: 3; Total: 400.,2025-07-08,Não
+2421211-85,2025,217.38,187.33,True,211,158,True,Rejeitado o Requerimento. Sim: 158; Não: 211; Abstenção: 3; Total: 372.,2025-07-08,Não
+2421211-88,2025,215.11,192.71,True,209,165,True,"Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378.",2025-07-08,Sim
+2428478-62,2025,166.24,269.96,False,171,245,False,Rejeitado o Requerimento. Sim: 171; Não: 245; Abstenção: 3; Total: 419.,2025-12-10,Sim
+2430953-277,2025,97.79,302.44,False,86,266,False,Mantido o texto. Sim: 266; Não: 86; Total: 352.,2025-09-03,Não
+2430953-280,2025,113.82,282.0,False,108,241,False,Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350.,2025-09-03,Sim
+2432423-70,2025,284.55,142.35,True,275,115,True,Rejeitado o Requerimento. Sim: 115; Não: 275; Total: 390.,2025-08-27,Não
+2432423-74,2025,285.55,157.85,True,282,134,True,Rejeitado o Requerimento. Sim: 134; Não: 282; Total: 416.,2025-08-27,Não
+2432423-82,2025,278.8,144.97,True,269,116,True,Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385.,2025-08-27,Não
+2432423-87,2025,272.52,156.23,True,262,129,True,Rejeitada a preferência. Sim: 129; Não: 262; Total: 391.,2025-08-27,Não
+2432423-88,2025,284.75,140.71,True,278,110,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque. Sim: 278; Não: 110; Abstenção: 1; Total: 389.",2025-08-27,Sim
+2432423-93,2025,255.45,161.78,True,243,133,True,Mantido o texto. Sim: 243; Não: 133; Total: 376.,2025-08-27,Sim
+2438459-113,2025,316.57,130.08,True,330,104,True,"Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",2025-12-15,Sim
+2438459-115,2025,275.99,99.62,True,252,77,True,"Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329.",2025-12-15,Não
+2438459-135,2025,377.54,70.98,True,373,63,True,Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.,2025-12-16,Não
+2438459-146,2025,231.97,233.45,False,242,221,True,Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.,2025-12-16,Não
+2438467-41,2025,249.77,147.48,True,236,125,True,Rejeitado o Requerimento. Sim: 125; Não: 236; Abstenção: 2; Total: 363.,2025-02-12,Não
+2438467-47,2025,277.34,159.61,True,273,136,True,"Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409.",2025-02-12,Sim
+2438687-71,2025,307.36,105.31,True,285,86,True,"Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373.",2025-10-15,Sim
+2438687-76,2025,189.32,225.07,False,169,200,False,Suprimido o texto. Sim: 169; Não: 200; Total: 369.,2025-10-15,Sim
+2442848-42,2025,280.31,56.07,True,268,43,True,Rejeitado o Requerimento. Sim: 43; Não: 268; Abstenção: 9; Total: 320.,2025-03-27,Não
+2442848-47,2025,287.83,48.26,True,268,36,True,Rejeitado o Requerimento. Sim: 36; Não: 268; Abstenção: 6; Total: 310.,2025-03-27,Não
+2448069-50,2025,290.68,145.02,True,295,118,True,Mantido o texto. Sim: 295; Não: 118; Total: 413.,2025-11-05,Sim
+2453219-36,2025,91.85,314.41,False,77,285,False,Rejeitado o Requerimento. Sim: 77; Não: 285; Total: 362.,2025-05-27,Sim
+2453934-59,2025,288.43,146.92,True,277,123,True,"Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques.
+ Sim: 277; Não: 123; Total: 400.",2025-05-28,Sim
+2453934-72,2025,164.55,250.68,False,152,220,False,Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373.,2025-05-28,Sim
+2454495-144,2025,388.86,79.29,True,404,67,True,"Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474.",2025-07-15,Sim
+2454495-151,2025,319.97,134.64,True,335,117,True,Rejeitada a Emenda nº 5. Sim: 117; Não: 335; Abstenção: 3; Total: 455.,2025-07-15,Não
+2454495-154,2025,306.18,160.42,True,318,144,True,Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464.,2025-07-15,Sim
+2454495-166,2025,352.05,114.15,True,367,97,True,"Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 367; Não: 97; Abstenção: 2; Total: 466.",2025-07-15,Sim
+2454495-171,2025,330.48,137.32,True,342,126,True,Mantido o texto. Sim: 342; Não: 126; Abstenção: 1; Total: 469.,2025-07-15,Sim
+2454495-174,2025,358.37,92.35,True,353,76,True,"Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi (MDB/SP). Sim: 353; Não: 76; Abstenção: 3; Total: 432.",2025-07-15,Sim
+2456110-43,2025,275.96,124.05,True,268,92,True,Rejeitado o Requerimento. Sim: 92; Não: 268; Total: 360.,2025-05-22,Não
+2456110-48,2025,304.91,129.66,True,300,103,True,Rejeitado o Requerimento. Sim: 103; Não: 300; Total: 403.,2025-05-22,Não
+2456731-58,2025,257.42,131.92,True,241,102,True,Rejeitado o Requerimento. Sim: 102; Não: 241; Total: 343.,2025-04-23,Não
+2456731-67,2025,264.67,130.04,True,244,102,True,Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346.,2025-04-29,Não
+2456731-71,2025,277.09,131.77,True,261,108,True,"Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 261; Não: 108; Total: 369.",2025-04-29,Sim
+2456731-75,2025,285.84,144.72,True,275,121,True,Mantido o texto. Sim: 275; Não: 121; Total: 396.,2025-04-29,Sim
+2456731-79,2025,279.92,150.24,True,269,124,True,Mantido o texto. Sim: 269; Não: 124; Total: 393.,2025-04-29,Sim
+2456731-84,2025,279.47,143.93,True,266,118,True,Mantido o texto. Sim: 266; Não: 118; Total: 384.,2025-04-29,Sim
+2463814-34,2025,278.4,116.83,True,269,88,True,Rejeitado o Requerimento. Sim: 88; Não: 269; Abstenção: 1; Total: 358.,2025-04-01,Não
+2463814-40,2025,310.26,114.18,True,308,88,True,Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396.,2025-04-01,Sim
+2463814-44,2025,315.75,112.02,True,316,88,True,"Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405.",2025-04-01,Sim
+2463814-46,2025,319.07,113.26,True,317,92,True,"Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411.",2025-04-01,Sim
+2465240-36,2025,316.63,96.06,True,295,80,True,Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377.,2025-06-25,Sim
+2466108-28,2025,267.89,165.93,True,266,138,True,Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404.,2025-02-25,Não
+2466108-33,2025,278.43,152.71,True,269,136,True,"Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407.",2025-02-25,Sim
+2467641-27,2025,303.71,83.91,True,279,70,True,Rejeitado o Requerimento. Sim: 70; Não: 279; Total: 349.,2025-04-22,Não
+2471177-102,2025,116.61,328.34,False,115,310,False,"Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: 310; Não: 115; Total: 425.",2025-12-09,Não
+2471177-105,2025,122.59,304.7,False,116,283,False,Mantido o texto. Sim: 283; Não: 116; Total: 399.,2025-12-09,Não
+2471177-108,2025,127.71,317.57,False,124,302,False,Mantido o texto. Sim: 302; Não: 124; Total: 426.,2025-12-09,Não
+2471177-111,2025,121.41,316.81,False,117,298,False,Mantido o texto. Sim: 298; Não: 117; Total: 415.,2025-12-09,Não
+2471177-117,2025,117.4,316.17,False,112,298,False,Mantido o texto. Sim: 298; Não: 112; Total: 410.,2025-12-09,Não
+2472106-8,2025,381.37,60.75,True,371,49,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; Não: 49; Abstenção: 1; Total: 421.,2025-08-12,Sim
+2481257-29,2025,242.83,101.25,True,216,73,True,Rejeitado o Requerimento. Sim: 73; Não: 216; Total: 289.,2025-05-22,Não
+2481257-34,2025,289.09,120.55,True,278,94,True,Rejeitado o Requerimento. Sim: 94; Não: 278; Total: 372.,2025-05-22,Não
+2481875-32,2025,306.89,84.45,True,282,69,True,Rejeitado o Requerimento. Sim: 69; Não: 282; Total: 351.,2025-04-22,Não
+2482078-49,2025,130.09,314.38,False,124,297,False,Rejeitado o Requerimento. Sim: 124; Não: 297; Total: 421.,2025-11-05,Sim
+2482078-54,2025,125.66,325.39,False,120,310,False,Aprovado o Requerimento. Sim: 310; Não: 120; Abstenção: 1; Total: 431.,2025-11-05,Não
+2483447-18,2025,233.67,100.2,True,204,70,True,Rejeitado o Requerimento.,2025-09-25,Não
+2483447-25,2025,324.24,85.73,True,304,64,True,"Aprovado o Projeto de Lei nº 358, de 2025. .",2025-09-25,Sim
+2483495-34,2025,247.61,127.93,True,229,98,True,Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327.,2025-04-28,Não
+2483495-38,2025,277.8,141.33,True,269,116,True,Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385.,2025-04-28,Não
+2483495-47,2025,280.53,145.66,True,274,122,True,Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396.,2025-04-28,Sim
+2483495-52,2025,292.65,131.49,True,278,111,True,"Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389.",2025-04-28,Sim
+2483495-56,2025,278.13,137.66,True,266,113,True,Mantido o texto. Sim: 266; Não: 113; Total: 379.,2025-04-28,Sim
+2483495-59,2025,263.14,145.72,True,251,117,True,Mantido o texto. Sim: 251; Não: 117; Total: 368.,2025-04-28,Sim
+2483495-62,2025,267.38,151.06,True,256,123,True,Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380.,2025-04-28,Sim
+2483495-64,2025,244.28,131.18,True,225,100,True,"Aprovada a Redação Final assinada pela relatora, Dep. Jandira Feghali (PCdoB-RJ).
+ Sim: 225; Não: 100; Total: 325.",2025-04-28,Sim
+2484059-7,2025,270.72,161.83,True,266,140,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 140; Abstenção: 2; Total: 408.,2025-02-18,Sim
+2485066-28,2025,387.26,51.02,True,372,46,True,Rejeitado o Requerimento. Sim: 46; Não: 372; Total: 418.,2025-03-18,Não
+2485066-33,2025,338.49,127.9,True,347,114,True,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 347; Não: 114; Total: 461.",2025-03-18,Sim
+2486461-64,2025,285.18,117.49,True,270,88,True,Rejeitado o Requerimento. Sim: 88; Não: 270; Total: 358.,2025-10-29,Não
+2487358-48,2025,280.86,143.9,True,272,117,True,"Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390.",2025-06-25,Sim
+2490985-54,2025,319.09,130.03,True,310,116,True,"Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público. Sim: 310; Não: 116; Total: 426.",2025-09-10,Sim
+2492307-32,2025,299.81,108.07,True,283,85,True,Rejeitado o Requerimento. Sim: 85; Não: 283; Abstenção: 1; Total: 369.,2025-04-02,Não
+2492307-38,2025,309.87,114.96,True,300,92,True,Aprovado o Requerimento. Sim: 300; Não: 92; Total: 392.,2025-04-02,Sim
+2494408-21,2025,265.59,120.82,True,242,93,True,Rejeitado o Requerimento. Sim: 93; Não: 242; Total: 335.,2025-05-21,Não
+2494408-43,2025,290.36,157.87,True,290,134,True,Mantido o texto. Sim: 290; Não: 134; Total: 424.,2025-05-21,Sim
+2494565-52,2025,138.98,326.3,False,143,315,False,"Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462.",2025-05-07,Não
+2497816-50,2025,236.94,162.58,True,226,130,True,Mantido o texto. Sim: 226; Não: 130; Total: 356.,2025-06-11,Sim
+2497990-25,2025,250.5,130.81,True,230,101,True,Rejeitado o Requerimento. Sim: 101; Não: 230; Total: 331.,2025-06-02,Não
+2497990-28,2025,228.3,119.7,True,206,89,True,Rejeitado o Requerimento. Sim: 89; Não: 206; Total: 295.,2025-06-02,Não
+2497993-21,2025,298.2,154.69,True,301,132,True,Rejeitado o Requerimento. Sim: 132; Não: 301; Total: 433.,2025-05-26,Não
+2497993-30,2025,287.19,153.28,True,284,128,True,Rejeitado o Requerimento. Sim: 128; Não: 284; Total: 412.,2025-05-26,Não
+2497993-33,2025,290.44,156.68,True,289,136,True,"Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425.",2025-05-26,Sim
+2498967-8,2025,281.44,137.3,True,267,116,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 267; Não: 116; Total: 383.,2025-04-23,Sim
+2500260-26,2025,392.53,66.21,True,385,61,True,Rejeitado o Requerimento. Sim: 61; Não: 385; Abstenção: 1; Total: 447.,2025-08-12,Não
+2500260-31,2025,376.3,54.74,True,352,48,True,Rejeitado o Requerimento. Sim: 48; Não: 352; Total: 400.,2025-08-12,Não
+2500330-43,2025,262.96,188.0,True,264,169,True,"Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque.
+. Sim: 264; Não: 169; Abstenção: 4; Total: 437.",2025-07-16,Sim
+2501358-48,2025,198.43,260.41,False,199,246,False,Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445.,2025-10-14,Não
+2503426-44,2025,315.75,125.33,True,309,104,True,Rejeitado o Requerimento. Sim: 104; Não: 309; Total: 413.,2025-10-28,Não
+2507258-33,2025,240.46,98.25,True,221,69,True,Rejeitado o Requerimento. Sim: 69; Não: 221; Total: 290.,2025-07-01,Não
+2515228-8,2025,292.9,155.96,True,297,133,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; Não: 133; Total: 430.,2025-05-26,Sim
+2515229-8,2025,280.73,167.21,True,286,144,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 144; Abstenção: 2; Total: 432.,2025-05-26,Sim
+2515300-26,2025,316.49,138.92,True,326,118,True,Rejeitado o Requerimento. Sim: 118; Não: 326; Total: 444.,2025-09-17,Não
+2515300-30,2025,322.01,129.54,True,326,109,True,Aprovado o Requerimento. Sim: 326; Não: 109; Total: 435.,2025-09-17,Sim
+2515300-64,2025,312.21,143.42,True,321,117,True,Mantido o texto. Sim: 321; Não: 117; Total: 438.,2025-09-17,Sim
+2515300-71,2025,312.42,144.42,True,322,125,True,Mantido o texto. Sim: 322; Não: 125; Abstenção: 1; Total: 448.,2025-09-17,Sim
+2515648-29,2025,113.3,351.2,False,104,349,False,Rejeitado o Requerimento. Sim: 104; Não: 349; Total: 453.,2025-06-25,Sim
+2515648-36,2025,104.43,356.39,False,99,354,False,Rejeitado o Requerimento. Sim: 99; Não: 354; Total: 453.,2025-06-25,Sim
+2515648-41,2025,106.19,356.39,False,102,353,False,Aprovado o Requerimento. Sim: 353; Não: 102; Total: 455.,2025-06-25,Não
+2515648-44,2025,100.74,375.88,False,98,383,False,"Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 214, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 383; Não: 98; Total: 481.",2025-06-25,Não
+2519886-21,2025,289.26,116.7,True,277,89,True,Rejeitado o Requerimento. Sim: 89; Não: 277; Abstenção: 1; Total: 367.,2025-09-24,Não
+2519886-26,2025,330.15,107.48,True,325,84,True,Rejeitado o Requerimento. Sim: 84; Não: 325; Abstenção: 1; Total: 410.,2025-09-24,Não
+2519886-53,2025,276.41,157.89,True,275,132,True,Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408.,2025-09-24,Não
+2520670-40,2025,313.77,128.06,True,319,114,True,Rejeitado o Requerimento. Sim: 114; Não: 319; Abstenção: 2; Total: 435.,2025-12-16,Não
+2520670-46,2025,283.19,83.35,True,276,67,True,Aprovado o Requerimento. Sim: 276; Não: 67; Total: 343.,2025-12-16,Sim
+2520670-52,2025,303.95,88.93,True,310,85,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator da Comissão de Desenvolvimento Econômico, ressalvado o destaque. Sim: 310; Não: 85; Abstenção: 1; Total: 396.",2025-12-16,Sim
+2520670-66,2025,290.55,136.4,True,286,116,True,Mantido o texto. Sim: 286; Não: 116; Total: 402.,2025-12-16,Sim
+2524984-25,2025,278.32,149.15,True,270,127,True,Rejeitado o Requerimento. Sim: 127; Não: 270; Total: 397.,2025-11-26,Não
+2524984-33,2025,357.31,88.82,True,350,77,True,"Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429.",2025-11-26,Sim
+2524984-37,2025,322.55,107.22,True,313,88,True,Mantido o texto. Sim: 313; Não: 88; Abstenção: 2; Total: 403.,2025-11-26,Sim
+2525122-73,2025,240.47,177.12,True,236,151,True,Rejeitado o Requerimento. Sim: 151; Não: 236; Abstenção: 3; Total: 390.,2025-12-10,Não
+2525180-26,2025,199.8,258.43,False,193,251,False,Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444.,2025-10-08,Não
+2530336-46,2025,242.61,166.25,True,230,143,True,Mantido o texto. Sim: 230; Não: 143; Total: 373.,2025-08-19,Sim
+2530336-50,2025,245.29,162.83,True,228,143,True,Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372.,2025-08-19,Sim
+2530336-53,2025,257.73,163.73,True,246,146,True,Mantido o texto. Sim: 246; Não: 146; Abstenção: 1; Total: 393.,2025-08-19,Sim
+2530336-58,2025,237.74,171.56,True,217,152,True,"Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nunes (PSD-BA). Sim: 217; Não: 152; Total: 369.",2025-08-19,Sim
+2535328-24,2025,214.0,181.38,True,198,157,True,Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356.,2025-10-30,Não
+2535328-36,2025,158.72,260.06,False,148,233,False,Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382.,2025-10-30,Sim
+2535455-16,2025,284.1,142.52,True,277,117,True,Rejeitado o Requerimento. Sim: 117; Não: 277; Total: 394.,2025-08-19,Não
+2538979-10,2025,288.53,156.01,True,284,129,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 129; Total: 413.,2025-10-28,Sim
+2541109-27,2025,272.64,181.42,True,280,156,True,Rejeitado o Requerimento. Sim: 156; Não: 280; Total: 436.,2025-09-24,Não
+2541109-34,2025,262.49,175.94,True,259,147,True,Rejeitado o Requerimento. Sim: 147; Não: 259; Total: 406.,2025-09-24,Não
+2541109-38,2025,283.46,173.07,True,296,145,True,"Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443.",2025-09-24,Sim
+2541109-40,2025,321.5,58.95,True,288,45,True,Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334.,2025-09-24,Não
+2541109-45,2025,273.29,179.07,True,281,148,True,Mantido o texto. Sim: 281; Não: 148; Total: 429.,2025-09-24,Sim
+2541109-48,2025,285.61,164.61,True,293,133,True,Mantido o texto. Sim: 293; Não: 133; Total: 426.,2025-09-24,Sim
+2541109-77,2025,288.74,134.12,True,290,108,True,Rejeitado o Requerimento. Sim: 108; Não: 290; Total: 398.,2025-12-15,Não
+2541109-88,2025,311.93,132.43,True,320,109,True,"Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429.",2025-12-15,Sim
+2543003-8,2025,314.43,145.26,True,323,123,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 123; Total: 446.,2025-08-12,Sim
+2545773-8,2025,290.62,146.83,True,288,125,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 288; Não: 125; Total: 413.,2025-09-10,Sim
+2549432-7,2025,268.02,142.73,True,266,114,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 114; Abstenção: 1; Total: 381.,2025-08-19,Sim
+255291-105,2025,357.78,65.18,True,331,57,True,Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388.,2025-02-26,Não
+2553457-17,2025,124.27,330.13,False,119,313,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433.,2025-11-05,Não
+2554285-43,2025,290.55,149.21,True,292,127,True,Rejeitado o Requerimento. Sim: 127; Não: 292; Abstenção: 1; Total: 420.,2025-12-15,Não
+2554285-48,2025,315.36,139.67,True,325,119,True,"Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 447.",2025-12-15,Sim
+2554285-51,2025,293.64,138.94,True,293,120,True,Mantido o texto. Sim: 293; Não: 120; Abstenção: 4; Total: 417.,2025-12-15,Sim
+2556109-8,2025,305.76,123.86,True,300,99,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 99; Total: 399.,2025-09-10,Sim
+2558261-8,2025,99.49,361.17,False,94,350,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 94; Total: 444.,2025-09-09,Não
+2558628-8,2025,312.89,133.35,True,310,115,True,"Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; Não: 115; Total: 425.",2025-09-09,Sim
+2560611-10,2025,350.28,65.64,True,336,50,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 336; Não: 50; Total: 386.,2025-10-30,Sim
+2562149-7,2025,160.26,313.29,False,163,311,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 163; Abstenção: 7; Total: 481.,2025-09-17,Não
+2564132-13,2025,373.77,70.09,True,350,72,True,Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 72; Não: 350; Abstenção: 4; Total: 426.,2025-11-12,Não
+2564274-29,2025,283.29,152.33,True,287,125,True,Rejeitado o Requerimento. Sim: 125; Não: 287; Total: 412.,2025-11-04,Não
+2564274-37,2025,298.33,141.15,True,299,119,True,"Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422.",2025-11-04,Sim
+2564763-24,2025,170.73,277.88,False,167,268,False,"Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal.  Sim: 268; Não: 167; Abstenção: 4; Total: 439.",2025-10-15,Não
+2566427-8,2025,277.02,154.76,True,271,127,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; Não: 127; Abstenção: 3; Total: 401.,2025-10-27,Sim
+2566565-10,2025,299.63,153.93,True,300,130,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 130; Total: 430.,2025-10-28,Sim
+257161-442,2025,293.09,134.09,True,269,124,True,Rejeitado o Requerimento. Sim: 124; Não: 269; Total: 393.,2025-07-16,Não
+257161-446,2025,129.43,296.38,False,119,273,False,Rejeitado o Requerimento. Sim: 119; Não: 273; Total: 392.,2025-07-16,Sim
+257161-454,2025,129.14,288.69,False,116,267,False,"Aprovadas.
+ Sim: 267; Não: 116; Total: 383.",2025-07-16,Não
+257161-462,2025,130.53,273.69,False,117,242,False,Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359.,2025-07-16,Não
+257161-467,2025,119.97,263.48,False,101,234,False,"Aprovada a Emenda do Senado Federal nº 4.
+ Sim: 234; Não: 101; Total: 335.",2025-07-16,Não
+257161-476,2025,97.06,251.99,False,77,221,False,Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299.,2025-07-16,Não
+257161-479,2025,99.78,262.32,False,82,229,False,Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312.,2025-07-16,Não
+257161-483,2025,107.05,265.38,False,87,231,False,"Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL-MG). Sim: 231; Não: 87; Total: 318.",2025-07-16,Não
+2574143-8,2025,316.94,128.59,True,318,104,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; Não: 104; Abstenção: 2; Total: 424.,2025-10-27,Sim
+2579832-105,2025,38.6,382.28,False,40,349,False,Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390.,2025-11-18,Não
+2579832-49,2025,120.65,340.72,False,114,335,False,Rejeitado o Requerimento. Sim: 114; Não: 335; Total: 449.,2025-11-18,Sim
+2579832-54,2025,120.3,338.2,False,111,335,False,Aprovado o Requerimento. Sim: 335; Não: 111; Total: 446.,2025-11-18,Não
+2579832-61,2025,160.02,307.23,False,156,306,False,Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462.,2025-11-18,Sim
+2579832-62,2025,115.01,357.86,False,110,370,False,"Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483.",2025-11-18,Não
+2579832-95,2025,146.46,305.89,False,142,298,False,Rejeitada a Emenda de Plenário nº 33. Sim: 142; Não: 298; Abstenção: 1; Total: 441.,2025-11-18,Sim
+2579832-96,2025,119.12,312.94,False,109,298,False,Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408.,2025-11-18,Não
+2579832-99,2025,111.51,317.33,False,107,298,False,Rejeitada a preferência. Sim: 107; Não: 298; Abstenção: 2; Total: 407.,2025-11-18,Sim
+2579995-8,2025,270.4,171.71,True,275,146,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 275; Não: 146; Total: 421.,2025-11-03,Sim
+2579996-8,2025,289.6,144.5,True,295,118,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 295; Não: 118; Total: 413.,2025-11-03,Sim
+2579999-8,2025,239.59,196.38,True,236,178,True,Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 236; Não: 178; Total: 414.,2025-11-03,Sim
+2583574-8,2025,294.12,144.99,True,300,114,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 114; Total: 414.,2025-11-12,Sim
+2595686-29,2025,216.02,238.63,False,226,220,True,Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449.,2025-12-10,Sim
+264726-127,2025,224.43,137.96,True,205,105,True,Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310.,2025-06-11,Não
+264726-136,2025,242.52,168.06,True,235,142,True,Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377.,2025-06-11,Sim
+264726-142,2025,201.84,130.96,True,182,102,True,Rejeitado o Requerimento. Sim: 102; Não: 182; Total: 284.,2025-06-11,Não
+264726-144,2025,272.98,175.01,True,273,153,True,"Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. 
+ Sim: 273; Não: 153; Abstenção: 1; Total: 427.",2025-06-11,Sim
+264726-148,2025,259.46,176.59,True,256,153,True,Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411.,2025-06-11,Sim
+408349-216,2025,396.03,46.45,True,377,50,True,Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429.,2025-11-04,Sim
+545304-112,2025,276.29,166.31,True,279,137,True,Rejeitado o Requerimento. Sim: 137; Não: 279; Total: 416.,2025-10-29,Não
+545304-120,2025,267.35,158.01,True,264,126,True,Rejeitado o Requerimento. Sim: 126; Não: 264; Total: 390.,2025-10-29,Não
+545304-128,2025,274.58,171.14,True,277,148,True,Rejeitado o Requerimento. Sim: 148; Não: 277; Total: 425.,2025-10-29,Não
+545304-132,2025,246.8,183.99,True,234,162,True,Rejeitada a preferência. Sim: 162; Não: 234; Total: 396.,2025-10-29,Não
+545304-134,2025,278.17,161.8,True,275,133,True,"Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 275; Não: 133; Abstenção: 1; Total: 409.",2025-10-29,Sim
+545304-154,2025,181.77,255.69,False,173,238,False,Suprimido o texto. Sim: 173; Não: 238; Total: 411.,2025-10-29,Sim
+604557-191,2025,380.04,79.11,True,378,66,True,"Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 378; Não: 66; Abstenção: 1; Total: 445.",2025-05-27,Sim
+604557-205,2025,365.84,78.81,True,351,68,True,Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420.,2025-05-27,Sim
+622019-76,2025,241.2,152.27,True,225,117,True,Mantido o texto. Sim: 225; Não: 117; Total: 342.,2025-06-11,Sim
+2234260-164,2026,233.92,172.94,True,252,161,True,Mantido o texto. Sim: 252; Não: 161; Total: 413.,2026-04-22,Sim
+2236186-60,2026,170.75,255.2,False,176,252,False,"Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. Sim: 252; Não: 176; Total: 428.",2026-10-14,Não
+2368697-38,2026,259.92,135.5,True,278,117,True,Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.,2026-04-22,Não
+2368697-43,2026,252.55,141.74,True,270,120,True,Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.,2026-04-22,Não
+2368697-49,2026,230.28,141.48,True,241,119,True,Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.,2026-04-22,Não
+2376169-101,2026,274.88,118.95,True,278,114,True,Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.,2026-03-18,Sim
+2382675-89,2026,243.24,137.91,True,250,117,True,Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367.,2026-06-17,Não
+2419128-78,2026,253.4,143.07,True,268,127,True,Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.,2026-04-22,Não
+2422887-23,2026,124.84,281.57,False,126,274,False,Rejeitado o Requerimento. Sim: 126; Não: 274; Abstenção: 2; Total: 402.,2026-05-19,Sim
+2433663-44,2026,106.91,280.41,False,99,277,False,Rejeitado o Requerimento. Sim: 99; Não: 277; Total: 376.,2026-05-28,Sim
+2447259-99,2026,313.14,112.56,True,343,97,True,Mantido o texto. Sim: 343; Não: 97; Abstenção: 1; Total: 441.,2026-05-06,Sim
+2462009-57,2026,280.59,132.34,True,311,116,True,Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.,2026-03-18,Não
+2462009-60,2026,268.71,141.27,True,297,125,True,Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.,2026-03-18,Não
+2462009-79,2026,221.98,161.57,True,232,151,True,Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384.,2026-03-18,Sim
+2485383-7,2026,109.44,305.8,False,117,317,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434.,2026-03-03,Não
+2487399-57,2026,272.16,135.21,True,295,120,True,Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.,2026-03-24,Sim
+2503833-43,2026,316.6,57.1,True,318,44,True,Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.,2026-03-17,Não
+2503998-70,2026,297.93,77.05,True,306,60,True,Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.,2026-04-07,Não
+2543171-41,2026,283.77,113.2,True,301,102,True,Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404.,2026-03-02,Não
+2543171-49,2026,304.92,118.2,True,340,108,True,"Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449.",2026-03-02,Sim
+2562173-21,2026,268.29,137.61,True,296,126,True,Rejeitado o Requerimento. Sim: 126; Não: 296; Total: 422.,2026-02-09,Não
+2562173-30,2026,246.84,143.81,True,271,127,True,"Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398.",2026-02-09,Sim
+2563330-59,2026,247.86,112.26,True,258,97,True,Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.,2026-03-17,Não
+2572994-8,2026,335.47,30.52,True,315,38,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 315; Não: 38; Abstenção: 1; Total: 354.,2026-03-02,Sim
+2578879-27,2026,249.24,159.25,True,272,157,True,Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432.,2026-03-03,Não
+2578879-31,2026,226.86,156.17,True,237,148,True,Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386.,2026-03-03,Não
+2578879-38,2026,228.32,168.73,True,248,164,True,"Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414.",2026-03-03,Sim
+2579791-17,2026,246.56,187.15,True,276,186,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.,2026-03-18,Sim
+2580259-24,2026,99.36,320.09,False,91,333,False,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424.",2026-08-12,Não
+2581700-31,2026,251.47,123.3,True,268,99,True,Mantido o texto. Sim: 268; Não: 99; Total: 367.,2026-04-07,Sim
+2581785-8,2026,319.96,89.84,True,343,78,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.,2026-03-17,Sim
+2586587-30,2026,106.37,241.64,False,94,228,False,Rejeitado o Requerimento. Sim: 94; Não: 228; Total: 322.,2026-05-21,Sim
+2591974-26,2026,226.79,157.98,True,242,147,True,Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390.,2026-02-10,Não
+2593781-8,2026,349.83,65.9,True,380,57,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 380; Não: 57; Abstenção: 1; Total: 438.,2026-03-10,Sim
+2595984-22,2026,243.71,150.97,True,257,137,True,Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.,2026-03-25,Não
+2595984-31,2026,249.47,139.23,True,257,124,True,Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382.,2026-03-25,Não
+2595984-34,2026,240.88,151.54,True,258,140,True,"Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",2026-03-25,Sim
+2600122-8,2026,276.23,127.33,True,307,113,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; Não: 113; Abstenção: 3; Total: 423.,2026-02-09,Sim
+2600277-9,2026,256.65,134.46,True,277,119,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.,2026-02-10,Sim
+2600278-9,2026,253.05,120.91,True,273,103,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377.,2026-02-10,Sim
+2601040-23,2026,282.67,97.88,True,301,87,True,Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388.,2026-02-10,Não
+2601040-31,2026,308.21,67.97,True,317,61,True,"Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380.",2026-02-10,Sim
+2601522-8,2026,266.89,145.58,True,298,132,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 298; Não: 132; Total: 430.,2026-02-09,Sim
+2603342-42,2026,270.96,145.88,True,307,136,True,"Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional. Sim: 307; Não: 136; Abstenção: 1; Total: 444.",2026-02-25,Sim
+2604383-7,2026,270.82,136.36,True,308,120,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428.,2026-02-25,Sim
+2605090-8,2026,261.37,158.89,True,290,147,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 290; Não: 147; Total: 437.,2026-03-10,Sim
+2605243-12,2026,123.95,304.42,False,123,317,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 123; Total: 440.,2026-05-19,Não
+2606189-10,2026,155.49,272.33,False,162,279,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442.,2026-07-01,Não
+2607727-7,2026,255.97,146.82,True,279,131,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD).,2026-03-16,Sim
+2607960-9,2026,300.91,97.09,True,316,86,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.,2026-03-11,Sim
+2608575-64,2026,341.23,47.0,True,342,39,True,"Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",2026-04-15,Sim
+2610579-7,2026,119.73,295.3,False,112,305,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418.,2026-07-02,Não
+2610645-5,2026,239.98,160.39,True,254,152,True,"Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",2026-03-18,Não
+2611313-31,2026,338.23,58.83,True,346,46,True,"Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395.",2026-09-03,Sim
+2611717-38,2026,280.11,95.54,True,284,86,True,Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373.,2026-03-25,Sim
+2613731-29,2026,286.53,133.27,True,313,115,True,Rejeitado o Requerimento. Sim: 115; Não: 313; Total: 428.,2026-05-20,Não
+2613731-65,2026,179.72,196.01,False,182,182,False,Resultado. Sim: 182; Não: 182; Abstenção: 2; Total: 366.,2026-05-20,Não
+2617164-10,2026,149.2,253.76,False,154,245,False,"Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 154; Não: 245; Abstenção: 3; Total: 402.",2026-04-29,Sim
+2618104-8,2026,103.24,318.26,False,104,330,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.,2026-04-28,Não
+2618177-71,2026,291.06,133.67,True,318,113,True,"Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432.",2026-08-12,Sim
+2618177-73,2026,264.88,128.39,True,275,108,True,Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384.,2026-08-12,Não
+2618177-82,2026,224.97,133.41,True,233,105,True,Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338.,2026-08-12,Não
+2625979-8,2026,252.34,147.95,True,269,125,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 269; Não: 125; Abstenção: 2; Total: 396.,2026-05-20,Sim
+2629954-8,2026,126.97,306.24,False,135,311,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 135; Abstenção: 2; Total: 448.,2026-06-03,Não
+2633410-8,2026,150.82,271.25,False,160,273,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 160; Abstenção: 4; Total: 437.,2026-06-17,Não
+2636281-8,2026,271.07,162.68,True,293,158,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454.,2026-07-01,Sim
+2637721-10,2026,136.29,275.56,False,139,276,False,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416.,2026-07-14,Não
+2638483-34,2026,278.38,133.45,True,285,134,True,Rejeitada a Emenda de Plenário nº 2. Sim: 134; Não: 285; Abstenção: 2; Total: 421.,2026-07-14,Não
+2643915-8,2026,309.69,82.45,True,320,67,True,Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388.,2026-09-01,Sim
+589982-126,2026,235.08,139.06,True,258,119,True,Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378.,2026-03-02,Sim
+589982-129,2026,224.26,135.7,True,235,121,True,Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358.,2026-03-02,Sim
+947810-85,2026,269.5,126.55,True,285,106,True,Mantido o texto. Sim: 285; Não: 106; Abstenção: 1; Total: 392.,2026-06-17,Sim

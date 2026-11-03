@@ -1,0 +1,35 @@
+votacoes-2011-1.json 1597407
+votacoes-2011-2.json 1798741
+votacoes-2012-1.json 810231
+votacoes-2012-2.json 756604
+votacoes-2013-1.json 1172693
+votacoes-2013-2.json 2409700
+votacoes-2014-1.json 948221
+votacoes-2014-2.json 585997
+votacoes-2015-1.json 184807
+votacoes-2015-2.json 130049
+votacoes-2016-1.json 110096
+votacoes-2016-2.json 127035
+erro https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2017-01-01&dataFim=2017-06-30 IncompleteRead(868320 bytes read)
+votacoes-2017-1.json 868320
+votacoes-2017-2.json 1933449
+votacoes-2018-1.json 1067923
+votacoes-2018-2.json 1031331
+votacoes-2019-1.json 763906
+votacoes-2019-2.json 1726150
+votacoes-2020-1.json 1436101
+erro https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2020-07-01&dataFim=2020-12-31 IncompleteRead(2330563 bytes read)
+votacoes-2020-2.json 2330563
+votacoes-2021-1.json 1367948
+votacoes-2021-2.json 2943894
+votacoes-2022-1.json 2265474
+votacoes-2022-2.json 956509
+votacoes-2023-1.json 820715
+votacoes-2023-2.json 1864143
+votacoes-2024-1.json 518025
+votacoes-2024-2.json 1316766
+votacoes-2025-1.json 686706
+erro https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2025-07-01&dataFim=2025-12-31 IncompleteRead(1744698 bytes read)
+votacoes-2025-2.json 1744698
+votacoes-2026-1.json 929219
+votacoes-2026-2.json 248193

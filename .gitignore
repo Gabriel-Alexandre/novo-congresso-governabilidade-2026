@@ -1,0 +1,5 @@
+dados/brutos/camara/
+dados/brutos/senado/
+__pycache__/
+*.pyc
+.pytest_cache/

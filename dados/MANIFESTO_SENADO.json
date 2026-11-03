@@ -1,0 +1,226 @@
+[
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2011-01-01&dataFim=2011-06-30",
+  "arquivo": "votacoes-2011-1.json",
+  "bytes": 1597407,
+  "sha256": "64ba84acdf9386cd63c6a2dbf053309f3ae3f1e2e2a2447bd2a932741b6db970",
+  "capturado": "2026-11-02T21:05:40"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2011-07-01&dataFim=2011-12-31",
+  "arquivo": "votacoes-2011-2.json",
+  "bytes": 1798741,
+  "sha256": "fba2ab65de59f2041cef7e59076acadf9baf4b4276eff5d2a0e1b39f4a7e7011",
+  "capturado": "2026-11-02T21:05:45"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2012-01-01&dataFim=2012-06-30",
+  "arquivo": "votacoes-2012-1.json",
+  "bytes": 810231,
+  "sha256": "4b4c08be7e06b242034cab0f1b9d711e2131dbf9d43165e2dfb0637355ec5753",
+  "capturado": "2026-11-02T21:05:52"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2012-07-01&dataFim=2012-12-31",
+  "arquivo": "votacoes-2012-2.json",
+  "bytes": 756604,
+  "sha256": "e33b612cebc64ba343d642783d3b56d1ad4e378f65bcac2bb529fc69794068a2",
+  "capturado": "2026-11-02T21:05:55"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2013-01-01&dataFim=2013-06-30",
+  "arquivo": "votacoes-2013-1.json",
+  "bytes": 1172693,
+  "sha256": "a2fb198e718df6aafcf72e8743c3a1fef41965b9f16e5088362ffcc593fea502",
+  "capturado": "2026-11-02T21:06:01"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2013-07-01&dataFim=2013-12-31",
+  "arquivo": "votacoes-2013-2.json",
+  "bytes": 2409700,
+  "sha256": "cdb305595764b7702caeabe69abad998a4907b43f238072e4ee0d0ef97125a99",
+  "capturado": "2026-11-02T21:06:09"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2014-01-01&dataFim=2014-06-30",
+  "arquivo": "votacoes-2014-1.json",
+  "bytes": 948221,
+  "sha256": "ccc0e37a5a8954aba892b2c887b8242f9be961d2ddbdd5da62a80302505a9357",
+  "capturado": "2026-11-02T21:06:12"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2014-07-01&dataFim=2014-12-31",
+  "arquivo": "votacoes-2014-2.json",
+  "bytes": 585997,
+  "sha256": "492595495b9755fcb2f52ded67295289effa29d57aefae4a9db4e54eb820ae8c",
+  "capturado": "2026-11-02T21:06:14"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2015-01-01&dataFim=2015-06-30",
+  "arquivo": "votacoes-2015-1.json",
+  "bytes": 184807,
+  "sha256": "1b4cd695f6de5346487ef5dafdd6121e3672bd0e55a3490c3486b03b3619c450",
+  "capturado": "2026-11-02T21:06:15"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2015-07-01&dataFim=2015-12-31",
+  "arquivo": "votacoes-2015-2.json",
+  "bytes": 130049,
+  "sha256": "1b7d35b529de58a6bc6b328cc05a604db467e8b84ee84b65f34c345a6c43af98",
+  "capturado": "2026-11-02T21:06:16"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2016-01-01&dataFim=2016-06-30",
+  "arquivo": "votacoes-2016-1.json",
+  "bytes": 110096,
+  "sha256": "923af3acc1b6c71d363db68b91fbb620a4d22394bcb65c26a76c18d248957ae7",
+  "capturado": "2026-11-02T21:06:18"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2016-07-01&dataFim=2016-12-31",
+  "arquivo": "votacoes-2016-2.json",
+  "bytes": 127035,
+  "sha256": "6d07b55fa2a52cd723efe0c1b22862d64c27268734481f5b6cc34277a4e72557",
+  "capturado": "2026-11-02T21:06:19"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2017-01-01&dataFim=2017-06-30",
+  "arquivo": "votacoes-2017-1.json",
+  "bytes": 868320,
+  "sha256": "9b7f8bdec4c3dcc6896cb53357c86d97879a60aa9cbd6b22898c4deffb59d7ca",
+  "capturado": "2026-11-02T21:06:31"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2017-07-01&dataFim=2017-12-31",
+  "arquivo": "votacoes-2017-2.json",
+  "bytes": 1933449,
+  "sha256": "ed94133c6ce8f754492e9a83edd506a11a027e0bc3a05d63f9777f4d482e748c",
+  "capturado": "2026-11-02T21:06:35"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2018-01-01&dataFim=2018-06-30",
+  "arquivo": "votacoes-2018-1.json",
+  "bytes": 1067923,
+  "sha256": "35f125c298e1fdfa83093ffb9cb264a897e7a910273c98c1bb57d206fdc1d27f",
+  "capturado": "2026-11-02T21:06:37"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2018-07-01&dataFim=2018-12-31",
+  "arquivo": "votacoes-2018-2.json",
+  "bytes": 1031331,
+  "sha256": "0ea2aa781c34dd87fe07a129540f6a251b70c506bbcf3eaafdd162594c3882b9",
+  "capturado": "2026-11-02T21:06:40"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2019-01-01&dataFim=2019-06-30",
+  "arquivo": "votacoes-2019-1.json",
+  "bytes": 763906,
+  "sha256": "b6eddb5fd0e33a01bd26dd109bacf840c06b17b3a5c91fdd6e6948f703a37381",
+  "capturado": "2026-11-02T21:06:42"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2019-07-01&dataFim=2019-12-31",
+  "arquivo": "votacoes-2019-2.json",
+  "bytes": 1726150,
+  "sha256": "d61f1153a8c9d1976960239bfd7d03b4767e5e48cca54142c67b2fd9de7c830e",
+  "capturado": "2026-11-02T21:06:45"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2020-01-01&dataFim=2020-06-30",
+  "arquivo": "votacoes-2020-1.json",
+  "bytes": 1436101,
+  "sha256": "5b5818bcbaf4fe2fa3fde6cbe7bdee2672ab90735b6a3b92f6fa296771bbe61e",
+  "capturado": "2026-11-02T21:06:49"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2020-07-01&dataFim=2020-12-31",
+  "arquivo": "votacoes-2020-2.json",
+  "bytes": 2330563,
+  "sha256": "6472914c479ab2346d36f9cbdd3d1a2571294d4cfd4a1460dbaf0de2452477c2",
+  "capturado": "2026-11-02T21:07:01"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2021-01-01&dataFim=2021-06-30",
+  "arquivo": "votacoes-2021-1.json",
+  "bytes": 1367948,
+  "sha256": "29fb4a12b13ffd3a545691e9a1e5d7ea2eea14e60d745e7a2d31ead7d339747e",
+  "capturado": "2026-11-02T21:07:04"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2021-07-01&dataFim=2021-12-31",
+  "arquivo": "votacoes-2021-2.json",
+  "bytes": 2943894,
+  "sha256": "7722b4eae648b68b13744e601895059fbf1c2c3722933c359383fd80fb00a6fd",
+  "capturado": "2026-11-02T21:07:09"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2022-01-01&dataFim=2022-06-30",
+  "arquivo": "votacoes-2022-1.json",
+  "bytes": 2265474,
+  "sha256": "8bbe6a21634e3ec4156d103fd614a5ed117a248f597ab976ba400784adb06ad8",
+  "capturado": "2026-11-02T21:07:13"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2022-07-01&dataFim=2022-12-31",
+  "arquivo": "votacoes-2022-2.json",
+  "bytes": 956509,
+  "sha256": "c8234d43ca0de7879e328c021dfc1257c043df296e8cc1231babe7ac1b465286",
+  "capturado": "2026-11-02T21:07:16"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2023-01-01&dataFim=2023-06-30",
+  "arquivo": "votacoes-2023-1.json",
+  "bytes": 820715,
+  "sha256": "f6213dda47339f90e4a67e9708ffc21ee8cebf7ded2ce265a763eb0e77d0537c",
+  "capturado": "2026-11-02T21:07:19"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2023-07-01&dataFim=2023-12-31",
+  "arquivo": "votacoes-2023-2.json",
+  "bytes": 1864143,
+  "sha256": "2e8da3f26d5a351ed6143dfa5c4bb6dec4ec7c251deb400ec303822e24c4dc49",
+  "capturado": "2026-11-02T21:07:24"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-01-01&dataFim=2024-06-30",
+  "arquivo": "votacoes-2024-1.json",
+  "bytes": 518025,
+  "sha256": "e2a4d2a02aeffecfaeefe9d15deb804f3a9899b1203782782b8ed8feac3883c8",
+  "capturado": "2026-11-02T21:07:26"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-07-01&dataFim=2024-12-31",
+  "arquivo": "votacoes-2024-2.json",
+  "bytes": 1316766,
+  "sha256": "2e94faaf96c2ed20d83e025cbe6906c9fb19c7bbfc580e911e37a640e3b1746a",
+  "capturado": "2026-11-02T21:07:32"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2025-01-01&dataFim=2025-06-30",
+  "arquivo": "votacoes-2025-1.json",
+  "bytes": 686706,
+  "sha256": "83b7b3732428a38dd802ea87292a4e7c85b3a8ef9495fb4c51adeef1d82312b4",
+  "capturado": "2026-11-02T21:07:36"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2025-07-01&dataFim=2025-12-31",
+  "arquivo": "votacoes-2025-2.json",
+  "bytes": 1744698,
+  "sha256": "d703ebe815dbc0b906026b07568cac51c38c396db9a7fe7b63e209750a637117",
+  "capturado": "2026-11-02T21:07:51"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-01-01&dataFim=2026-06-30",
+  "arquivo": "votacoes-2026-1.json",
+  "bytes": 929219,
+  "sha256": "a38bd7ff7a4bd8329cbec22c30e3e817a646526bace148ddba2600407fc7713e",
+  "capturado": "2026-11-02T21:07:55"
+ },
+ {
+  "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-07-01&dataFim=2026-12-31",
+  "arquivo": "votacoes-2026-2.json",
+  "bytes": 248193,
+  "sha256": "7ecdb32fa69bd6fa860291fadd4d0f97bf9785a70c48a148e0ae017f2771e17b",
+  "capturado": "2026-11-02T21:07:57"
+ }
+]

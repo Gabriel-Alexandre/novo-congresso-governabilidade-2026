@@ -1,0 +1,205 @@
+[
+ {
+  "item": "vitoria nas disputadas 2003",
+  "modelo": 100.0,
+  "refeito": 100.0,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2003",
+  "modelo": 12.0,
+  "refeito": 12,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2015",
+  "modelo": 71.1,
+  "refeito": 71.1,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2015",
+  "modelo": 149.0,
+  "refeito": 149,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2021",
+  "modelo": 95.9,
+  "refeito": 95.9,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2021",
+  "modelo": 442.0,
+  "refeito": 442,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2023",
+  "modelo": 88.3,
+  "refeito": 88.3,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2023",
+  "modelo": 179.0,
+  "refeito": 179,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2024",
+  "modelo": 84.0,
+  "refeito": 84.0,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2024",
+  "modelo": 163.0,
+  "refeito": 163,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2025",
+  "modelo": 77.3,
+  "refeito": 77.3,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2025",
+  "modelo": 264.0,
+  "refeito": 264,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "vitoria nas disputadas 2026",
+  "modelo": 79.2,
+  "refeito": 79.2,
+  "tol": 0.05,
+  "passou": true
+ },
+ {
+  "item": "numero de disputadas 2026",
+  "modelo": 72.0,
+  "refeito": 72,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "o placar do decreto do IOF aparece como 98 com o governo e 383 contra",
+  "modelo": 1,
+  "refeito": 1,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "replay 2023 (vitoria com a composicao de 2027)",
+  "modelo": 88.3,
+  "refeito": 88.3,
+  "tol": 1.0,
+  "passou": true
+ },
+ {
+  "item": "replay 2024 (vitoria com a composicao de 2027)",
+  "modelo": 82.8,
+  "refeito": 82.8,
+  "tol": 1.0,
+  "passou": true
+ },
+ {
+  "item": "replay 2025 (vitoria com a composicao de 2027)",
+  "modelo": 76.5,
+  "refeito": 76.5,
+  "tol": 1.0,
+  "passou": true
+ },
+ {
+  "item": "replay 2026 (vitoria com a composicao de 2027)",
+  "modelo": 79.2,
+  "refeito": 79.2,
+  "tol": 1.0,
+  "passou": true
+ },
+ {
+  "item": "bancada eleita PL",
+  "modelo": 121,
+  "refeito": 121,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "bancada eleita PT",
+  "modelo": 70,
+  "refeito": 70,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "bancada eleita PSD",
+  "modelo": 43,
+  "refeito": 43,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "bancada eleita MDB",
+  "modelo": 36,
+  "refeito": 36,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "total de eleitos",
+  "modelo": 513,
+  "refeito": 513,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "senadores na composicao de 2027",
+  "modelo": 81,
+  "refeito": 81,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "PL no Senado em 2027",
+  "modelo": "28",
+  "refeito": 28,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "Senado: acordo do placar com o resultado oficial acima de 95%",
+  "modelo": 1,
+  "refeito": 1,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "MPs editadas em Lula III",
+  "modelo": 245,
+  "refeito": 245,
+  "tol": 0.0,
+  "passou": true
+ },
+ {
+  "item": "MPs que viraram lei em Lula III (%)",
+  "modelo": 22.4,
+  "refeito": 22.4,
+  "tol": 0.05,
+  "passou": true
+ }
+]

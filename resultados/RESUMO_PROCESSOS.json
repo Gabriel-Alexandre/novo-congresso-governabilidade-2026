@@ -1,0 +1,440 @@
+{
+ "mp_por_ano": {
+  "2003": {
+   "editadas": 58,
+   "viraram_lei": 57,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 98.3,
+   "presidente": "Lula I"
+  },
+  "2004": {
+   "editadas": 73,
+   "viraram_lei": 66,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 90.4,
+   "presidente": "Lula I"
+  },
+  "2005": {
+   "editadas": 42,
+   "viraram_lei": 37,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 88.1,
+   "presidente": "Lula I"
+  },
+  "2006": {
+   "editadas": 67,
+   "viraram_lei": 61,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 91.0,
+   "presidente": "Lula I"
+  },
+  "2007": {
+   "editadas": 70,
+   "viraram_lei": 60,
+   "nao_viraram": 4,
+   "em_aberto": 0,
+   "pct_lei": 85.7,
+   "presidente": "Lula II"
+  },
+  "2008": {
+   "editadas": 40,
+   "viraram_lei": 35,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 87.5,
+   "presidente": "Lula II"
+  },
+  "2009": {
+   "editadas": 27,
+   "viraram_lei": 25,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 92.6,
+   "presidente": "Lula II"
+  },
+  "2010": {
+   "editadas": 42,
+   "viraram_lei": 30,
+   "nao_viraram": 2,
+   "em_aberto": 0,
+   "pct_lei": 71.4,
+   "presidente": "Lula II"
+  },
+  "2011": {
+   "editadas": 36,
+   "viraram_lei": 29,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 80.6,
+   "presidente": "Dilma I"
+  },
+  "2012": {
+   "editadas": 45,
+   "viraram_lei": 39,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 86.7,
+   "presidente": "Dilma I"
+  },
+  "2013": {
+   "editadas": 35,
+   "viraram_lei": 29,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 82.9,
+   "presidente": "Dilma I"
+  },
+  "2014": {
+   "editadas": 29,
+   "viraram_lei": 16,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 55.2,
+   "presidente": "Dilma I"
+  },
+  "2015": {
+   "editadas": 43,
+   "viraram_lei": 34,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 79.1,
+   "presidente": "Dilma II"
+  },
+  "2016": {
+   "editadas": 56,
+   "viraram_lei": 40,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 71.4,
+   "presidente": "Dilma II e Temer"
+  },
+  "2017": {
+   "editadas": 51,
+   "viraram_lei": 26,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 51.0,
+   "presidente": "Temer"
+  },
+  "2018": {
+   "editadas": 53,
+   "viraram_lei": 29,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 54.7,
+   "presidente": "Temer"
+  },
+  "2019": {
+   "editadas": 48,
+   "viraram_lei": 22,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 45.8,
+   "presidente": "Bolsonaro"
+  },
+  "2020": {
+   "editadas": 108,
+   "viraram_lei": 53,
+   "nao_viraram": 0,
+   "em_aberto": 0,
+   "pct_lei": 49.1,
+   "presidente": "Bolsonaro"
+  },
+  "2021": {
+   "editadas": 70,
+   "viraram_lei": 44,
+   "nao_viraram": 3,
+   "em_aberto": 0,
+   "pct_lei": 62.9,
+   "presidente": "Bolsonaro"
+  },
+  "2022": {
+   "editadas": 58,
+   "viraram_lei": 46,
+   "nao_viraram": 1,
+   "em_aberto": 0,
+   "pct_lei": 79.3,
+   "presidente": "Bolsonaro"
+  },
+  "2023": {
+   "editadas": 52,
+   "viraram_lei": 11,
+   "nao_viraram": 2,
+   "em_aberto": 0,
+   "pct_lei": 21.2,
+   "presidente": "Lula III"
+  },
+  "2024": {
+   "editadas": 81,
+   "viraram_lei": 16,
+   "nao_viraram": 7,
+   "em_aberto": 0,
+   "pct_lei": 19.8,
+   "presidente": "Lula III"
+  },
+  "2025": {
+   "editadas": 46,
+   "viraram_lei": 16,
+   "nao_viraram": 2,
+   "em_aberto": 0,
+   "pct_lei": 34.8,
+   "presidente": "Lula III"
+  },
+  "2026": {
+   "editadas": 66,
+   "viraram_lei": 12,
+   "nao_viraram": 1,
+   "em_aberto": 24,
+   "pct_lei": 18.2,
+   "presidente": "Lula III"
+  }
+ },
+ "veto_por_ano": {
+  "2003": {
+   "vetos": 44,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 0,
+   "presidente": "Lula I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2004": {
+   "vetos": 35,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 0,
+   "presidente": "Lula I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2005": {
+   "vetos": 37,
+   "total": 2,
+   "parcial": 0,
+   "em_aberto": 0,
+   "presidente": "Lula I",
+   "pct_com_algo_derrubado": 5.4
+  },
+  "2006": {
+   "vetos": 34,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 2,
+   "presidente": "Lula I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2007": {
+   "vetos": 41,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 4,
+   "presidente": "Lula II",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2008": {
+   "vetos": 54,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 8,
+   "presidente": "Lula II",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2009": {
+   "vetos": 69,
+   "total": 0,
+   "parcial": 1,
+   "em_aberto": 56,
+   "presidente": "Lula II",
+   "pct_com_algo_derrubado": 7.7
+  },
+  "2010": {
+   "vetos": 43,
+   "total": 0,
+   "parcial": 1,
+   "em_aberto": 32,
+   "presidente": "Lula II",
+   "pct_com_algo_derrubado": 9.1
+  },
+  "2011": {
+   "vetos": 37,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 34,
+   "presidente": "Dilma I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2012": {
+   "vetos": 53,
+   "total": 1,
+   "parcial": 0,
+   "em_aberto": 50,
+   "presidente": "Dilma I",
+   "pct_com_algo_derrubado": 33.3
+  },
+  "2013": {
+   "vetos": 57,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 21,
+   "presidente": "Dilma I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2014": {
+   "vetos": 36,
+   "total": 0,
+   "parcial": 0,
+   "em_aberto": 0,
+   "presidente": "Dilma I",
+   "pct_com_algo_derrubado": 0.0
+  },
+  "2015": {
+   "vetos": 64,
+   "total": 2,
+   "parcial": 4,
+   "em_aberto": 0,
+   "presidente": "Dilma II",
+   "pct_com_algo_derrubado": 9.4
+  },
+  "2016": {
+   "vetos": 52,
+   "total": 1,
+   "parcial": 3,
+   "em_aberto": 0,
+   "presidente": "Dilma II e Temer",
+   "pct_com_algo_derrubado": 7.7
+  },
+  "2017": {
+   "vetos": 50,
+   "total": 7,
+   "parcial": 1,
+   "em_aberto": 0,
+   "presidente": "Temer",
+   "pct_com_algo_derrubado": 16.0
+  },
+  "2018": {
+   "vetos": 42,
+   "total": 4,
+   "parcial": 5,
+   "em_aberto": 0,
+   "presidente": "Temer",
+   "pct_com_algo_derrubado": 21.4
+  },
+  "2019": {
+   "vetos": 62,
+   "total": 13,
+   "parcial": 8,
+   "em_aberto": 0,
+   "presidente": "Bolsonaro",
+   "pct_com_algo_derrubado": 33.9
+  },
+  "2020": {
+   "vetos": 59,
+   "total": 9,
+   "parcial": 11,
+   "em_aberto": 0,
+   "presidente": "Bolsonaro",
+   "pct_com_algo_derrubado": 33.9
+  },
+  "2021": {
+   "vetos": 73,
+   "total": 27,
+   "parcial": 12,
+   "em_aberto": 0,
+   "presidente": "Bolsonaro",
+   "pct_com_algo_derrubado": 53.4
+  },
+  "2022": {
+   "vetos": 65,
+   "total": 22,
+   "parcial": 12,
+   "em_aberto": 1,
+   "presidente": "Bolsonaro",
+   "pct_com_algo_derrubado": 53.1
+  },
+  "2023": {
+   "vetos": 49,
+   "total": 11,
+   "parcial": 18,
+   "em_aberto": 4,
+   "presidente": "Lula III",
+   "pct_com_algo_derrubado": 64.4
+  },
+  "2024": {
+   "vetos": 50,
+   "total": 6,
+   "parcial": 4,
+   "em_aberto": 15,
+   "presidente": "Lula III",
+   "pct_com_algo_derrubado": 28.6
+  },
+  "2025": {
+   "vetos": 51,
+   "total": 3,
+   "parcial": 3,
+   "em_aberto": 38,
+   "presidente": "Lula III",
+   "pct_com_algo_derrubado": 46.2
+  },
+  "2026": {
+   "vetos": 55,
+   "total": 1,
+   "parcial": 0,
+   "em_aberto": 54,
+   "presidente": "Lula III",
+   "pct_com_algo_derrubado": 100.0
+  }
+ },
+ "por_presidente": {
+  "Bolsonaro": {
+   "mp_pct_lei": 58.1,
+   "mp_editadas": 284,
+   "vetos": 259,
+   "vetos_derrubados_algum": 114
+  },
+  "Dilma I": {
+   "mp_pct_lei": 77.9,
+   "mp_editadas": 145,
+   "vetos": 183,
+   "vetos_derrubados_algum": 1
+  },
+  "Dilma II": {
+   "mp_pct_lei": 79.1,
+   "mp_editadas": 43,
+   "vetos": 64,
+   "vetos_derrubados_algum": 6
+  },
+  "Dilma II e Temer": {
+   "mp_pct_lei": 71.4,
+   "mp_editadas": 56,
+   "vetos": 52,
+   "vetos_derrubados_algum": 4
+  },
+  "Lula I": {
+   "mp_pct_lei": 92.1,
+   "mp_editadas": 240,
+   "vetos": 150,
+   "vetos_derrubados_algum": 2
+  },
+  "Lula II": {
+   "mp_pct_lei": 83.8,
+   "mp_editadas": 179,
+   "vetos": 207,
+   "vetos_derrubados_algum": 2
+  },
+  "Lula III": {
+   "mp_pct_lei": 22.4,
+   "mp_editadas": 245,
+   "vetos": 205,
+   "vetos_derrubados_algum": 46
+  },
+  "Temer": {
+   "mp_pct_lei": 52.9,
+   "mp_editadas": 104,
+   "vetos": 92,
+   "vetos_derrubados_algum": 17
+  }
+ }
+}
