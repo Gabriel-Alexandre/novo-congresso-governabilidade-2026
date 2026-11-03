@@ -1,0 +1,5 @@
+id,ordem,cenario,descricao,regra_de_resolucao_em_31_12_2027
+C4,1,A ruptura,Denúncia de crime de responsabilidade recebida contra Lula,"P17 resolve sim, ou renúncia diante de processo"
+C3,2,A trava,Sem processo; o Congresso toca a própria pauta e o governo perde parte grande das disputas,"não é C4; e o governo venceu menos de 70% das disputadas da Câmara em 2027, ou o Senado rejeitou mais uma indicação ao STF"
+C2,3,A folga,Ganha quase tudo e aprova o que precisa de muitos votos,não é C4 nem C3; venceu pelo menos 85% na Câmara e aprovou um indicado ao STF ou uma PEC de iniciativa do governo
+C1,4,A negociação caso a caso,"Vence de 70% a 85% na Câmara, ou mais sem a vitória grande; depende do pêndulo a cada votação; sem rejeição nova no STF",todos os outros casos

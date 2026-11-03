@@ -1,0 +1,231 @@
+{
+"total": {
+"n": 678,
+"real_pct": 82.0,
+"novo_pct": 81.4,
+"viram_contra": 4,
+"viram_a_favor": 0
+},
+"por_ano": {
+"2023": {
+"n": 179,
+"real_pct": 88.3,
+"novo_pct": 88.3,
+"viram_contra": 0,
+"viram_a_favor": 0
+},
+"2024": {
+"n": 163,
+"real_pct": 84.0,
+"novo_pct": 82.8,
+"viram_contra": 2,
+"viram_a_favor": 0
+},
+"2025": {
+"n": 264,
+"real_pct": 77.3,
+"novo_pct": 76.5,
+"viram_contra": 2,
+"viram_a_favor": 0
+},
+"2026": {
+"n": 72,
+"real_pct": 79.2,
+"novo_pct": 79.2,
+"viram_contra": 0,
+"viram_a_favor": 0
+}
+},
+"2025_26": {
+"n": 336,
+"real_pct": 77.7,
+"novo_pct": 77.1,
+"viram_contra": 2,
+"viram_a_favor": 0
+},
+"desde_09jul2025": {
+"n": 232,
+"real_pct": 71.1,
+"novo_pct": 70.3,
+"viram_contra": 2,
+"viram_a_favor": 0
+},
+"ic95_real": [
+76.3,
+87.2
+],
+"ic95_novo": [
+75.7,
+86.7
+],
+"mediana_com_real": 277.0,
+"mediana_com_novo": 262.5,
+"pct_257_real": 64.9,
+"pct_257_novo": 55.9,
+"pct_308_real": 27.9,
+"pct_308_novo": 18.7,
+"pct_172_real": 83.5,
+"pct_172_novo": 82.7,
+"contra_342_real": 13,
+"contra_342_novo": 11,
+"contra_257_real_pct": 13.3,
+"contra_257_novo_pct": 13.3,
+"perdedor_35": {
+"n": 116,
+"real_pct": 75.0,
+"novo_pct": 71.6,
+"viram_contra": 4,
+"viram_a_favor": 0
+},
+"perdedor_40": {
+"n": 56,
+"real_pct": 73.2,
+"novo_pct": 66.1,
+"viram_contra": 4,
+"viram_a_favor": 0
+},
+"perdedor_45": {
+"n": 21,
+"real_pct": 71.4,
+"novo_pct": 52.4,
+"viram_contra": 4,
+"viram_a_favor": 0
+},
+"merito": {
+"total": {
+"n": 124,
+"real_pct": 82.3,
+"novo_pct": 82.3,
+"viram_contra": 0,
+"viram_a_favor": 0
+},
+"por_ano": {
+"2023": {
+"n": 39,
+"real_pct": 89.7,
+"novo_pct": 89.7,
+"viram_contra": 0,
+"viram_a_favor": 0
+},
+"2024": {
+"n": 24,
+"real_pct": 91.7,
+"novo_pct": 91.7,
+"viram_contra": 0,
+"viram_a_favor": 0
+},
+"2025": {
+"n": 50,
+"real_pct": 74.0,
+"novo_pct": 74.0,
+"viram_contra": 0,
+"viram_a_favor": 0
+},
+"2026": {
+"n": 11,
+"real_pct": 72.7,
+"novo_pct": 72.7,
+"viram_contra": 0,
+"viram_a_favor": 0
+}
+}
+},
+"pendulo_com_governo": {
+"votacoes": 548,
+"venceu": 548
+},
+"pendulo_contra_governo": {
+"votacoes": 130,
+"venceu": 8
+},
+"novatos": {
+"base": 81.1,
+"menos10": 80.7,
+"meio_pl": 78.5,
+"como_pl": 72.1
+}
+}
+{'casos': [{'caso': 'Lula I para Lula II', 'previsto': 88.6, 'repetir_o_mandato': 90.0, 'real': 93.3, 'n_real': 45, 'erro': 4.7, 'erro_regra_ingenua': 3.3}, {'caso': 'Lula II para Dilma I', 'previsto': 89.9, 'repetir_o_mandato': 89.9, 'real': 92.7, 'n_real': 41, 'erro': 2.8, 'erro_regra_ingenua': 2.8}, {'caso': 'Dilma I para Dilma II', 'previsto': 74.4, 'repetir_o_mandato': 77.4, 'real': 71.1, 'n_real': 149, 'erro': 3.3, 'erro_regra_ingenua': 6.3}], 'erro_medio': np.float64(3.6), 'erro_medio_ingenua': np.float64(4.13)}
+{
+"senadores_com_historico": 41,
+"senadores_novos": 40,
+"novos_com_apoio_declarado_flavio": 24,
+"deputados_com_historico_na_camara": 15,
+"total": {
+"n": 83,
+"real_pct": 66.3,
+"novo_pct": 32.5,
+"viram_contra": 28,
+"mediana_com_real": 39.0,
+"mediana_com_novo": 29.3
+},
+"por_periodo": {
+"2023_24": {
+"n": 64,
+"real_pct": 70.3,
+"novo_pct": 29.7,
+"viram_contra": 26,
+"mediana_com_real": 41.0,
+"mediana_com_novo": 29.4
+},
+"2025_26": {
+"n": 19,
+"real_pct": 52.6,
+"novo_pct": 42.1,
+"viram_contra": 2,
+"mediana_com_real": 36.0,
+"mediana_com_novo": 26.1
+}
+},
+"materias": 53,
+"ic95_real": [
+52.7,
+79.7
+],
+"ic95_novo": [
+22.8,
+43.5
+],
+"pct_41_real": 47.0,
+"pct_41_novo": 15.7,
+"pct_49_novo": 2.4,
+"pct_contra_41_real": 22.9,
+"pct_contra_41_novo": 33.7,
+"pct_contra_49_novo": 16.9,
+"pct_contra_54_novo": 7.2,
+"max_contra_novo": 56.1,
+"escada_trazidos": {
+"2": 44.6,
+"4": 53.0,
+"6": 61.4,
+"8": 66.3
+},
+"variantes": {
+"deputados_com_taxa_pessoal": 34.9,
+"flavio_como_pl": 27.7,
+"pendulo_fora_da_lista_como_mdb": 41.0,
+"piso_novo_fora_da_esquerda_como_pl": 16.9,
+"sem_duplicatas": {
+"n": 80,
+"real": 67.5,
+"novo": 32.5
+}
+}
+}
+           editadas    lei   pct  sem_credito_n  sem_credito_lei  sem_credito_pct  sem_eficacia  rejeitadas  revogadas
+Lula I        240.0  219.0  91.2          181.0            163.0             90.1           7.0         6.0        1.0
+Lula II       179.0  148.0  82.7          141.0            116.0             82.3          16.0         4.0        4.0
+Dilma I       145.0  108.0  74.5          117.0             90.0             76.9          36.0         0.0        1.0
+Dilma II       61.0   47.0  77.0           49.0             39.0             79.6          13.0         1.0        1.0
+Temer         143.0   81.0  56.6          130.0             78.0             60.0          57.0         3.0        2.0
+Bolsonaro     284.0  164.0  57.7          211.0            143.0             67.8         115.0         1.0        3.0
+Lula III      244.0   52.0  21.3          145.0             29.0             20.0         154.0         0.0       12.0
+           vetos  com_algo_derrubado  decididos  pct_decididos
+Lula I     150.0                 2.0      125.0            1.6
+Lula II    207.0                 2.0       83.0            2.4
+Dilma I    183.0                 1.0       72.0            1.4
+Dilma II    80.0                 6.0       79.0            7.6
+Temer      128.0                21.0      125.0           16.8
+Bolsonaro  259.0               114.0      255.0           44.7
+Lula III   205.0                46.0       89.0           51.7
+ok

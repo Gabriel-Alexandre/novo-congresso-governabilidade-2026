@@ -1,0 +1,29 @@
+id,pergunta,prazo,resolve_sim_se
+P01,Hugo Motta é reeleito presidente da Câmara na eleição de fevereiro de 2027,2027-02-28,resultado oficial da Câmara
+P02,Davi Alcolumbre é reeleito presidente do Senado na eleição de fevereiro de 2027,2027-02-28,resultado oficial do Senado
+P03,O PL integra formalmente o bloco de Motta na eleição da Mesa,2027-02-28,registro oficial do bloco; apoio sem bloco formal vale não
+P04,PSD e MDB somam pelo menos 4 ministros filiados no governo em 30/04/2027,2027-04-30,"foto em 30/04; conta ministro de Estado filiado ao partido, segundo duas agências"
+P05,Há ao menos 1 ministro filiado a União ou PP no governo em 30/04/2027,2027-04-30,"foto em 30/04; ministro de Estado filiado, segundo duas agências; decisão formal do partido não é exigida"
+P06,Um novo indicado de Lula ao STF é aprovado pelo Senado,2027-12-31,resultado oficial do plenário do Senado
+P07,O Senado rejeita mais uma indicação de Lula ao STF,2027-12-31,resultado oficial do plenário do Senado
+P08,O governo vence pelo menos 75% das votações nominais disputadas da Câmara em 2027,2027-12-31,"script ferramentas/analise_camara.py deste repositório, piso de 30 votações; só onde o governo orientou"
+P09,O governo vence pelo menos 85% das votações nominais disputadas da Câmara em 2027,2027-12-31,"mesmo script, piso de 30 votações"
+P10,A posição da bancada do PT vence pelo menos 50% das votações nominais abertas disputadas do Senado em 2027,2027-12-31,"script ferramentas/rodada2.py, piso de 15 votações; sem o piso, resolve não"
+P11,O Congresso derruba total ou parcialmente pelo menos 5 mensagens de veto de Lula em 2027,2027-12-31,"dados do Congresso; processo VET com rótulo REJEITADO_PLENARIO ou MANTIDO_PARCIALMENTE, ato de votação em 2027"
+P12,Pelo menos 30% das MPs editadas em 2027 viram lei,2028-06-30,norma publicada; dados do Congresso
+P13,A PEC da tarifa zero é promulgada,2027-12-31,publicação no Diário Oficial
+P14,Lei ou emenda que extinga a punibilidade de Jair Bolsonaro pelos atos de 8 de janeiro é aprovada pelas 2 Casas,2027-12-31,resultado oficial; redução de pena não conta
+P15,O presidente do Senado faz a leitura ou instala comissão de pedido de impeachment de ministro do STF,2027-12-31,ato oficial; protocolo não conta
+P16,Ministro do STF é condenado ou afastado por impeachment,2027-12-31,resultado oficial do Senado
+P17,O presidente da Câmara despacha o recebimento de denúncia de crime de responsabilidade contra Lula,2027-12-31,despacho oficial; protocolo de pedido não conta
+P18,A Câmara autoriza processo contra Lula por 342 votos ou mais,2027-12-31,resultado oficial da Câmara
+P19,Lula deixa a Presidência antes do fim do mandato por impeachment ou renúncia diante de processo,2030-12-31,resultado oficial; saída por saúde não conta
+P20,O Datafolha registra avaliação ótimo ou bom de Lula abaixo de 25% em alguma pesquisa,2027-12-31,"pesquisa publicada do Datafolha; é a avaliação do governo, não a aprovação"
+P21,A lei do Orçamento de 2027 é sancionada,2027-03-31,publicação no Diário Oficial
+P22,O Congresso aprova mudança na meta de 2027 para um resultado pior que o da LDO original,2027-12-31,lei publicada; exceção à meta não conta
+P23,É instalada CPI ou CPMI cujo requerimento cita ato de autoridade federal do governo Lula como objeto,2027-12-31,ato oficial de instalação e texto do requerimento
+P24,Delegação dos EUA à posse de Lula é anunciada pelo governo americano,2027-01-05,"anúncio do Departamento de Estado ou da Casa Branca, ou duas agências; encarregado de negócios por conta própria não conta"
+P25,Os EUA aplicam nova sanção nominal a autoridade brasileira,2027-12-31,publicação da OFAC ou do Departamento de Estado
+P26,A PEC da reforma administrativa é aprovada em 2 turnos no plenário da Câmara,2027-12-31,resultado oficial
+P27,"Lula deixa a Presidência por qualquer motivo, inclusive saúde",2027-12-31,fato oficial
+P28,O governo vence pelo menos 70% das votações nominais disputadas da Câmara em 2027,2027-12-31,"mesmo script de P08, piso de 30 votações"

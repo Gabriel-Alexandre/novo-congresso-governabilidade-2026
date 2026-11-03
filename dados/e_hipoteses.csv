@@ -1,9 +1,9 @@
 id,evidencia,H1_folga,H2_negocia,H3_trava,H4_cai
 E01,Repetindo 678 votações da Câmara com os eleitos o governo vence 81% contra 82% reais,C,C,I,I
-E02,No Senado o mesmo teste cai de 66% para 37%,I,C,C,N
+E02,"No Senado o mesmo teste cai de 66% para cerca de 32%, faixa de 30 a 45",I,C,C,N
 E03,Senado atual já rejeitou indicado ao STF por 42 a 34,I,C,C,N
-E04,Vetos derrubados: 46 de 205 em Lula III contra 2 de 150 em Lula I,I,C,C,N
-E05,MPs que viram lei: 22% em Lula III contra 92% em Lula I,I,C,C,N
+E04,Vetos com algo derrubado: 52% dos decididos em Lula III e 45% em Bolsonaro; 8% em Dilma II,I,C,C,N
+E05,MPs que viram lei: 21% em Lula III contra 91% em Lula I; nenhuma rejeitada no voto,I,C,C,N
 E06,6x1 passou 75 a 1 e IR 493 a 0,C,C,I,I
 E07,Motta com apoio de partidos com 361 cadeiras e PT incluído,C,C,N,I
 E08,União-PP passou a apoiar Alcolumbre 2 dias depois da eleição,C,C,N,I
@@ -13,7 +13,7 @@ E11,Temer barrou denúncia com 7% de aprovação e 263 votos,N,C,N,I
 E12,Dilma venceu 71% das disputadas em 2015 e caiu,N,N,N,C
 E13,Sem pedido novo com autor identificado contra Lula até 30/out; alvo declarado é o STF,C,C,C,I
 E14,Aprovação 48 a 45 na véspera; Dilma tinha 13% em março de 2015,C,C,N,I
-E15,IFI: déficit de R$ 86 bi; bolsa -13,88%; juros perto de 14%,I,C,C,C
-E16,Emendas obrigatórias de R$ 44,8 bi independem do governo,I,C,C,N
-E17,Tarifa de 2025 não aproximou o centro do governo no plenário,I,C,C,N
+E15,"IFI: déficit de R$ 86 bi; bolsa -13,88%; juros perto de 14%",I,C,C,C
+E16,"Emendas obrigatórias de R$ 44,8 bi independem do governo",I,C,C,N
+E17,Tarifa de 2025 não uniu o plenário,I,C,C,N
 E18,Flávio em Miami e PL dividido entre Motta e Marinho,C,C,N,I

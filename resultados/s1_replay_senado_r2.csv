@@ -1,0 +1,84 @@
+vid,com,contra,novo,com_gov,tot,contra_gov,real,disp,ano,materia,data,desc,cod_materia,materia_id
+6677,32.22,33.78,False,43,66,23,True,True,2023,PL 1825/2022 (Substitutivo-CD),2023-05-09,"Votação nominal das expressões contidas no PL 1.825/2022 (Substitutivo da CD ao PLS 68/2017), destacadas.",156611,PL 1825/2022 (Substitutivo-CD)
+6704,36.08,33.92,True,51,70,19,True,True,2023,MPV 1154/2023,2023-05-31,"Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154/2023, nos termos do Parecer.",155651,MPV 1154/2023
+6709,37.48,38.52,False,47,76,29,True,True,2023,MPV 1165/2023,2023-06-20,"Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada.",156368,MPV 1165/2023
+6714,44.88,29.12,True,57,74,17,True,True,2023,PLP 93/2023,2023-06-21,"Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques.",157826,PLP 93/2023
+6715,28.89,36.11,False,39,65,26,True,True,2023,PLP 93/2023,2023-06-21,"Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada.",157826,PLP 93/2023
+6716,33.23,35.77,False,48,69,21,True,True,2023,PLP 93/2023,2023-06-21,"Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada.",157826,PLP 93/2023
+6745,25.54,35.46,False,34,61,27,True,True,2023,PL 2384/2023,2023-08-30,"Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação.",158907,PL 2384/2023
+6755,17.68,43.32,False,20,61,41,False,True,2023,REQ 31/2023 - CCJ,2023-09-27,"Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023.",160211,REQ 31/2023 - CCJ
+6756,21.38,42.62,False,21,64,43,False,True,2023,PL 2903/2023,2023-09-27,"Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques.",157888,PL 2903/2023
+6757,20.93,35.07,False,22,56,34,False,True,2023,PL 2903/2023,2023-09-27,"Votação nominal do § 4º do art. 16 do Projeto de Lei nº 2.903, de 2023, destacado.",157888,PL 2903/2023
+6758,19.67,36.33,False,22,56,34,False,True,2023,PL 2903/2023,2023-09-27,"Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado.",157888,PL 2903/2023
+6760,30.3,33.7,False,41,64,23,True,True,2023,PL 2721/2023,2023-10-10,"Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer.",157538,PL 2721/2023
+6761,35.05,34.95,True,46,70,24,True,True,2023,PL 5384/2020,2023-10-24,"Votação nominal do Requerimento nº 950, de 2023, que solicita preferência para que a Emenda nº 8 (Substitutiva) seja apreciada antes do Projeto.",159365,PL 5384/2020
+6768,30.15,40.85,False,37,71,34,True,True,2023,PL 2470/2022,2023-10-31,"Votação nominal do Requerimento 965, de 2023, de adiamento da votação do PL nº 2.470/2022 para 21/11/2023.",154726,PL 2470/2022
+6769,43.57,25.43,True,51,69,18,True,True,2023,PL 4426/2023,2023-11-01,"Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado.",160545,PL 4426/2023
+6772,37.84,34.16,True,48,72,24,True,True,2023,RQS 988/2023,2023-11-07,"Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº 45, de 2019.",160887,RQS 988/2023
+6773,41.23,35.77,True,53,77,24,True,True,2023,PEC 45/2019,2023-11-08,"Votação nominal da Emenda nº 803 (Substitutivo) e das Emendas e Subemendas de Plenário, em primeiro turno, nos termos dos pareceres, ressalvados os destaques.",158930,PEC 45/2019
+6774,30.45,41.55,False,41,72,31,True,True,2023,PEC 45/2019,2023-11-08,"Votação nominal da Emenda nº 805, destacada.",158930,PEC 45/2019
+6776,29.15,41.85,False,39,71,32,True,True,2023,PEC 45/2019,2023-11-08,"Votação nominal da Emenda nº 806, destacada.",158930,PEC 45/2019
+6777,41.23,35.77,True,53,77,24,True,True,2023,PEC 45/2019,2023-11-08,"Votação nominal da Proposta de Emenda à Constituição nº 45, de 2019, nos termos do Parecer, em segundo turno.",158930,PEC 45/2019
+6779,14.76,53.24,False,20,68,48,False,True,2023,RQS 1039/2023,2023-11-21,"Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8/2021.",161174,RQS 1039/2023
+6780,14.76,53.24,False,20,68,48,False,True,2023,PEC 8/2021,2023-11-21,"Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8/2021.",148030,PEC 8/2021
+6781,15.4,54.6,False,18,70,52,False,True,2023,PEC 8/2021,2023-11-22,"Votação nominal da PEC nº 8/2021, Emendas e Subemenda, nos termos dos Pareceres (1º Turno).",148030,PEC 8/2021
+6782,15.4,54.6,False,18,70,52,False,True,2023,PEC 8/2021,2023-11-22,"Votação nominal da Proposta de Emenda à Constituição nº 8/2021, nos termos do Parecer da Comissão Diretora (2º Turno).",148030,PEC 8/2021
+6796,45.45,13.55,True,45,59,14,True,True,2023,RQS 1103/2023,2023-12-12,"Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023.",161568,RQS 1103/2023
+6797,21.32,42.68,False,27,64,37,False,True,2023,PL 3626/2023,2023-12-12,"Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada.",160197,PL 3626/2023
+6798,19.39,48.61,False,23,68,45,False,True,2023,PL 3626/2023,2023-12-12,"Votação nominal da Emenda nº 147 ao Projeto de Lei nº 3.626, de 2023, destacada.",160197,PL 3626/2023
+6799,45.45,13.55,True,45,59,14,True,True,2023,PL 3626/2023,2023-12-12,"Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023.",160197,PL 3626/2023
+6800,28.64,32.36,False,36,61,25,True,True,2023,PL 3626/2023,2023-12-12,"Votação nominal da Emenda nº 157 ao Projeto de Lei nº 3.626, de 2023, destacada.",160197,PL 3626/2023
+6816,35.76,34.24,True,48,70,22,True,True,2023,MPV 1185/2023,2023-12-20,"Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalvado o destaque.",159641,MPV 1185/2023
+6817,28.31,43.69,False,41,72,31,True,True,2023,MPV 1185/2023,2023-12-20,"Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada.",159641,MPV 1185/2023
+6819,20.24,43.76,False,27,64,37,False,True,2024,PL 2253/2022,2024-02-20,"Votação nominal da Emenda nº 8 ao Projeto de Lei nº 2.253, de 2022, destacada.",154451,PL 2253/2022
+6824,8.18,53.82,False,9,62,53,False,True,2024,PEC 45/2023,2024-04-16,"Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno).",160011,PEC 45/2023
+6825,8.03,52.97,False,9,61,52,False,True,2024,PEC 45/2023,2024-04-16,"Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (2º Turno).",160011,PEC 45/2023
+6827,30.79,38.21,False,41,69,28,True,True,2024,PLP 233/2023,2024-05-08,"Votação nominal do Projeto de Lei Complementar nº 233, de 2023, nos termos do parecer, ressalvados os destaques.",163100,PLP 233/2023
+6828,32.34,35.66,False,43,68,25,True,True,2024,PLP 233/2023,2024-05-08,"Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, destacado.",163100,PLP 233/2023
+6829,28.92,35.08,False,39,64,25,True,True,2024,PLP 233/2023,2024-05-08,"Votação nominal da Emenda nº 25 ao Projeto de Lei Complementar nº 233, de 2023, destacada.",163100,PLP 233/2023
+6830,25.2,34.8,False,33,60,27,True,True,2024,PLP 233/2023,2024-05-08,"Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, destacada.",163100,PLP 233/2023
+6832,21.9,41.1,False,33,63,30,True,True,2024,PLP 85/2024,2024-05-15,"Votação nominal da Emenda nº 1 ao Projeto de Lei Complementar nº 85, de 2024, destacada.",163623,PLP 85/2024
+6834,26.73,34.27,False,32,61,29,True,True,2024,RQS 369/2024,2024-05-22,"Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para a votação da Emenda n° 23 (Substitutivo) em relação à Emenda nº 13 (Substitutivo).",163802,RQS 369/2024
+6835,26.73,34.27,False,32,61,29,True,True,2024,PL 1958/2021,2024-05-22,"Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para a votação da Emenda n° 23 (Substitutivo) em relação à Emenda nº 13 (Substitutivo).",148596,PL 1958/2021
+6837,32.91,35.09,False,41,68,27,True,True,2024,PLC 29/2017,2024-06-18,"Votação Nominal do Capítulo XI do Tìtulo I do Substitutivo ao Projeto de Lei da Câmara nº 29, de 2017, destacado.",128831,PLC 29/2017
+6849,49.87,8.13,True,50,58,8,True,True,2024,PL 2308/2023,2024-07-03,"Votação nominal da Emenda nº 26 ao Projeto de Lei nº 2.308, de 2023, destacada.",161391,PL 2308/2023
+6862,43.11,21.89,True,48,65,17,True,True,2024,SCD 6/2016,2024-08-13,"Votação nominal do § 5º do art. 29 do Substitutivo da Câmara dos Deputados nº 6, de 2016, ao PLS nº 135/2010, destacado.",127734,SCD 6/2016
+6873,48.16,17.84,True,51,66,15,True,True,2024,PEC 9/2023,2024-08-14,"Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023, nos termos do parecer (1º turno).",164727,PEC 9/2023
+6874,50.2,19.8,True,54,70,16,True,True,2024,PEC 9/2023,2024-08-14,"Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno).",164727,PEC 9/2023
+6875,21.54,47.46,False,25,69,44,False,True,2024,PL 528/2020,2024-09-04,"Votação nominal da Emenda nº 45 ao Projeto de Lei nº 528, de 2020, destacada.",162696,PL 528/2020
+6877,11.96,56.04,False,16,68,52,False,True,2024,PL 182/2024,2024-11-12,"Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada.",161961,PL 182/2024
+6878,42.82,21.18,True,46,64,18,True,True,2024,PLP 175/2024,2024-11-12,"Votação nominal da Emenda nº 45 (Substitutivo) ao PLP nº 175/2024, nos termos do parecer, ressalvados os destaques.",166053,PLP 175/2024
+6879,13.51,47.49,False,14,61,47,False,True,2024,PLP 175/2024,2024-11-18,"Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados.",166053,PLP 175/2024
+6880,22.8,41.2,False,25,64,39,False,True,2024,PLP 175/2024,2024-11-18,"Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado.",166053,PLP 175/2024
+6898,23.82,44.18,False,28,68,40,False,True,2024,PL 576/2021 (Substitutivo-CD),2024-12-12,"Votação nominal do Art. 21 do texto consolidado pelo parecer ao Substitutivo da CD ao PL nº 576/2021, destacado.",163024,PL 576/2021 (Substitutivo-CD)
+6899,38.12,29.88,True,49,68,19,True,True,2024,PLP 68/2024,2024-12-12,"Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques.",164914,PLP 68/2024
+6900,27.97,37.03,False,33,65,32,True,True,2024,PLP 68/2024,2024-12-12,"Votação nominal da Emenda nº 2.203 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada.",164914,PLP 68/2024
+6901,27.52,34.48,False,33,62,29,True,True,2024,PLP 68/2024,2024-12-12,"Votação nominal da Emenda nº 2.201 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada.",164914,PLP 68/2024
+6902,20.42,40.58,False,24,61,37,False,True,2024,PLP 68/2024,2024-12-12,"Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada.",164914,PLP 68/2024
+6909,33.42,24.58,True,42,58,16,True,True,2024,PL 4932/2024,2024-12-18,"Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada.",166801,PL 4932/2024
+6911,30.13,34.87,False,43,65,22,True,True,2024,PLP 210/2024,2024-12-19,"Votação nominal da Emenda nº 14 ao Projeto de Lei nº 210, de 2024, destacada.",166865,PLP 210/2024
+6912,30.78,39.22,False,46,70,24,True,True,2024,PLP 210/2024,2024-12-19,"Votação nominal da Emenda nº 16 ao Projeto de Lei nº 210, de 2024, destacada.",166865,PLP 210/2024
+6913,29.28,39.72,False,42,69,27,True,True,2024,PLP 210/2024,2024-12-19,"Votação nominal da Emenda nº 20 ao Projeto de Lei nº 210, de 2024, destacada.",166865,PLP 210/2024
+6914,36.99,37.01,False,53,74,21,True,True,2024,PEC 54/2024,2024-12-19,"Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalvado o destaque.",166889,PEC 54/2024
+6915,36.15,33.85,True,48,70,22,True,True,2024,PEC 54/2024,2024-12-19,"Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, destacado.",166889,PEC 54/2024
+6916,38.17,34.83,True,55,73,18,True,True,2024,PEC 54/2024,2024-12-19,"Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024 (2º Turno).",166889,PEC 54/2024
+6917,29.53,43.47,False,42,73,31,True,True,2024,PL 4614/2024,2024-12-19,"Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer.",166895,PL 4614/2024
+6935,10.94,56.06,False,13,67,54,False,True,2025,PL 2159/2021,2025-05-21,"Votação nominal do Projeto de Lei nº 2.159, de 2021, nos termos do parecer de Plenário.",148785,PL 2159/2021
+6937,39.06,18.94,True,42,58,16,True,True,2025,PEC 37/2022,2025-05-27,"Votação nominal da Emenda nº 3 à Proposta de Emenda à Constituição nº 37, de 2022, destacada.",155346,PEC 37/2022
+6954,29.92,24.08,True,37,54,17,True,True,2025,MPV 1291/2025,2025-07-01,"Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado.",167447,MPV 1291/2025
+7008,36.52,40.48,False,49,77,28,True,True,2025,PEC 66/2023 (fase 2),2025-09-02,"Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, destacada.",169614,PEC 66/2023 (fase 2)
+7013,43.87,17.13,True,51,61,10,True,True,2025,PLP 108/2024,2025-09-30,"Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.",166095,PLP 108/2024
+7014,20.88,39.12,False,27,60,33,False,True,2025,PLP 108/2024,2025-09-30,"Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada.",166095,PLP 108/2024
+7016,26.12,27.88,False,36,54,18,True,True,2025,PL 769/2024,2025-10-21,"Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer.",169541,PL 769/2024
+7030,40.12,22.88,True,47,63,16,True,True,2025,PLP 163/2025,2025-12-03,"Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer.",170657,PLP 163/2025
+7031,17.66,51.34,False,21,69,48,False,True,2025,RQS 911/2025,2025-12-09,"Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023.",171945,RQS 911/2025
+7032,11.53,54.47,False,14,66,52,False,True,2025,PEC 48/2023,2025-12-09,"Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer (1º turno).",160148,PEC 48/2023
+7033,12.95,54.05,False,15,67,52,False,True,2025,PEC 48/2023,2025-12-09,"Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretora (2º turno).",160148,PEC 48/2023
+7034,17.66,51.34,False,21,69,48,False,True,2025,PEC 48/2023,2025-12-09,"Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023.",160148,PEC 48/2023
+7041,19.07,53.93,False,25,73,48,False,True,2025,PL 2162/2023,2025-12-17,"Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer.",172003,PL 2162/2023
+7043,41.58,28.42,True,50,70,20,True,True,2025,PLP 128/2025,2025-12-17,"Votação nominal do Art. 7º do Projeto de Lei Complementar nº 128, de 2025, destacado.",172144,PLP 128/2025
+7045,40.46,23.54,True,36,64,28,True,True,2025,PL 2234/2022,2025-12-17,"Votação nominal do Requerimento nº 857, de 2024, que solicita urgência para o Projeto de Lei nº 2.234, de 2022.",154401,PL 2234/2022
+7046,40.46,23.54,True,36,64,28,True,True,2025,RQS 857/2024,2025-12-17,"Solicita urgência para o Projeto de Lei nº 2.234, de 2022",166370,RQS 857/2024
+7095,14.82,53.18,False,17,68,51,False,True,2026,PLP 73/2025,2026-06-16,"Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres.",167850,PLP 73/2025
+7100,14.72,36.28,False,14,51,37,False,True,2026,PLP 18/2021,2026-07-15,"Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 18, de 2021, destacada.",171683,PLP 18/2021
+7103,33.18,29.82,True,43,63,20,True,True,2026,PLP 114/2026,2026-08-12,"Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.",175446,PLP 114/2026
