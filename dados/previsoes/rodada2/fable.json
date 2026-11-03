@@ -1,0 +1,40 @@
+{
+  "modelo": "fable",
+  "perguntas": {
+    "P01": {"p": 85, "taxa_base": "presidente da Câmara reeleito com apoio majoritário declarado: quase sempre", "razao": "Apoio de ~361 cadeiras com PT; PL tende a aderir por comissões; voto secreto e 3 meses são o único risco."},
+    "P02": {"p": 78, "taxa_base": "presidente do Senado reeleito com maioria declarada: alta", "razao": "Diz ter 48 de 41 necessários, União-PP e PT com ele; Marinho só reúne PL e Novo com folga, voto secreto pesa."},
+    "P03": {"p": 50, "taxa_base": "maior bancada entra no bloco vencedor: cerca de metade das vezes", "razao": "Incentivo de comissões empurra para dentro; ser oposição formal e o critério estrito de bloco registrado puxam para fora."},
+    "P04": {"p": 75, "taxa_base": "partidos de centro mantêm ministérios após reeleição: alta", "razao": "Hoje somam cerca de 6 ministros; Kassab deixa filiados; MDB rachado reduz, mas 4 é piso baixo."},
+    "P05": {"p": 58, "taxa_base": "União teve 3 ministérios em 2023 com apoio parcial: comum", "razao": "Filiado individual conta mesmo sem decisão partidária; federação foi para Alcolumbre e Flávio puxa as siglas."},
+    "P06": {"p": 60, "taxa_base": "indicado ao STF aprovado: quase sempre, até 2026", "razao": "Vaga aberta, pressão por nome negociado como Pacheco; direita 48 no Senado e rejeição recente derrubam a quase certeza."},
+    "P07": {"p": 15, "taxa_base": "rejeição ao STF: 2 em 130 anos, 1 recente", "razao": "Exige Lula insistir em nome não negociado; depois de Messias ele tende a negociar antes de indicar."},
+    "P08": {"p": 52, "taxa_base": "Lula III por ano 88, 84, 77, 79; retrato com novos eleitos 77", "razao": "Primeiro ano costuma ser alto, mas Câmara mais à direita e retrato desde jul/2025 dá 70; 75 é a mediana."},
+    "P09": {"p": 18, "taxa_base": "85 ou mais só no 1º ano de 2023 e antes de 2015", "razao": "Retrato com os eleitos nunca passa de 81 em nenhum recorte; exige pêndulo alinhado como em 2023."},
+    "P10": {"p": 14, "taxa_base": "retrato dá 32 a 45; 19 votações em 2 anos", "razao": "Piso de 15 votações num ano é improvável sozinho; com o piso, 50% exige trazer 4 senadores."},
+    "P11": {"p": 85, "taxa_base": "Lula III: 46 vetos derrubados em ~4 anos, cerca de 12 por ano", "razao": "Congresso mais hostil e ritmo de 2025 e 2026; 5 é piso baixo, só um ano sem votação de vetos frustra."},
+    "P12": {"p": 35, "taxa_base": "Lula III 21%; Temer e Bolsonaro 57 a 58", "razao": "Governo reeleito pode editar menos MPs e negociar; Câmara mais à direita mantém a caducidade como arma."},
+    "P13": {"p": 25, "taxa_base": "PEC de governo com 308: só 19% das votações alcançam", "razao": "Tira R$ 12 bi de emendas obrigatórias; Motta quer preservar emendas; popular, mas custa do bolso do deputado."},
+    "P14": {"p": 20, "taxa_base": "anistia ampla a condenado por golpe: sem precedente; dosimetria passou", "razao": "Direita 265 e 48 viabiliza, Alcolumbre discute como troca; centrão prefere redução de pena, que não conta."},
+    "P15": {"p": 15, "taxa_base": "nunca lida em 30 anos de pedidos; depende de quem preside", "razao": "Alcolumbre rejeita (78% de ficar); com Marinho a leitura vira moeda. Média ponderada das duas presidências."},
+    "P16": {"p": 3, "taxa_base": "nenhum impeachment de ministro do STF na história", "razao": "Precisa 54 para condenar e liminar exige 2/3 para abrir; PL conta 49 na melhor hipótese."},
+    "P17": {"p": 8, "taxa_base": "denúncia recebida: 2 em 32 anos, ~6% ao ano", "razao": "Motta aliado e aprovação 48 seguram; economia e Flávio pressionam; Cunha mostra que o presidente da Câmara decide."},
+    "P18": {"p": 3, "taxa_base": "oposição com 342: 11 em 678 votações", "razao": "Esquerda 124 mais 48 do pêndulo barram; só com aprovação de Dilma 2015 e pêndulo inteiro contra."},
+    "P19": {"p": 15, "taxa_base": "Collor e Dilma: 2 de 8 eleitos desde 1990, ~25% por mandato", "razao": "Quatro anos, economia frágil e Congresso de direita sobem; escudo de 172 e aprovação atual descem."},
+    "P20": {"p": 30, "taxa_base": "já marcou 24 em fev/2025 neste mesmo mandato", "razao": "Hoje 35; déficit, Selic 13,75 e queda da bolsa dão caminho; precisa de cerca de 10 pontos em um ano."},
+    "P21": {"p": 60, "taxa_base": "LOA sancionada até março: maioria, mas 2015 e 2025 atrasaram", "razao": "Congresso que sai vota em dezembro; disputa de meta e emendas e troca de Mesas podem empurrar para abril."},
+    "P22": {"p": 45, "taxa_base": "meta mudada no próprio ano: 2014 a 2017, não em Lula III", "razao": "IFI vê R$ 86 bi de déficit contra superávit prometido; Lula chama superávit de babaquice; Congresso cobra do governo."},
+    "P23": {"p": 55, "taxa_base": "CPMI contra ato federal: 2023 e 2025 tiveram", "razao": "Oposição com 143 e direita 265 assinam fácil; instalação depende da Mesa, que já instalou a do INSS."},
+    "P24": {"p": 35, "taxa_base": "delegação americana à posse: praticamente sempre", "razao": "Trump chamou de fraude e não reconheceu até 28/10; mas diz gostar de Lula e midterms podem mudar o tom."},
+    "P25": {"p": 25, "taxa_base": "outro projeto: 14,5% até jun/2027", "razao": "Dobro do horizonte e tarifa já aplicada; Moraes saiu da lista em dez/2025, o que mostra recuo."},
+    "P26": {"p": 30, "taxa_base": "PEC de reforma do Estado em 2 turnos na Câmara: rara em 1º ano", "razao": "Motta patrocina e Câmara mais à direita ajuda; 308 votos e resistência de servidores e PT travam."},
+    "P27": {"p": 8, "taxa_base": "mortalidade de homem de 81 anos ~6%; impeachment em 1 ano ~2%", "razao": "Saúde pesa mais que política neste prazo curto; renúncia improvável com Congresso ainda negociável."},
+    "P28": {"p": 75, "taxa_base": "retrato desde jul/2025 dá 70; Dilma 2015 deu 71", "razao": "Todos os recortes do retrato ficam de 66 a 81; só o cenário de pêndulo igual ao PL fura 70."}
+  },
+  "cenarios": {
+    "C1": 50,
+    "C2": 11,
+    "C3": 30,
+    "C4": 9
+  },
+  "o_que_mudaria": "Marinho vencer Alcolumbre, Datafolha abaixo de 25 com rua, PL fora do bloco de Motta ou déficit de 2027 confirmado sem ajuste: sobem C3 e C4. Nome negociado ao STF aprovado cedo: sobe C2."
+}

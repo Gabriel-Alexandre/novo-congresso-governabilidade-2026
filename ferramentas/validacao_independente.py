@@ -127,18 +127,23 @@ ok("senadores na composicao de 2027", len(A), 81)
 ok("PL no Senado em 2027", (A.partido == "PL").sum(), 28)
 Sn = json.loads((R / "resultados/RESUMO_SENADO.json").read_text(encoding="utf8"))
 ok("Senado: acordo do placar com o resultado oficial acima de 95%", 1, int(Sn["acordo_com_resultado_oficial_pct"] >= 95))
-# MP e veto: conta direta a partir das respostas brutas
-MPV = 0
-LEI = 0
+# MP e veto da rodada 2: conta direta a partir das respostas brutas, sem o codigo do modelo
+R2 = json.loads((R / "resultados/RESUMO.json").read_text(encoding="utf8"))
+ed = lei = 0
 for a in range(2023, 2027):
     for x in json.loads((R / f"dados/brutos/senado/processos/MPV-{a}.json").read_text(encoding="utf8")):
-        MPV += 1
-        d = (x.get("siglaTipoDeliberacao") or "").upper()
-        if "TRANSFORMADA" in (x.get("situacaoAtual") or "").upper() or "APROVADO" in d or (x.get("normaGerada") or "").startswith("Lei"):
-            LEI += 1
-P = json.loads((R / "resultados/RESUMO_PROCESSOS.json").read_text(encoding="utf8"))["por_presidente"]
-ok("MPs editadas em Lula III", P["Lula III"]["mp_editadas"], MPV)
-ok("MPs que viraram lei em Lula III (%)", P["Lula III"]["mp_pct_lei"], round(LEI / MPV * 100, 1), .05)
+        if (x.get("dataApresentacao") or "") >= "2023-01-02":
+            ed += 1
+            s = (x.get("situacaoAtual") or "").upper()
+            d = x.get("siglaTipoDeliberacao") or ""
+            nr = x.get("normaGerada") or ""
+            if ("TRANSFORMADA EM NORMA" in s or nr.startswith("Lei") or d.startswith("APROVADO")) and "SEM EFIC" not in s and "VETADA" not in s and not (x["dataApresentacao"] >= "2026-01-01" and not nr):
+                lei += 1
+ok("MPs editadas em Lula III", R2["mp"]["Lula III"]["editadas"], ed, 1)
+ok("MPs que viraram lei em Lula III", R2["mp"]["Lula III"]["lei"], lei, 1)
+cam = R2["camara"]
+ok("replay total (2023 a 2026), media dos anos pesada", cam["total"]["novo_pct"], round(sum(res["replay_por_ano"][str(a)]["vitoria_replay_pct"] * res["replay_por_ano"][str(a)]["n"] for a in (2023, 2024, 2025, 2026)) / cam["total"]["n"], 1), .1)
+ok("cadeiras somam 513", sum(R2["cadeiras"].values()), 513)
 (R / "resultados/validacao_independente.json").write_text(json.dumps(CHECK, indent=1, ensure_ascii=False, default=str), encoding="utf8")
 f = [c for c in CHECK if not c["passou"]]
 print(len(CHECK), "itens,", len(f), "falharam")

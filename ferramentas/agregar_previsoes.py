@@ -14,9 +14,9 @@ def faixa(p):
     return next(nome for limite, nome in FAIXAS if p <= limite)
 
 
-arq = [json.load(open(a, encoding="utf-8")) for a in sorted(glob.glob(str(PASTA / "rodada1" / "*.json")))]
-perg = list(csv.DictReader(open(PASTA / "perguntas.csv", encoding="utf-8")))
-cen = list(csv.DictReader(open(PASTA / "cenarios.csv", encoding="utf-8")))
+arq = [json.load(open(a, encoding="utf-8")) for a in sorted(glob.glob(str(PASTA / "rodada2" / "*.json")))]
+perg = list(csv.DictReader(open(PASTA / "perguntas_r2.csv", encoding="utf-8")))
+cen = list(csv.DictReader(open(PASTA / "cenarios_r2.csv", encoding="utf-8")))
 S = {"modelos": [a["modelo"] for a in arq], "perguntas": [], "cenarios": []}
 for q in perg:
     v = {a["modelo"]: a["perguntas"][q["id"]]["p"] for a in arq}
@@ -32,7 +32,7 @@ for c in S["cenarios"]:
     print(c["id"], c["cenario"], c["mediana"], c["normalizado"], c["por_modelo"])
 p = {q["id"]: q["mediana"] for q in S["perguntas"]}
 c = {x["id"]: x["normalizado"] for x in S["cenarios"]}
-CO = [("P09 <= P08", p["P09"] <= p["P08"]), ("P18 <= P17", p["P18"] <= p["P17"]), ("P16 <= P15", p["P16"] <= p["P15"]), ("C2 <= P09", c["C2"] <= p["P09"]), ("C4 >= P17", c["C4"] + 1e-9 >= p["P17"] - 1), ("soma cenarios ~100", abs(sum(c.values()) - 100) < .5)]
+CO = [("P09 <= P08", p["P09"] <= p["P08"]), ("P18 <= P17", p["P18"] <= p["P17"]), ("P16 <= P15", p["P16"] <= p["P15"]), ("P08 <= P28", p["P08"] <= p["P28"]), ("C2 <= P09", c["C2"] <= p["P09"]), ("C4 >= P17 - 1", c["C4"] + 1e-9 >= p["P17"] - 1), ("soma cenarios ~100", abs(sum(c.values()) - 100) < .5)]
 S["coerencia"] = [{"teste": a, "passou": bool(b)} for a, b in CO]
 print(CO)
 S["discordancia_media_pontos"] = round(statistics.mean(q["maior"] - q["menor"] for q in S["perguntas"]), 1)

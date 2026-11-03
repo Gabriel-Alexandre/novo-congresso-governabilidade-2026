@@ -190,16 +190,30 @@
  },
  {
   "item": "MPs editadas em Lula III",
-  "modelo": 245,
-  "refeito": 245,
-  "tol": 0.0,
+  "modelo": 244,
+  "refeito": 244,
+  "tol": 1,
   "passou": true
  },
  {
-  "item": "MPs que viraram lei em Lula III (%)",
-  "modelo": 22.4,
-  "refeito": 22.4,
-  "tol": 0.05,
+  "item": "MPs que viraram lei em Lula III",
+  "modelo": 52,
+  "refeito": 52,
+  "tol": 1,
+  "passou": true
+ },
+ {
+  "item": "replay total (2023 a 2026), media dos anos pesada",
+  "modelo": 81.4,
+  "refeito": 81.4,
+  "tol": 0.1,
+  "passou": true
+ },
+ {
+  "item": "cadeiras somam 513",
+  "modelo": 513,
+  "refeito": 513,
+  "tol": 0.0,
   "passou": true
  }
 ]

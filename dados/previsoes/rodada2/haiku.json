@@ -1,0 +1,152 @@
+{
+  "modelo": "haiku",
+  "perguntas": {
+    "P01": {
+      "p": 80,
+      "taxa_base": "Presidente da Câmara com bloco amplo costuma ser reeleito (cerca de 80%).",
+      "razao": "Motta tem cerca de 361 cadeiras de apoio, PT incluído; o risco é o PL decidir não apoiá-lo em 03/nov."
+    },
+    "P02": {
+      "p": 68,
+      "taxa_base": "Presidente do Senado no cargo tende a se reeleger (cerca de 70%).",
+      "razao": "Alcolumbre diz ter 48 votos e União-PP foi para ele; PL lança Marinho em 04/nov, e o voto é secreto."
+    },
+    "P03": {
+      "p": 30,
+      "taxa_base": "Apoio à Mesa sem bloco formal é o caso comum; bloco formal com partido grande é menos frequente (cerca de 30%).",
+      "razao": "PL tende a apoiar Motta para não perder comissões, mas decide só em 03/nov, e só vale registro formal."
+    },
+    "P04": {
+      "p": 50,
+      "taxa_base": "Sem contagem atual no dossiê; o ponto de partida é meio a meio.",
+      "razao": "Kassab diz que o PSD deixa filiados no governo; o MDB está rachado, com 17 diretórios com Flávio e 10 com Lula."
+    },
+    "P05": {
+      "p": 40,
+      "taxa_base": "Em 2023 a União teve 3 ministérios; a contagem atual não está no dossiê.",
+      "razao": "União-PP foi para Alcolumbre em 27/out, sinal de afastamento. Basta um ministro filiado, sem decisão formal do partido."
+    },
+    "P06": {
+      "p": 49,
+      "taxa_base": "Indicação ao STF costuma ser aprovada; rejeição é rara, mas Messias foi rejeitado em abr/2026.",
+      "razao": "A vaga de Barroso segue aberta e o Senado está hostil. Os 14 meses dão tempo para nova indicação e votação."
+    },
+    "P07": {
+      "p": 15,
+      "taxa_base": "Rejeição de indicado ao STF foi rara: 1894 e 2026, quase zero por ano.",
+      "razao": "Depende de quem Lula indicar e de a maioria do Senado fechar; o precedente de 2026 eleva o risco acima da base."
+    },
+    "P08": {
+      "p": 50,
+      "taxa_base": "Real: 77,7% das disputadas em 2025-26, 71,1% desde jul/2025, 82% no mandato todo.",
+      "razao": "Pêndulo e queda desde 2023 puxam para baixo; 2027 ser primeiro ano de legislatura puxa para cima. Corte perto da mediana."
+    },
+    "P09": {
+      "p": 14,
+      "taxa_base": "Só 2023 passou de 85% no mandato atual (88,3%); 2024 deu 84%, e 2025-26 ficaram em 77 a 79%.",
+      "razao": "Passar de 85% exige um ano com pêndulo alinhado ao governo, como 2023; o dossiê não traz sinal disso para 2027."
+    },
+    "P10": {
+      "p": 25,
+      "taxa_base": "No Senado, o governo venceu 66,3% das disputadas em 2023-26, mas só 19 votações em 2025-26.",
+      "razao": "Abaixo de 15 votações em 2027 resolve não; acima, a queda recente de votos com o governo aproxima a conta de 50%."
+    },
+    "P11": {
+      "p": 80,
+      "taxa_base": "Lula III: 46 de 89 vetos decididos tiveram algo derrubado (52%).",
+      "razao": "Ritmo de 46 em cerca de 3 anos e meio dá mais de 5 em 2027, desde que o Congresso vote os vetos no ano."
+    },
+    "P12": {
+      "p": 18,
+      "taxa_base": "MPs de Lula III viraram lei em 21%; Temer e Bolsonaro ficaram perto de 57%.",
+      "razao": "Abaixo do corte de 30% no mandato atual; 154 MPs perderam a validade. O padrão recente pesa mais que o de antigos governos."
+    },
+    "P13": {
+      "p": 10,
+      "taxa_base": "PEC de grande mudança raramente é promulgada em 14 meses (cerca de 10%).",
+      "razao": "Motta apoia a gratuidade, mas a PEC tira cerca de R$ 12 bi de emendas obrigatórias, que o Congresso quer preservar."
+    },
+    "P14": {
+      "p": 20,
+      "taxa_base": "Anistia a 8 de janeiro sem precedente no dossiê; a dosimetria teve veto derrubado por 318 a 144.",
+      "razao": "Alcolumbre trata anistia como troca; a Câmara tem maioria de direita, mas precisa das duas Casas e o veto pesa."
+    },
+    "P15": {
+      "p": 12,
+      "taxa_base": "Nenhum impeachment de ministro do STF na história; taxa-base quase zero.",
+      "razao": "Alcolumbre rejeita o pedido contra Moraes; a chance sobe só se outro presidente, como Marinho, assumir a Mesa."
+    },
+    "P16": {
+      "p": 2,
+      "taxa_base": "Nenhum ministro do STF foi condenado por impeachment; exige 54 votos.",
+      "razao": "PL e Novo somam 31 senadores; faltam 23 de fora da direita para chegar a 54 em 14 meses."
+    },
+    "P17": {
+      "p": 3,
+      "taxa_base": "Collor e Dilma tiveram denúncia recebida em 32 anos: cerca de 6% ao ano.",
+      "razao": "Até 30/out não há pedido com autor identificado; a piora econômica pesa, mas sem autor o despacho não tem base."
+    },
+    "P18": {
+      "p": 1,
+      "taxa_base": "Só Collor e Dilma chegaram à autorização de 2/3, sempre depois do recebimento.",
+      "razao": "Depende de P17 antes e de 342 votos, quase todo o centro e a direita, o que o dossiê não mostra."
+    },
+    "P19": {
+      "p": 4,
+      "taxa_base": "Presidentes eleitos derrubados na América do Sul desde 1978: 23% no total (Hochstetler).",
+      "razao": "Queda ligada a aprovação baixa com as ruas; Lula tem 48 a 45, mas a economia piora. Os 4 anos pesam para cima."
+    },
+    "P20": {
+      "p": 13,
+      "taxa_base": "Datafolha: ótimo/bom de Lula foi 24% em fev/2025 e 35% em 15/out/2026.",
+      "razao": "Queda de 10 pontos em 14 meses pede choque grave; Ibovespa -13,88% e IPCA acima do teto ajudam, mas não é o padrão."
+    },
+    "P21": {
+      "p": 72,
+      "taxa_base": "LOA costuma sair em janeiro ou fevereiro; anos de troca de Congresso são mais lentos (cerca de 70%).",
+      "razao": "PLOA 2027 traz R$ 44,8 bi em emendas obrigatórias; as Mesas só são eleitas em 01/02, o que pode empurrar para março."
+    },
+    "P22": {
+      "p": 20,
+      "taxa_base": "Meta fiscal alterada pelo Congresso não é anual; base de memória, sem fonte no dossiê (cerca de 20%).",
+      "razao": "IFI prevê déficit de R$ 86,1 bi em 2027, e o governo projeta superávit de R$ 18,6 bi."
+    },
+    "P23": {
+      "p": 58,
+      "taxa_base": "CPIs são frequentes no Congresso; o PL sozinho tem 28 senadores, acima do terço de 27.",
+      "razao": "No Senado, pedir CPI exige 27 assinaturas; a instalação depende da Mesa, que Alcolumbre controla."
+    },
+    "P24": {
+      "p": 35,
+      "taxa_base": "Em regra os EUA anunciam delegação à posse presidencial (taxa-base alta, cerca de 70%).",
+      "razao": "Trump disse “I like Lula” e “I won’t get involved”; EUA não reconheceram até 28/out e o embaixador não tem aval do Brasil."
+    },
+    "P25": {
+      "p": 12,
+      "taxa_base": "Sanção nominal americana a autoridade brasileira: caso de 2025 (Moraes), retirado da lista em dez/2025.",
+      "razao": "Tarifa de 25% desde 22/jul/2026 mantém atrito; a fala de Trump sobre Lula é mais branda."
+    },
+    "P26": {
+      "p": 8,
+      "taxa_base": "PEC de reforma administrativa aprovada em 2 turnos na Câmara é raro em 14 meses (cerca de 8%).",
+      "razao": "O dossiê não traz a tramitação; a pauta de 2027 tem tarifa zero e emendas, o que disputa espaço."
+    },
+    "P27": {
+      "p": 7,
+      "taxa_base": "Mortalidade anual de homem de 81 anos fica perto de 6 a 7%; saída por qualquer causa segue a mesma ordem.",
+      "razao": "A idade pesa; o dossiê não traz quadro de saúde atual, então a conta fica perto da taxa-base."
+    },
+    "P28": {
+      "p": 72,
+      "taxa_base": "Real: 71,1% desde jul/2025 e 77,7% em 2025-26; o limiar de 70 fica perto da mediana recente.",
+      "razao": "O primeiro ano de legislatura puxa para cima; a queda desde 2023 e o pêndulo puxam para baixo."
+    }
+  },
+  "cenarios": {
+    "C1": 52,
+    "C2": 8,
+    "C3": 36,
+    "C4": 4
+  },
+  "o_que_mudaria": "Mudaria se: o PL fechar bloco formal com Motta antes de fev/2027; a Câmara abrir 2027 com menos de 70% nas primeiras 30 votações; ou aparecer pedido de impeachment de Lula com autor identificado."
+}

@@ -1,0 +1,152 @@
+{
+ "modelo": "sonnet",
+ "perguntas": {
+  "P01": {
+   "p": 92,
+   "taxa_base": "Presidentes da Câmara apoiados pela maioria ganham quase sempre; Cunha 2015 foi exceção de outro tipo",
+   "razao": "Partidos com cerca de 361 cadeiras, PT incluído, apoiam Motta; sem rival visível. Voto secreto e Câmara mais à direita deixam pequeno risco."
+  },
+  "P02": {
+   "p": 80,
+   "taxa_base": "Presidente do Senado em exercício que busca reeleição costuma vencer",
+   "razao": "Alcolumbre diz ter 48 votos e tem União-PP; PL lança Marinho, e a direita tem 48 cadeiras com voto secreto. Rival real, mas favorito."
+  },
+  "P03": {
+   "p": 45,
+   "taxa_base": "Maior partido da oposição ora fica em bloco próprio, ora integra o do presidente, conforme comissões",
+   "razao": "PL decide em 03/nov e tende a apoiar Motta para não perder comissões; apoio sem bloco formal vale não, então fica abaixo de 50."
+  },
+  "P04": {
+   "p": 35,
+   "taxa_base": "Governos reeleitos com PSD e MDB racham; em 2023 eram 6 ministros somados",
+   "razao": "Kassab fala em sem submissão, MDB rachado (17 diretórios com Flávio). Lula quer contar votos antes de dar cargo; quatro filiados é limiar alto."
+  },
+  "P05": {
+   "p": 35,
+   "taxa_base": "Em 2023 União teve 3 ministérios e PP 1; depois saíram",
+   "razao": "Filiado individual conta sem decisão do partido, mas União-PP foi para Alcolumbre e Lula só dá cargo contra votos medidos."
+  },
+  "P06": {
+   "p": 58,
+   "taxa_base": "Vaga no STF costuma ser preenchida em até um ano; rejeição só ocorreu uma vez, em 2026",
+   "razao": "Vaga de Barroso aberta, apostas em Pacheco, nome de consenso. Após a derrota de Messias, Lula pode demorar e a indicação ficar para 2028."
+  },
+  "P07": {
+   "p": 9,
+   "taxa_base": "Uma rejeição em 130 anos, em 2026; precisa de indicação enviada e votada",
+   "razao": "Precedente recente de Messias torna possível, mas Lula tende a mandar nome seguro como Pacheco. Exige indicação e votação em 2027."
+  },
+  "P08": {
+   "p": 50,
+   "taxa_base": "Vitória nas disputadas: 88,3, 84,0, 77,3 e 79,2 por ano; 70,3 desde jul/2025",
+   "razao": "Primeiro ano tem lua de mel, mas Câmara mais à direita e economia ruim. Retrato de 77 a 81; mediana perto de 75."
+  },
+  "P09": {
+   "p": 14,
+   "taxa_base": "Só 2007, 2011, 2019 e 2023 passaram de 85, todos em lua de mel ou com base",
+   "razao": "Nenhum ano do Lula III desde 2024 passou de 85; alinhamento do pêndulo caiu de 73 para 65. Precisaria de choque de unidade."
+  },
+  "P10": {
+   "p": 15,
+   "taxa_base": "Votações abertas disputadas no Senado: cerca de 21 por ano, só 19 em 2025-26 juntas; vitória real 66%",
+   "razao": "Piso de 15 provavelmente não é atingido, e o retrato com o Senado novo dá 30 a 45%. Resolve não sem o piso."
+  },
+  "P11": {
+   "p": 80,
+   "taxa_base": "Lula III teve 46 vetos com algo derrubado em 89 decididos, perto de 11 por ano",
+   "razao": "Congresso mais à direita; dosimetria, licenciamento e IOF já caíram. Cinco derrubadas em 2027 é limiar baixo para esse histórico."
+  },
+  "P12": {
+   "p": 20,
+   "taxa_base": "MPs viraram lei em 21% no Lula III e 57 a 91% antes",
+   "razao": "Sem crédito extraordinário dá 20% no Lula III; pular para 30 pede mudança de padrão que não aparece nos dados."
+  },
+  "P13": {
+   "p": 22,
+   "taxa_base": "Poucas PECs são promulgadas em um ano; as populares passam rápido, como a 6x1",
+   "razao": "Motta apoia a gratuidade, mas a PEC tira cerca de R$ 12 bi de emendas obrigatórias, que ele quer preservar. Quatro votações exigidas."
+  },
+  "P14": {
+   "p": 15,
+   "taxa_base": "Anistia ampla ficou parada desde 2023; passou só a redução de pena (dosimetria), com derrubada de veto",
+   "razao": "Alcolumbre discute anistia como troca, direita tem 265 e 48. Mas Motta não pautou, STF derrubaria e a dosimetria já atendeu parte da demanda."
+  },
+  "P15": {
+   "p": 11,
+   "taxa_base": "Nenhum impeachment de ministro do STF na história; 109 pedidos sem leitura",
+   "razao": "Só vira real se Marinho vencer no Senado (cerca de 20%), e a liminar de Gilmar pede 2/3. Alcolumbre rejeita o impeachment de Moraes."
+  },
+  "P16": {
+   "p": 2,
+   "taxa_base": "Nenhum ministro do STF condenado ou afastado por impeachment",
+   "razao": "Exige instaurar o processo e 54 votos; PL conta 49 com Flávio eleito na premissa, que não se confirmou. Afastamento praticamente não ocorre em 2027."
+  },
+  "P17": {
+   "p": 4,
+   "taxa_base": "Presidente eleito com denúncia recebida: Collor e Dilma, 2 em 32 anos, cerca de 6% ao ano",
+   "razao": "Motta é aliado, PT o apoia, e não há pedido novo com autor identificado. Aprovação 48%. Crise econômica e rua podem elevar um pouco."
+  },
+  "P18": {
+   "p": 1,
+   "taxa_base": "Só Collor e Dilma passaram de 342 na Câmara",
+   "razao": "Barrar exige 172; Lula tem 124 consistentes mais condicionados. Chegar a 342 contra presidente recém-reeleito, com Diap de 143 na oposição, é remoto."
+  },
+  "P19": {
+   "p": 5,
+   "taxa_base": "Cerca de 6% ao ano de risco; 23% dos presidentes eleitos da América do Sul caíram desde 1978",
+   "razao": "Quatro anos, mas queda exige aprovação baixa com rua e sem escudo. Lula tem 124 consistentes, condicionados e o PT na mesa. Saúde não conta."
+  },
+  "P20": {
+   "p": 18,
+   "taxa_base": "Datafolha ótimo ou bom de Lula: 24% em fev/2025, 35% em out/2026",
+   "razao": "Precisa cair 11 pontos. Lua de mel ajuda, mas inflação acima do teto, Selic alta e Ibovespa em queda arriscam um cenário Dilma 2015."
+  },
+  "P21": {
+   "p": 93,
+   "taxa_base": "LOA costuma ser sancionada em janeiro; a de 2025 atrasou até abril por disputa de emendas",
+   "razao": "Votação em dezembro pelo Congresso atual e sanção rápida; risco de atraso por emendas obrigatórias de R$ 44,8 bi e fricção com o Congresso novo."
+  },
+  "P22": {
+   "p": 20,
+   "taxa_base": "A meta fiscal foi alterada em 2024 para 2025 e 2026 pela LDO, não dentro do ano",
+   "razao": "IFI vê déficit de R$ 86,1 bi contra superávit de R$ 18,6 bi do governo, mas Guimarães diz que ajuste não está em discussão."
+  },
+  "P23": {
+   "p": 30,
+   "taxa_base": "CPMI do INSS em 2025 e CPMI do 8 de janeiro em 2023; CPIs contra o governo dependem do presidente da Casa",
+   "razao": "Direita maior, Master e INSS como objetos, mas Motta e Alcolumbre seguram instalações e o PL negocia comissões em vez de CPIs."
+  },
+  "P24": {
+   "p": 35,
+   "taxa_base": "Trump costuma mandar delegação a posses de aliados; posse de adversário é incerta",
+   "razao": "Trump chamou a eleição de rigged, mas disse gostar de Lula e não se envolver. EUA não reconheceram até 28/out; exige anúncio formal."
+  },
+  "P25": {
+   "p": 18,
+   "taxa_base": "Moraes saiu da lista de sanções em dez/2025; outro projeto deu 14,5% até jun/2027",
+   "razao": "Tarifa de 25% e Flávio em Miami elevam o risco, mas Trump diz não se envolver e houve reaproximação. Prazo vai até dez/2027."
+  },
+  "P26": {
+   "p": 18,
+   "taxa_base": "PEC de grande reforma raramente passa em 2 turnos na Câmara em um ano",
+   "razao": "Motta e a direita querem, mas reforma administrativa provoca resistência de servidores e do governo, e há disputas de Mesa e orçamento primeiro."
+  },
+  "P27": {
+   "p": 7,
+   "taxa_base": "Risco anual de saída anômala de presidente: cerca de 3 a 6% político, mais saúde de idoso de 81 anos",
+   "razao": "Soma risco político (cerca de 4%) e saúde de Lula aos 81, que teve hemorragia cerebral em 2024. Fica acima de P17."
+  },
+  "P28": {
+   "p": 74,
+   "taxa_base": "Média de vitórias nas disputadas: 77,3 em 2025, 79,2 em 2026; 70,3 desde jul/2025",
+   "razao": "Retrato 81,4 e primeiro ano de mandato. Câmara mais à direita pesa, mas 70% fica abaixo da mediana esperada."
+  }
+ },
+ "cenarios": {
+  "C1": 57,
+  "C2": 9,
+  "C3": 30,
+  "C4": 4
+ },
+ "o_que_mudaria": "Marinho vencendo no Senado, PL fora do bloco de Motta, pedidos de impeachment de Lula com autor identificado, queda forte do Datafolha ou fiscal estourando elevariam C3 e C4; aliança PSD-MDB no governo elevaria C2."
+}
